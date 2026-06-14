@@ -6,10 +6,8 @@
 
 可查看申前必读、所需文件等详细信息。此外，网页下方有**学生签证申请系统**链接。如有需要，也可查阅：
 
-* [官方签证系统使用指南](https://studentvisaapp.hku.hk/sites/default/files/public-uploads/Step%20By%20Step%20Guide_ML_0.pdf)
 * [“申办学生签证的流程及常见问题” 简介](https://studentvisaapp.hku.hk/sites/default/files/public-uploads/HKU%20Visa%20Application%20Seminar%202026_ML_20260609.pdf)
-
-官方常见问题与解答：[https://www.studentvisa.hku.hk/student-visa-faq](https://www.studentvisa.hku.hk/student-visa-faq)
+* [官方常见问题与解答](https://www.studentvisa.hku.hk/student-visa-faq)
 
 在签证处理过程当中，遇到任何问题都可以参考这些网页。
 

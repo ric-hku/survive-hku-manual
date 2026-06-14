@@ -20,9 +20,9 @@ description: 欢迎来到香港大学！
 
 大部分新生需要的信息，都能在这里找到。这里的内容包括但不限于：
 
-* [拿到正式 Offer 后要做什么](freshman-guide/to-do-list.md)
-* [签证办理指南](freshman-guide/visa/)
-* [申请宿舍指南](freshman-guide/hall-selection/)
+* [拿到 Offer 后要做什么](freshman-guide/to-do-list.md)
+* [签证指南](freshman-guide/visa/)
+* [宿舍指南](freshman-guide/hall-selection/)
 * [Master Registration 指南](freshman-guide/master-registration-guide.md)
 * [香港身份证办理指南](freshman-guide/hkid-application-guide.md)
 * [选课指南](freshman-guide/course-selection/)
@@ -92,4 +92,3 @@ description: 欢迎来到香港大学！
 > 持续发光发热\
 > 广大学识彰显我校训\
 > 风大浪急不改我校训
-

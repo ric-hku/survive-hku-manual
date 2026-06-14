@@ -12,7 +12,7 @@ description: 入学重要事项办理时间线
 
 {% stepper %}
 {% step %}
-### 6 月末 – 7 月：
+### 6 月末 – 7 月
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
   * 官方教程（英文）：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
@@ -23,7 +23,7 @@ description: 入学重要事项办理时间线
 {% endstep %}
 
 {% step %}
-### 8 月上旬 – 中旬：
+### 8 月上旬 – 中旬
 
 * 收到 Welcome Email；根据其中要求，**依次**完成：
   * （获得账号信息后）[**Master Registration**](master-registration-guide.md)**（主注册 / 正式注册）**；
@@ -34,14 +34,14 @@ description: 入学重要事项办理时间线
 {% endstep %}
 
 {% step %}
-### 8 月下旬：
+### 8 月下旬
 
 * **正式选课**；
 * 参加**迎新营（Orientation Camp，O Camp）**&#x7B49;迎新活动。
 {% endstep %}
 
 {% step %}
-### 8 月末 – 9 月初：
+### 8 月末 – 9 月初
 
 * 申请、办理[**香港居民身份证（HKID）**](hkid-application-guide.md)；
 * 领取**学生证**；
@@ -49,14 +49,14 @@ description: 入学重要事项办理时间线
 {% endstep %}
 
 {% step %}
-### 9 月上旬：
+### 9 月上旬
 
 * （Add/Drop Period 期间）**选课、加课、退课**；
 * 办理**学生八达通。**
 {% endstep %}
 
 {% step %}
-### 9 月中下旬：
+### 9 月中下旬
 
 * 缴纳**学费、住宿费**。
 {% endstep %}

@@ -4,6 +4,8 @@ description: RIC 欢迎你的加入！
 
 # RIC 介绍
 
+> 让无力者有力，让悲观者前行。
+
 同学你好呀！香港大学内地本科生权益保障组（Rights and Interests Committee，RIC）很高兴与你相遇！我们的职能有：
 
 * 保障内地本科生权益
@@ -88,9 +90,9 @@ description: RIC 欢迎你的加入！
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 4 月 3 日。
+本文基于原新生群文件《1.2 RIC介绍》编写而成。
 
-> _让无力者有力，让悲观者前行。_
+最后更新于 2026 年 4 月 3 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 

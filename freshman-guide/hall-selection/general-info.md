@@ -1,5 +1,6 @@
 ---
 description: 帮你找出最适合你的宿舍！
+hidden: true
 ---
 
 # 宿舍选择综合指南
@@ -108,7 +109,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 {% hint style="warning" %}
 注意：这里所说的 “本地学生（Local Students）” 、 “非本地学生（Non-local Students）” 与出生地、居住地、成长经历所在地等均无关，而只与 **身份（Status）**&#x6709;关。
 
-有关其具体定义，请阅读：[本地及非本地学生的定义](../../appendices/definition-local.md)。
+有关其具体定义，请阅读：[本地及非本地学生的定义](../../appendices/local-definition.md)。
 {% endhint %}
 
 ***
@@ -188,7 +189,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 ## 三、常见问题与解答
 
-### 1. 宿舍一般是几人间？
+### Q1. 宿舍一般是几人间？
 
 **新生入住的通常是双人间（除非宿舍只有单人间）。**
 
@@ -200,7 +201,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 大学堂有**双人间、三人间、四人间**。
 
-### 2. 住宿费多少？如何交？什么时候交？有没有其他费用？
+### Q2. 住宿费多少？如何交？什么时候交？有没有其他费用？
 
 关于住宿费具体数额，请查阅 [2025 – 26 年度住宿费](2025-26-lodging-fees.md)。
 
@@ -212,7 +213,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 除了住宿费，同学还需支付一些其他的杂项费用，如**学生组织（Students' Association）费用**、**高桌晚宴（High Table Dinner）费用**等。此外，**空调（冷气）**、**洗衣机**、**烘干机**等按实际使用量收取的费用，也需要单独支付（热水不单独收费）。
 
-### 3. 在宿舍中如何解决就餐问题？
+### Q3. 在宿舍中如何解决就餐问题？
 
 **大学堂、利玛窦宿舍、圣约翰学院**有自己的强制性餐食计划（“饭票”），需要单独付费购买。
 
@@ -224,7 +225,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 如果想自己做饭，所有宿舍基本上都有自己的 Pantry（共用厨房），里面会有基本的厨具和调料，可以直接在里面做饭。当然，原材料要自己去超市或街市购买。
 
-### 4. 宿舍有什么样的设施和服务？
+### Q4. 宿舍有什么样的设施和服务？
 
 * **设施**：
   * 公共区域，包括多功能厅、活动室、讨论室等；有的宿舍还有健身房、音乐室、舞蹈室、露台或户外区域等活动区域。（学生公寓 Student Flats 没有类似的公共区域。）
@@ -243,7 +244,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 具体设施，详见 [CEDARS 的官方介绍网页](https://housing.cedars.hku.hk/university-accommodation/residence-options)，或本手册 [各宿舍详细介绍](hall-details.md) 这部分的内容。
 {% endhint %}
 
-### 5. 什么时候申请宿舍？在哪里申请？
+### Q5. 什么时候申请宿舍？在哪里申请？
 
 * **非本地身份新生**：
   * **申请方式**：在 [Residence Application](https://housing.cedars.hku.hk/university-accommodation/residence-application/new-undergraduate-students/non-local-students) 页面中，选择 New Undergraduate Students > Non-local Students > Apply Now，打开申请表。
@@ -256,7 +257,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
   * **接受 Offer 时间**：2026 年 8 月 17 - 18 日；
   * 提出 Appeal 时间：2026 年 8 月 17 - 20 日。
 
-### 6. 宿舍招收新生的标准是什么？
+### Q6. 宿舍招收新生的标准是什么？
 
 明确标准通常不会公布，但根据 RIC 对以往结果的观察，可能有以下几个：
 
@@ -267,11 +268,11 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 要注意合理分配自己的志愿，比如希望住得近一些的同学可以由近到远挑选，不要全都报校内和一村；如果申请人在几个志愿中选择了比较冷门的宿舍（如黄竹坑），则被分配过去的可能性或许更大。
 
-### 7. 申请宿舍后需要面试吗？
+### Q7. 申请宿舍后需要面试吗？
 
 **圣约翰学院**基本会有**线上面试**，需要提前做好准备。**其他宿舍通常不需要。**
 
-### 8. 什么时候能住在宿舍？
+### Q8. 什么时候能住在宿舍？
 
 宿舍申请通过后，得到的 Offer 里会说明住宿时间段，**一般为一整年**。因此，在这段时间里，**无论是否放假**（含寒假、春节假期等，**不含暑假**），都可以住在宿舍，也**不需要在离开时清空个人物品**。
 

@@ -6,8 +6,7 @@
 
 1. [签证申请详细指南](overall-guide.md)
 2. [ID995A 表格填写指南](id995a-guide.md)
-3. 123
-4. [往来港澳通行证、逗留签注办理指南](exit-entry-permit.md)
+3. [往来港澳通行证、逗留签注办理指南](exit-entry-permit.md)
 
 ## 一、官方网站
 

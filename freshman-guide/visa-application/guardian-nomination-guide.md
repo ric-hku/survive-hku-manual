@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Letter of Guardian Nomination 填写指南
 
 适用人群：开学当天（2025 年 9 月 1 日）仍未成年的同学。

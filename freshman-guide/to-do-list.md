@@ -16,7 +16,7 @@ description: 入学重要事项办理时间线
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
   * 官方教程（英文）：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
-* 申请[**入境许可（签证）**](visa-application/)；
+* 申请[**签证（入境许可）**](visa-application/)；
   * 由于申请程序用时可能较长，建议**尽早**开始申请。
 * **（非本地生）**[**选择、申请宿舍**](hall-selection/)**。**
   * 由于宿位有限，建议**尽早**完成申请。

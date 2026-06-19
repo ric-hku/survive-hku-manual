@@ -254,7 +254,7 @@ AO 联系方式：[https://www.studentvisa.hku.hk/contact-us](https://www.studen
 根据系统要求，上传所需文件的电子版：
 
 1. 香港入境事务处申请来港就读申请表格（**ID995A**）
-   * 具体填写方法及注意事项，详见 [ID995A 表格填写指南](id995a-guide.md)。
+   * 具体填写方法及注意事项，详见：[ID995A 表格填写指南](id995a-guide.md)。
 2. **申请来港就读声明**（Declaration of Entry for study in Hong Kong）：[点击下载](https://studentvisaapp.hku.hk/sites/default/files/public-uploads/01-0324_Declaration%20for%20Entry%20of%20study%20in%20HK.pdf)
 3. 香港大学&#x7684;**《录取通知书》**（Offer of Admission）&#x6216;**《有条件录取通知书》**（Conditional Offer of Admission），以及：
    * **已签署的回执**（Signed Reply Slip），或
@@ -267,7 +267,7 @@ AO 联系方式：[https://www.studentvisa.hku.hk/contact-us](https://www.studen
 7. **财产证明（Financial Proof）**
    * 如果之前选择了 **I will support myself**，财产证明须为**自己名下**。
    * 如果之前选择了 **I have a financial sponsor**，财产证明可以为**财务担保人（父母）名下**。同时，需要在系统对应位置上传：
-     * 由**财务担保人（父母）**&#x7B7E;署的**财务担保人声明书（Financial Sponsor's Supporting Letter）**，可在系统中下载；
+     * 由**财务担保人（父母）**&#x7B7E;署的**财务担保人声明书（Financial Sponsor's Supporting Letter）**：[点击下载](https://studentvisaapp.hku.hk/sites/default/files/public-uploads/02-0624_Financial%20Sponsor%26%23039%3Bs%20Supporting%20Letter.pdf)
      * **财务担保人（父母）的户口簿信息页**。
    * 根据 AO 官网，入境事务处将对财产证明有严格要求。申请人或其财政资助人须有足够能力支付学费和留港日常生活费用。申请人须提交**下列其中一项文件**作为财政证明：
      1. 流动资产证明；

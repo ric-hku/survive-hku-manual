@@ -205,7 +205,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 关于住宿费具体数额，请查阅 [2025 – 26 年度住宿费](2025-26-lodging-fees.md)。
 
-关于缴费方法，请参考本手册中的[缴费指南](../campus-life/payment-instructions.md)；或参考学校发送的账单（Invoice）中的指示。
+关于缴费方法，请参考本手册中的[缴费指南](../../campus-life/payment-instructions.md)；或参考学校发送的账单（Invoice）中的指示。
 
 账单会由学校有关部门发送至同学的 **学校邮箱** 和 **HKU Portal**。
 

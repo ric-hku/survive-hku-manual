@@ -38,7 +38,7 @@ description: 如何优雅地交学费 / 住宿费～
 
 使用**手机内相机**或**二维码阅读器**扫描以下二维码：
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="98"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt="" width="98"><figcaption></figcaption></figure>
 
 或浏览网页 [https://studentpay.hku.hk/](https://studentpay.hku.hk/)。
 
@@ -81,7 +81,7 @@ description: 如何优雅地交学费 / 住宿费～
 {% step %}
 #### 使用工行 App 内的扫一扫功能，扫描二维码
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="169"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt="" width="169"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -334,7 +334,7 @@ description: 如何优雅地交学费 / 住宿费～
 一般来说，非本地学生的学费是以入学年度的为准；本地学生的则以当下年度的为准。也就是说：如果将来学费发生变化，**非本地学生的学费保持与入学年度的一样**；**本地学生的则随之变化**。
 
 {% hint style="info" %}
-有关**本地学生**的定义，请参阅 [本地及非本地学生的定义](../../appendices/local-definition.md)。
+有关**本地学生**的定义，请参阅 [本地及非本地学生的定义](../appendices/local-definition.md)。
 {% endhint %}
 
 **学费**（及其他费用）的缴费安排如下：
@@ -360,7 +360,7 @@ description: 如何优雅地交学费 / 住宿费～
 必要时，请咨询财务及企业管理处（FEO）：[feo\_student@hku.hk](mailto:feo_student@hku.hk)。
 {% endhint %}
 
-不同宿舍的住宿费不同，具体请参阅 [2025 – 26 年度住宿费](../hall-selection/2025-26-lodging-fees.md)。
+不同宿舍的住宿费不同，具体请参阅 [2025 – 26 年度住宿费](../freshman-guide/hall-selection/2025-26-lodging-fees.md)。
 
 ### Q5. 我多交了钱，能退款吗？
 
@@ -426,7 +426,7 @@ description: 如何优雅地交学费 / 住宿费～
 
 ***
 
-想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../freshman-guide/ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者不详；\
 2025 修订作者：B27 李卓芸 BSc\&LLB；\

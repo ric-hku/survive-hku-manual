@@ -72,10 +72,6 @@ description: 拿到了学生签证，港澳通行证、逗留签注（D 签）�
 
 想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文作者：香港大学内地本科生权益保障组（RIC）。
-
 本文基于 [国家移民管理局政务服务平台 - 往来港澳通行证和签注签发服务指南](https://s.nia.gov.cn/mps/bszy/wlgaot/sqgowl/201903/t20190313_1002.html) 的内容编写而成。
 
 最后更新于 2026 年 6 月 10 日。
-
-本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

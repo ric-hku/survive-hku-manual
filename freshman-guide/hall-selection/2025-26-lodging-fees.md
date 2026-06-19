@@ -2,7 +2,7 @@
 description: 是的，每个宿舍的费用是不一样的。
 ---
 
-# 2025-26 年度住宿费
+# 2025 - 26 年度住宿费
 
 ## 住宿费
 
@@ -35,7 +35,7 @@ description: 是的，每个宿舍的费用是不一样的。
   双人间：HKD 7,081 / 月；\
   单人间（高架床）：HKD 7,558 / 月；\
   单人间：HKD 8,204 / 月；\
-  单人大床间：HKD 8,953  / 月；\
+  单人大床间：HKD 8,953 / 月；\
   单人大床间（独立卫浴）：HKD 9,906 / 月。
 * **学生公寓（Student Flats）：**\
   HKD 19,977 / 年。
@@ -55,8 +55,9 @@ description: 是的，每个宿舍的费用是不一样的。
 
 ***
 
-本文节选、整理、翻译自以下 CEDARS 文件：\
-[Lodging Fees for Students Residing in Residential Halls, Residential Colleges and Student Residences Year 2025\~2026](https://www.cedars.hku.hk/sections/Accommodation/files/hallcharges.pdf) （英文）
+想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文基于 CEDARS 文件\
+[Lodging Fees for Students Residing in Residential Halls, Residential Colleges and Student Residences Year 2025\~2026](https://www.cedars.hku.hk/sections/Accommodation/files/hallcharges.pdf) （英文）的内容编写而成。
 
 最后更新于 2026 年 5 月 24 日。
-

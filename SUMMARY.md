@@ -33,20 +33,17 @@
   * [信用卡小对比](freshman-guide/preparation/credit-card-comparison.md)
   * [过关方式](freshman-guide/preparation/border-crossing.md)
   * [拿着 Student Visa 如何在香港打工](freshman-guide/preparation/working-with-student-visa.md)
-
-***
-
-* [新生活动](freshmen-activities/README.md)
-  * [CSSAUD 举办的新生系列活动](freshmen-activities/cssaud.md)
-* [校园生活](campus-life/README.md)
-  * [港大黑话](campus-life/hku-slang.md)
-  * [缴费指南](campus-life/payment-instructions.md)
-  * [移动支付缴学费](campus-life/tuition-payment.md)
-  * [港大主要教学区中英文对照](campus-life/campus-map-bilingual.md)
-* [RIC 的奇妙小教程](ric-tutorials/README.md)
-  * [RIC 电话卡选择指南](ric-tutorials/sim-card-guide.md)
-  * [科学上网](ric-tutorials/internet-access.md)
-  * [宋奖申请攻略](ric-tutorials/scholarship-application.md)
+* [新生活动](freshman-guide/freshmen-activities/README.md)
+  * [CSSAUD 举办的新生系列活动](freshman-guide/freshmen-activities/cssaud.md)
+* [校园生活](freshman-guide/campus-life/README.md)
+  * [港大黑话](freshman-guide/campus-life/hku-slang.md)
+  * [缴费指南](freshman-guide/campus-life/payment-instructions.md)
+  * [移动支付缴学费](freshman-guide/campus-life/tuition-payment.md)
+  * [港大主要教学区中英文对照](freshman-guide/campus-life/campus-map-bilingual.md)
+* [RIC 的奇妙小教程](freshman-guide/ric-tutorials/README.md)
+  * [RIC 电话卡选择指南](freshman-guide/ric-tutorials/sim-card-guide.md)
+  * [科学上网](freshman-guide/ric-tutorials/internet-access.md)
+  * [宋奖申请攻略](freshman-guide/ric-tutorials/scholarship-application.md)
 
 ## 日常生活 <a href="#daily-life" id="daily-life"></a>
 

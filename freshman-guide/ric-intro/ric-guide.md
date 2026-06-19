@@ -90,7 +90,7 @@ APP 支持连接同学们的 Moodle 账户，从而获取各课程的作业、�
 
 ![](../../.gitbook/assets/chunk-0-img-11.jpeg)
 
-RIC 杂货铺 APP 使用教程：微信公众号文章 [「“RIC 杂货铺” App终于上线了！！！」](https://mp.weixin.qq.com/s/rlmK9sQbUg401yDSKk3G4w)
+RIC 杂货铺 APP 使用教程：微信公众号文章 [《“RIC 杂货铺” App终于上线了！！！》](https://mp.weixin.qq.com/s/rlmK9sQbUg401yDSKk3G4w)
 
 ***
 

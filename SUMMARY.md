@@ -36,8 +36,8 @@
 
 ***
 
-* [新生活动](xin-sheng-huo-dong/README.md)
-  * [CSSAUD 举办的新生系列活动](xin-sheng-huo-dong/cssaud-ju-ban-de-xin-sheng-xi-lie-huo-dong.md)
+* [新生活动](freshmen-activities/README.md)
+  * [CSSAUD 举办的新生系列活动](freshmen-activities/cssaud.md)
 * [校园生活](campus-life/README.md)
   * [港大黑话](campus-life/hku-slang.md)
   * [缴费指南](campus-life/payment-instructions.md)

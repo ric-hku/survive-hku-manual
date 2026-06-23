@@ -27,7 +27,7 @@ description: 欢迎来到香港大学！
 * [香港身份证办理指南](freshman-guide/hkid-application-guide.md)
 * [选课指南](freshman-guide/course-selection/)
 * [来港准备 & 来港生活](freshman-guide/preparation/)
-* [RIC 的奇妙小教程（电话卡、VPN、宋奖申请等）](freshman-guide/ric-tutorials/)
+* [RIC 的奇妙小教程（电话卡、VPN、宋奖申请等）](freshman-guide/ric-tutorials.md)
 
 此外，关于在港大和香港的日常生活，这里也有：
 

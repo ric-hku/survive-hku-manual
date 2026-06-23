@@ -1,3 +1,7 @@
+---
+icon: house-chimney
+---
+
 # 住宿
 
 [如何优雅地在外租房（上）](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507924\&idx=1\&sn=2b6994dc6399c496de68960f99fa19cd\&scene=21#wechat_redirect)

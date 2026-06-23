@@ -1,3 +1,7 @@
+---
+icon: school
+---
+
 # 校园生活
 
 [如何优雅地解压](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507566\&idx=1\&sn=c6871056ae02a3b7bf17c23ff4106737\&scene=21#wechat_redirect)

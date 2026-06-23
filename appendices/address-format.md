@@ -1,5 +1,6 @@
 ---
 description: 中英文地址书写格式
+icon: map-location-dot
 ---
 
 # 内地、香港地址格式参考

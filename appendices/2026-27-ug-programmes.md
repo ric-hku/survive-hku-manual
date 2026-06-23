@@ -1,4 +1,5 @@
 ---
+icon: graduation-cap
 metaLinks: {}
 ---
 

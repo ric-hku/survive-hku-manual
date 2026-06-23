@@ -1,3 +1,7 @@
+---
+icon: pencil-line
+---
+
 # 学业
 
 [更新| 如何优雅地申请毕业证明、成绩单和在读证明](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507846\&idx=1\&sn=42c92540d17d52e9d90309aa3199e4c8\&scene=21#wechat_redirect)

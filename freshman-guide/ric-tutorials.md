@@ -1,8 +1,8 @@
 ---
-icon: suitcase
+hidden: true
 ---
 
-# 来港准备 & 来港生活
+# RIC 的奇妙小教程
 
 ***
 

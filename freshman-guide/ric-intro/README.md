@@ -1,5 +1,6 @@
 ---
 description: RIC 欢迎你的加入！
+icon: star
 ---
 
 # RIC 介绍

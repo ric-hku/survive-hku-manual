@@ -1,5 +1,6 @@
 ---
 description: 入学重要事项办理时间线
+icon: signs-post
 ---
 
 # 拿到 Offer 后要做什么

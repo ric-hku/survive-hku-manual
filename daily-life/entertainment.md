@@ -1,3 +1,7 @@
+---
+icon: ferris-wheel
+---
+
 # 娱乐
 
 [如何优雅地快乐干饭](https://mp.weixin.qq.com/s?__biz=MzU4OTc1NDkyNw==\&mid=2247507394\&idx=1\&sn=161f32ced3b2ef38b542e321d6d22f6d\&scene=21#wechat_redirect)

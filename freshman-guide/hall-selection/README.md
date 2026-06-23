@@ -1,5 +1,6 @@
 ---
 description: 帮你找出最适合你的宿舍！
+icon: house-chimney
 ---
 
 # 宿舍指南
@@ -83,7 +84,7 @@ description: 帮你找出最适合你的宿舍！
 CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommodation](https://housing.cedars.hku.hk/university-accommodation/residence-options)\
 包括：建成年份、宿位数量、地址、到学校距离、宿生性别、设施与服务、房间类型、照片、联系方式等信息。
 
-除了官方介绍，也可以看我们的 [各宿舍详细介绍](hall-details.md)，了解各个宿舍的细节和入住体验！
+除了官方介绍，也可以看我们的 [各宿舍详细介绍](hall-details/)，了解各个宿舍的细节和入住体验！
 
 ***
 
@@ -244,7 +245,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 {% hint style="info" %}
 每个宿舍的设施或有不同，这里只列出了大部分宿舍都具备的设施和服务。
 
-具体设施，详见 [CEDARS 的官方介绍网页](https://housing.cedars.hku.hk/university-accommodation/residence-options)，或本手册 [各宿舍详细介绍](hall-details.md) 这部分的内容。
+具体设施，详见 [CEDARS 的官方介绍网页](https://housing.cedars.hku.hk/university-accommodation/residence-options)，或本手册 [各宿舍详细介绍](hall-details/) 这部分的内容。
 {% endhint %}
 
 ### Q5. 什么时候申请宿舍？在哪里申请？

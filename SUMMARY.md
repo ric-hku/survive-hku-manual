@@ -64,11 +64,3 @@
 * [本地及非本地学生的定义](appendices/local-definition.md)
 * [2026-27 本科课程一览](appendices/2026-27-ug-programmes.md)
 * [内地、香港地址格式参考](appendices/address-format.md)
-
-***
-
-* [更新日志](geng-xin-ri-zhi.md)
-
-## 新生手册
-
-* [Page 1](xin-sheng-shou-ce/page-1.md)

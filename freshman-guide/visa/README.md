@@ -8,7 +8,7 @@ icon: passport
 
 本部分包含：
 
-1. [签证申请详细指南](overall-guide.md)
+1. [签证申请详细指南](application.md)
 2. [ID995A 表格填写指南](id995a-guide.md)
 3. [往来港澳通行证、逗留签注办理指南](exit-entry-permit.md)
 
@@ -19,7 +19,7 @@ icon: passport
 核心功能：进入签证申请系统、查看详细流程、下载材料清单、获取官方小贴士等。
 
 {% hint style="info" %}
-关于具体如何申请签证的细节，请参考：[签证申请详细指南](overall-guide.md)。
+关于具体如何申请签证的细节，请参考：[签证申请详细指南](application.md)。
 {% endhint %}
 
 ## 二、时间线

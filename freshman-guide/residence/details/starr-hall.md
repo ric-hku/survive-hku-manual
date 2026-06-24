@@ -1,3 +1,7 @@
+---
+description: Starr Hall
+---
+
 # 施德堂入住指南
 
 A基本信息（位置&性别&室友）

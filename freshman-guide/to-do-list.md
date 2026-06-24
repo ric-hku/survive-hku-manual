@@ -17,9 +17,9 @@ icon: signs-post
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
   * 官方教程（英文）：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
-* 申请[**签证（入境许可）**](visa-application/)；
+* 申请[**签证（入境许可）**](visa/)；
   * 由于申请程序用时可能较长，建议**尽早**开始申请。
-* **（非本地生）**[**选择、申请宿舍**](hall-selection/)**。**
+* **（非本地生）**[**选择、申请宿舍**](residence/)**。**
   * 由于宿位有限，建议**尽早**完成申请。
 {% endstep %}
 
@@ -29,7 +29,7 @@ icon: signs-post
 * 收到 Welcome Email；根据其中要求，**依次**完成：
   * （获得账号信息后）[**Master Registration**](master-registration-guide.md)**（主注册 / 正式注册）**；
   * （完成 Master Registration 后）**上传学生证所需文件**；
-  * **（本地生）**[**选择、申请宿舍**](hall-selection/)**。**
+  * **（本地生）**[**选择、申请宿舍**](residence/)**。**
 * [**了解课程要求，初步安排课表**](course-selection/)；
 * （收到入境许可后）办理**港澳通行证**和/或**逗留（D）签注**；
 {% endstep %}

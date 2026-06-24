@@ -360,7 +360,7 @@ description: 如何优雅地交学费 / 住宿费～
 必要时，请咨询财务及企业管理处（FEO）：[feo\_student@hku.hk](mailto:feo_student@hku.hk)。
 {% endhint %}
 
-不同宿舍的住宿费不同，具体请参阅 [2025 – 26 年度住宿费](../hall-selection/2025-26-lodging-fees.md)。
+不同宿舍的住宿费不同，具体请参阅 [2025 – 26 年度住宿费](../residence/2025-26-lodging-fees.md)。
 
 ### Q5. 我多交了钱，能退款吗？
 

@@ -70,12 +70,6 @@ G 层 lobby 是公共活动空间，其中有两个自动贩售机分别售卖�
 
 Lobby内有打印复印一体机，打印只支持打印U盘中的pdf文件。
 
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-欢迎扫码进入RIC新生群
-
 ### F 活动&相关设施 <a href="#f-huo-dong-xiang-guan-she-shi" id="f-huo-dong-xiang-guan-she-shi"></a>
 
 ### 1. 活动室 <a href="#id-1-huo-dong-shi" id="id-1-huo-dong-shi"></a>
@@ -112,16 +106,6 @@ Readmission评分分为楼层评分，hall内评分，Hall song考核和面试�
 
 注意，由于蒲飞路校区建设工程，二村出入口有所更改，Google Form上显示的出入口无法使用（如下图），需要继续沿薄扶林道往上走一段路通过回转坡道或行人电梯进入。
 
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-香港大學THE UNIVERSITY OF HONG KONG
-
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-蒲飛路校園簡介設計工程進度社區媒體中心連結聯絡我們 EN
-
-欢迎扫码进入RIC新生群
-
 ### 重要告示 <a href="#zhong-yao-gao-shi" id="zhong-yao-gao-shi"></a>
 
 因應工程需要，由薄扶林道通往賽馬會第二舍堂村(馬禮遜堂、孫志新堂、李兆基堂)之車輛及行人通道已經關閉並納入地盤範圍，改為經由新建停車場行車坡道大樓連接薄扶林道。
@@ -132,7 +116,7 @@ Readmission评分分为楼层评分，hall内评分，Hall song考核和面试�
 
 ![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/f256582a-6943-4913-a409-1beda8c177d0/9e518280e8de3a3432be8bb12ec27eb63e25cd778b778df3478361dd6b3c6377.jpg)
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/f256582a-6943-4913-a409-1beda8c177d0/2ded8bf2dde26d1d99735696923f0b470349a51d97ac6dad81178f3d760b15e5.jpg)
+![](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/f256582a-6943-4913-a409-1beda8c177d0/2ded8bf2dde26d1d99735696923f0b470349a51d97ac6dad81178f3d760b15e5.jpg)
 
 ### I 从马礼逊出发 <a href="#i-cong-ma-li-xun-chu-fa" id="i-cong-ma-li-xun-chu-fa"></a>
 
@@ -144,23 +128,14 @@ Readmission评分分为楼层评分，hall内评分，Hall song考核和面试�
 
 由于蒲飞路校园建设施工，工作日白天和周六可能会产生噪音影响居住体验。
 
-原作者：陈亚川，B17，BSS；
-
-付琪深，B21，BBA (A\&F)；
-
-刘小菲，B20，BBA (A\&F)，MHall 前内务副主席
-
-修订作者：徐肇成，B25，BSc (Ac)
-
 ***
 
 想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者：B17\
-2024 修订作者：B25 张恒元 BEng(CompSc)；\
-2026 修订作者：B28 赵子豪 CDS。
+本文原作者：B17 陈亚川 BSocSc；B21 付琪深 BBA(Acc\&Fin)；B20 刘小菲 BBA(Acc\&Fin)，MHall 前内务副主席；\
+2024 修订作者：B25 徐肇成 BSc(ActuarSc)。
 
-本文基于原新生群文件《4.2太古堂(Swire)入住指南》编写而成。
+本文基于原新生群文件《4.5 马礼逊堂入住指南》编写而成。
 
 最后更新于 2025 年 9 月 1 日。
 

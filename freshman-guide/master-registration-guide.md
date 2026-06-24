@@ -1,5 +1,5 @@
 ---
-icon: file-lines
+icon: file-pen
 ---
 
 # Master Registration 指南

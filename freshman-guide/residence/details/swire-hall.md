@@ -16,7 +16,7 @@ description: Swire Hall
 
 
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/26e4183f-ab03-4171-acff-6c5fcc22aeec/e85e90f37f9efdf4514121dc95890d0e0dabba38fbc9f999ea327160d5c3c5d7.jpg)
+![](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/26e4183f-ab03-4171-acff-6c5fcc22aeec/e85e90f37f9efdf4514121dc95890d0e0dabba38fbc9f999ea327160d5c3c5d7.jpg)
 
 A2 口到太古堂的路线示意
 

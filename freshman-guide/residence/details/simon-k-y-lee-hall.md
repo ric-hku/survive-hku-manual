@@ -10,7 +10,7 @@ description: Simon K. Y. Lee Hall
 
 ### 1 位置 <a href="#id-1-wei-zhi" id="id-1-wei-zhi"></a>
 
-李国贤堂（Simon K. Y. Lee Hall, 也称 skyhall）位于校内，紧邻香港大学西闸。
+李国贤堂（Simon K. Y. Lee Hall, 也称 SKYLEE、Lee Hall）位于校内，紧邻香港大学西闸。
 
 ![](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/18fb3202-fbe3-4d67-83bf-1bce44b0fe70/b260e1a1ca886c7822f1b470a582d8e3d822bc92726a57ef5d0a46d4d04b7d30.jpg)
 

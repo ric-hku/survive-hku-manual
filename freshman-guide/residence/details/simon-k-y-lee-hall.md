@@ -109,13 +109,13 @@ Hall内有一个Common Room供举行活动等用（位于 UG3 层），一个较
 
 ### 3. Hall 内其他活动 <a href="#id-3hall-nei-qi-ta-huo-dong" id="id-3hall-nei-qi-ta-huo-dong"></a>
 
-Hall 内每个学期会有 1 次 High Table Dinner；此外，会有 SKYERS Enrichment Programmme 的活动，意在丰富同学们的课余生活（同时提供 Readmission 中的 Contribution Score
+Hall 内每个学期会有 1 次 High Table Dinner；此外，会有 SKYERS Enrichment Programmme 的活动，意在丰富同学们的课余生活（同时提供 Readmission 中的 Contribution Score）。
 
 ## 七、Readmission <a href="#g-readmission" id="g-readmission"></a>
 
 不论是本地生或非本地生，都需要在每年四月通过 HKU Portal 提交续住申请。从 2023-24 年起，申请人需要具备 CGPA ≥ 2.0 的学业成绩。
 
-李国贤 Readmission。不过，readmission 的情况每年偶有变化，需以当年为准。整体上，Readmission 基本上不会面试。
+李国贤 Readmission 基本上看 GPA、参与活动等。一般不会面试。不过，相关情况每年偶有变化，需以当年为准。
 
 ## 八、前往李国贤 <a href="#h-qian-wang-li-guo-xian" id="h-qian-wang-li-guo-xian"></a>
 
@@ -129,7 +129,7 @@ b) 乘坐机场快线到香港站 → 步行至中环站 → 乘坐港岛线在�
 
 a) 在深圳乘坐跨境大巴（往上环，单程约120元），在深圳机场买票上车 → 深圳湾口岸过关 → 过完关找到去往上环的大巴 → 在上环港澳码头下车 → 乘坐地铁港岛线到香港大学站/打车 （约2小时）
 
-b) 从深圳机场坐地铁（罗宝线）到罗湖站 → 在罗湖口岸过关 → 乘坐东铁线，在红磡站下车，转屯马线，在尖东站下车，步行至尖沙咀站，转荃湾线，在中环或金钟转港岛线到香港大学站（约3.5小时）
+b) 从深圳机场坐地铁到罗湖站/福田口岸站 → 在罗湖口岸/福田口岸过关 → 乘坐东铁线，在金钟站下车，转港岛线到香港大学站（约2.5小时）
 
 c) 从深圳机场坐地铁11号线到达福田站，换乘高铁到达香港西九龙站
 

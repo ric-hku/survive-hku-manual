@@ -45,46 +45,38 @@ Pantry（公共厨房）：冰箱\*2，直饮水机\*1，洗碗池\*1，微波�
 
 ### C 衣物相关洗衣机&衣柜 <a href="#c-yi-wu-xiang-guan-xi-yi-ji-yi-gui" id="c-yi-wu-xiang-guan-xi-yi-ji-yi-gui"></a>
 
-Hall 内两个 college 共用一个洗衣房，有八个洗衣机，八个烘干机（位于 1 楼），都需要使用八达通。洗衣一次没有八达通的同学需要尽快办理。洗衣房的旁边没有晾衣服的地方。 Tips:
+Hall 内 4 个 college 共用 2 个洗衣房，每个洗衣房有八个洗衣机、八个烘干机（位于 1 楼），都需要使用八达通。洗衣一次没有八达通的同学需要尽快办理。洗衣房的旁边没有晾衣服的地方。 Tips:
 
-1.需自备洗衣液、消毒液、洗衣袋、脏衣篮等
-
+1. 需自备洗衣液、消毒液、洗衣袋、脏衣篮等
 2. 烘干机使用前记得“掏毛”（烘干机会有一个灰尘收集袋，不清理干净衣服很可能烘不干）
-
-3.八达通刷卡机不是很灵敏，如第一次刷卡不成功退出来重刷就好
+3. 八达通刷卡机不是很灵敏，如第一次刷卡不成功退出来重刷就好
 
 ### D 饮食概况（餐厅\&Pantry&售货机） <a href="#d-yin-shi-gai-kuang-can-ting-pantry-shou-huo-ji" id="d-yin-shi-gai-kuang-can-ting-pantry-shou-huo-ji"></a>
 
-### 1.附近餐厅： <a href="#id-1-fu-jin-can-ting" id="id-1-fu-jin-can-ting"></a>
+#### 1. 附近餐厅： <a href="#id-1-fu-jin-can-ting" id="id-1-fu-jin-can-ting"></a>
 
 Hall 内没有餐厅，同学们可以到周边觅食：
 
 * Pao Yue Kong Swimming Pool Cafe (包玉刚游泳池餐厅)
 * Nam Long Shan Road Cooked Food Market (南朗山道熟食市場)
 * One Island South
-* The Southside
+* The Southside (距离最近)
 * Horizon Plaza (海怡广场)
 * Aberdeen Centre (香港仔中心)
 
-2. Supermarket & Convenience Store (超市及便利店)
+#### 2. Supermarket & Convenience Store (超市及便利店)
 
 • 7-Eleven - 3 Sham Wan Road (深湾道 3 号)
 
 * Fusion - 8 Sham Wan Road, near Aberdeen Marina Club (深湾道 8 号)
 
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-欢迎扫码进入RIC新生群
-
-2. Pantry:
+#### 3. Pantry:&#x20;
 
 Hall 里每层都有 pantry, 并且有必要厨具电磁炉、微波炉以及冰箱。在 hall 做饭需要自己准备基本餐具（如锅、碗具等），特殊的餐具或是厨具则视个人情况而定。
 
-### 3. 自动售货机： <a href="#id-3-zi-dong-shou-huo-ji" id="id-3-zi-dong-shou-huo-ji"></a>
+#### 4. 自动售货机： <a href="#id-3-zi-dong-shou-huo-ji" id="id-3-zi-dong-shou-huo-ji"></a>
 
-Hall 内有贩卖机（华御结和饮料机），分别位于一楼和 college1、college2 外的一楼。
+Hall 内有贩卖机（华御结、饮料机、零食机），分布于 college1 & college2 外的一楼、college3 & college4 外的一楼
 
 ### E. 学习环境（书桌&自习室） <a href="#e-xue-xi-huan-jing-shu-zhuo-zi-xi-shi" id="e-xue-xi-huan-jing-shu-zhuo-zi-xi-shi"></a>
 
@@ -98,7 +90,7 @@ Hall 内有打印机（可黑白可彩色），位于一楼 co-working space，�
 
 ### 3. 自习室 <a href="#id-3-zi-xi-shi" id="id-3-zi-xi-shi"></a>
 
-College1\2 和 College3\4 的 1 楼均有自习室。
+College1 & 2 和 College3 & 4 的 1 楼均有自习室。
 
 ### F. 活动 & 相关设施（活动室 & 活动队） <a href="#f-huo-dong-xiang-guan-she-shi-huo-dong-shi-huo-dong-dui" id="f-huo-dong-xiang-guan-she-shi-huo-dong-shi-huo-dong-dui"></a>
 
@@ -112,19 +104,19 @@ Hall 内 1 楼有 game room。
 
 ### 3.hall 内活动 <a href="#id-3hall-nei-huo-dong" id="id-3hall-nei-huo-dong"></a>
 
-黄竹坑目前暂无稳定运行的 sports team 及其他 team
+黄竹坑目前暂无稳定运行的 sports team 或其他 hall team。宿舍会不定期举办冥想、e-sport、徒步等非强制性活动，同学们可留意电梯传单及各 College 门口的 digital board。
 
 ### G. Readmission 及考核标准 <a href="#greadmission-ji-kao-he-biao-zhun" id="greadmission-ji-kao-he-biao-zhun"></a>
 
-不论是本地生或非本地生，都需要在每年四月通过 HKU Portal 提交续住申請。从 2023-24 年起，申請人需要具备 CGPA>=2.0 的学业成绩。
+不论是本地生或非本地生，都需要在每年四月通过 HKU Portal 提交续住申请。从 2023-24 年起，申请人需要具备 CGPA>=2.0 的学业成绩。
 
 ### H.前往黄竹坑宿舍（机场至 hall 线路） <a href="#h-qian-wang-huang-zhu-keng-su-she-ji-chang-zhi-hall-xian-lu" id="h-qian-wang-huang-zhu-keng-su-she-ji-chang-zhi-hall-xian-lu"></a>
 
 ### 1. 香港机场出发 <a href="#id-1-xiang-gang-ji-chang-chu-fa" id="id-1-xiang-gang-ji-chang-chu-fa"></a>
 
-從機場直接乘坐計程車前往計程車落客地點（約港幣 400 元，另加每件行李港幣 6 元，以及過路費和隧道費）。
+从机场直接乘坐计程车前往计程车落客地点（约港币 400 元，另加每件行李港币 6 元，以及过路费和隧道费）。
 
-乘坐机场快线（Airport Express）前往香港站（HK$115），然后乘坐出租车，約港幣 100 元，另加每件行李港幣 6 元及隧道費。
+乘坐机场快线（Airport Express）前往香港站（HK$115），然后乘坐出租车，约港币 100 元，另加每件行李港币 6 元及隧道费。
 
 ### 2. 港铁东铁线金钟站出发 <a href="#id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa" id="id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa"></a>
 
@@ -134,25 +126,23 @@ Hall 内 1 楼有 game room。
 
 ### 4. 从高速铁路（香港西九龙）出发 <a href="#id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa" id="id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa"></a>
 
-乘坐的士到落客點（約港幣 200 元，每件行李另加港幣 6 元，另加隧道費。
+乘坐的士到落客点（约港币 200 元，每件行李另加港币 6 元，另加隧道费。
 
 ### 5. 上环港澳码头（中环）出发 <a href="#id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa" id="id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa"></a>
 
-搭乘計程車前往下車地點（約港幣 100 元，另加每件行李港幣 6 元），另加隧道費。
+搭乘计程车前往下车地点（约港币 100 元，另加每件行李港币 6 元），另加隧道费。
 
 I. 从黄竹坑宿舍出发到 HKU（hall 至学校线路）
 
-欢迎扫码进入RIC新生群
-
-1. MTR (港鐵)
+#### 1. MTR (港铁)
 
 从宿舍大门出后左转，到新加坡国际学校过马路至正对面，过停用的巴士站后右手边上扶梯，继续往前走，穿过廊道进入商场，从商场下一层（zoff 旁扶梯），即到达 mtr 层，出商场即到达地铁站。
 
 费用：学生八达通单程 4.4hkd，普通八达通单程 8.8hkd
 
-### 2. Bus (巴士) <a href="#id-2bus-ba-shi" id="id-2bus-ba-shi"></a>
+#### 2. Bus (巴士) <a href="#id-2bus-ba-shi" id="id-2bus-ba-shi"></a>
 
-黄竹坑无校巴
+黄竹坑无校巴。
 
 从宿舍大门出后左转，到新加坡国际学校过马路至斜对面巴士站，早上时段搭乘71路约25-35分钟到达学校（香港大学百周年校园站）；其他时段搭乘4路，约35-40分钟到达学校（香港大学八周年校园站）。
 
@@ -164,6 +154,8 @@ I. 从黄竹坑宿舍出发到 HKU（hall 至学校线路）
 
 本文原作者：B25 刘艾宇 BSocSc；\
 修订作者：B27 雷佳懿 BEcon\&Fin。
+
+2026修订作者：B28 诸杰安 CDS。
 
 本文基于原新生群文件《4.15黄竹坑入住指南》编写而成。
 

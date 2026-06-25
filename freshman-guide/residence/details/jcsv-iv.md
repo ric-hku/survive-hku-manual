@@ -6,27 +6,23 @@ description: Jockey Club Student Village IV (JCSV IV)
 
 ### A. 基本信息（位置&性别&室友） <a href="#a-ji-ben-xin-xi-wei-zhi-xing-bie-shi-you" id="a-ji-ben-xin-xi-wei-zhi-xing-bie-shi-you"></a>
 
-1. 位置:4 Police School Road, Wong Chuk Hang, Hong Kong (香港黃竹坑警校道 4 號)
+**1. 位置：**&#x34; Police School Road, Wong Chuk Hang, Hong Kong (香港黃竹坑警校道 4 號)
 
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/23c61740-e653-478c-a703-5ecffc1eebc0/eb24d13b4e54d1ff1bfbe13ae9c9fc622cfc7df4e0f764433dfa4ead72acedcf.jpg)
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 [https://www.google.com/maps/place/HKU+Jockey+Club+Student+Village+IV+(Wong+Chuk+Hang)/@22.2455784,114.168854,17z/data=!3m1!4b1!4m6!3m5!1s0x3404012457260127:0x743367f5a6af5f65!8m2!3d22.2455784!4d114.168854!16s%2Fg%2F11vb4clq33?entry=ttu](https://www.google.com/maps/place/HKU+Jockey+Club+Student+Village+IV+\(Wong+Chuk+Hang\)/@22.2455784,114.168854,17z/data=!3m1!4b1!4m6!3m5!1s0x3404012457260127:0x743367f5a6af5f65!8m2!3d22.2455784!4d114.168854!16s%2Fg%2F11vb4clq33?entry=ttu)
 
-### 快递/外卖点填写: <a href="#kuai-di-wai-mai-dian-tian-xie" id="kuai-di-wai-mai-dian-tian-xie"></a>
+**快递/外卖点填写:**
 
 香港南区黄竹坑警校道 4 号香港大学赛马会第四学生村 College X XXXXX e.g.(College3 F1505)
 
 Hong Kong, South District, Wong Chuk Hang, Police Road 4, HKU Jockey Club Student Village IV, College X XXXXX
 
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
+**2. 性别构成:**&#x20;
 
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
+男女混住（但男女生不会住在同一层）
 
-2. 性别构成: 男女混住（但男女生不会住在同一层）
-
-欢迎扫码进入RIC新生群
-
-### 3. 室友背景: <a href="#id-3-shi-you-bei-jing" id="id-3-shi-you-bei-jing"></a>
+**3. 室友背景:**
 
 内地生和国际生都有，交换学生多。
 
@@ -34,19 +30,18 @@ Hong Kong, South District, Wong Chuk Hang, Police Road 4, HKU Jockey Club Studen
 
 四个 College，每个 College 有 19 层、2 部电梯，每层有 2 个 Flat、1 个 Pantry，每个 Flat 有 10 个单人间、1 个 living room、1 个卫生间。
 
-Pantry（公共厨房）：冰&#x7BB1;_&#x32;，直饮水&#x673A;_&#x31;，洗碗&#x6C60;_&#x31;，微波&#x7089;_&#x32;，电磁&#x7089;_&#x31;，大岛&#x53F0;_&#x31;，电&#x89C6;_&#x31;，大垃圾&#x6876;_&#x31;
+Pantry（公共厨房）：冰箱\*2，直饮水机\*1，洗碗池\*1，微波炉\*2，电磁炉\*1，大岛台\*1，电视\*1，大垃圾桶\*1
 
 房间：单人间，房间面积较小。一个衣柜（上部可挂衣服，下部是三个抽屉，上部柜门打开有一个小镜子），一个墙柜，一个床垫，床下有三个抽屉，将床板抬起有一个长空柜，一个桌子，桌下能放下28寸的行李箱。木地板，墙上有可以订图钉的毡板。两个灯，分别是天花灯和床头灯。三个插座（桌旁两个，墙面一个）
 
-* 宿舍 APP: 1. 可以用手机开门锁（门锁为电子密码锁，可输入密码也可手机解锁）；2. 可以用手机开冷气（夏天在路上就能把冷气打开～！）；3. 可以用手机开关灯；4. 可以用手机查看洗衣房洗衣机和烘干机占用率；5. 可以用手机预订宿舍公共设施（会议室、音乐室、健身室）。
+* 宿舍 APP: 1. 可以用手机开门锁（门锁为电子密码锁，可输入密码也可手机解锁）；2. 可以用手机开冷气（夏天在路上就能把冷气打开～）；3. 可以用手机开关灯；4. 可以用手机查看洗衣房洗衣机和烘干机占用率；5. 可以用手机预订宿舍公共设施（会议室、音乐室、健身室）。
+* 窗机空调，仅制冷
 
 ### 其他建议： <a href="#qi-ta-jian-yi" id="qi-ta-jian-yi"></a>
 
-1.需自备床品、衣架等
-
-2. 可自行购买除湿机、取暖机
-
-3.建议购买台灯
+1. 需自备床品、衣架等
+2. 可自行购买除湿机、取暖机（一般情况下空调足以代替除湿机，且购买电器需考虑暑假存放问题）
+3. 建议购买台灯
 
 ### C 衣物相关洗衣机&衣柜 <a href="#c-yi-wu-xiang-guan-xi-yi-ji-yi-gui" id="c-yi-wu-xiang-guan-xi-yi-ji-yi-gui"></a>
 
@@ -144,10 +139,6 @@ Hall 内 1 楼有 game room。
 ### 5. 上环港澳码头（中环）出发 <a href="#id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa" id="id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa"></a>
 
 搭乘計程車前往下車地點（約港幣 100 元，另加每件行李港幣 6 元），另加隧道費。
-
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
-
-@港大 RIC 锐克 2025 Rights and Interests Committee 新生 QQ 群号: 982312228
 
 I. 从黄竹坑宿舍出发到 HKU（hall 至学校线路）
 

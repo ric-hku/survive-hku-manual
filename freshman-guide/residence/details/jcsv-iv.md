@@ -112,27 +112,27 @@ Hall 内 1 楼有 game room。
 
 ### H.前往黄竹坑宿舍（机场至 hall 线路） <a href="#h-qian-wang-huang-zhu-keng-su-she-ji-chang-zhi-hall-xian-lu" id="h-qian-wang-huang-zhu-keng-su-she-ji-chang-zhi-hall-xian-lu"></a>
 
-### 1. 香港机场出发 <a href="#id-1-xiang-gang-ji-chang-chu-fa" id="id-1-xiang-gang-ji-chang-chu-fa"></a>
+#### 1. 香港机场出发 <a href="#id-1-xiang-gang-ji-chang-chu-fa" id="id-1-xiang-gang-ji-chang-chu-fa"></a>
 
 从机场直接乘坐计程车前往计程车落客地点（约港币 400 元，另加每件行李港币 6 元，以及过路费和隧道费）。
 
 乘坐机场快线（Airport Express）前往香港站（HK$115），然后乘坐出租车，约港币 100 元，另加每件行李港币 6 元及隧道费。
 
-### 2. 港铁东铁线金钟站出发 <a href="#id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa" id="id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa"></a>
+#### 2. 港铁东铁线金钟站出发 <a href="#id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa" id="id-2-gang-tie-dong-tie-xian-jin-zhong-zhan-chu-fa"></a>
 
 乘坐出租车前往下客点（约港币 180 至 200 元，每件行李港币 6 元，另加隧道费）。
 
 乘坐出租车前往下客点（约港币 200 元，每件行李港币 6 元，另加隧道费。
 
-### 4. 从高速铁路（香港西九龙）出发 <a href="#id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa" id="id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa"></a>
+#### 3. 从高速铁路（香港西九龙）出发 <a href="#id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa" id="id-4-cong-gao-su-tie-lu-xiang-gang-xi-jiu-long-chu-fa"></a>
 
 乘坐的士到落客点（约港币 200 元，每件行李另加港币 6 元，另加隧道费。
 
-### 5. 上环港澳码头（中环）出发 <a href="#id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa" id="id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa"></a>
+#### 4. 上环港澳码头（中环）出发 <a href="#id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa" id="id-5-shang-huan-gang-ao-ma-tou-zhong-huan-chu-fa"></a>
 
 搭乘计程车前往下车地点（约港币 100 元，另加每件行李港币 6 元），另加隧道费。
 
-I. 从黄竹坑宿舍出发到 HKU（hall 至学校线路）
+#### 5. 从黄竹坑宿舍出发到 HKU（hall 至学校线路）
 
 #### 1. MTR (港铁)
 

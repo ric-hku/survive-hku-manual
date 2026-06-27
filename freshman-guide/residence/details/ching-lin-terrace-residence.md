@@ -85,7 +85,7 @@ CEDARS 官方青莲台宿舍介绍网站：[https://housing.cedars.hku.hk/univer
 想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B20 梁金源 BSocSc；B21 刘翘 BBA；B24 李怡然 BSc；B25 郑浩苒 BEcon\&Fin；\
-2026 修订作者：B29 周育廉 BSc。
+2026 修订作者：B28 周育廉 BSc。
 
 本文基于原新生群文件《4.13 青莲台(Ching Lin Terrace)学生宿舍入住指南》编写而成。
 

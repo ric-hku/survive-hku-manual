@@ -1,18 +1,49 @@
 ---
 description: Jockey Club Student Village III (JCSV III)
+cover: ../../../.gitbook/assets/jcsv-iii (1).jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 三村入住指南
 
 ### 一、基本信息
 
+赛马会第三学生村官方网站：[Jockey Club Student Village III – The University of Hong Kong](https://jockeyv3.hku.hk/)
+
+CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options)\
+（选择 “Residential Colleges”，再点击具体学院查看详情）
+
 #### 1. 位置
 
-赛马会第三学生村位于坚尼地城龙华街 9 号，靠近蒲飞路和士美菲路交界处及观龙楼（公共屋邨）。该地理位置一般简称为“三村”。
+赛马会第三学生村位于坚尼地城龙华街 9 号，靠近蒲飞路和士美菲路交界处及观龙楼（公共屋邨）。该地理位置一般简称为 “三村”。
 
-四栋分别为：
+四个学院分别为：
 
-A 栋：Shun Hing College（信兴学院） B 栋：Chi Sun College（志新学院） C 栋：Lap-Chee College（立之学院） D 栋：New College（日新学院）
+* 信兴学院（原 A 座）Shun Hing College (Formerly Block A)
+* 志新学院（原 B 座）Chi Sun College (Formerly Block B)
+* 立之学院（原 C 座）Lap-Chee College (Formerly Block C)
+* 日新学院（原 D 座）New College (Formerly Block D)
 
 #### 2. 性别构成
 

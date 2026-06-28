@@ -51,7 +51,7 @@ icon: bed-front
 
 #### 研究生住宿 Postgraduate Residences
 
-* 青莲台学生宿舍 Ching Lin Terrace Residence
+* 青莲台宿舍 Ching Lin Terrace Residence
 * 梅芳堂 Mui Fong House
 * 研究生堂 Graduate House
 

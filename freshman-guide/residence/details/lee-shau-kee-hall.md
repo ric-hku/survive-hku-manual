@@ -1,5 +1,28 @@
 ---
 description: Lee Shau Kee Hall
+cover: ../../../.gitbook/assets/lee-shau-kee-hall.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 李兆基堂入住指南

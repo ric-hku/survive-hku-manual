@@ -1,5 +1,28 @@
 ---
 description: Morrison Hall
+cover: ../../../.gitbook/assets/morrison-hall.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 马礼逊堂入住指南
@@ -13,8 +36,6 @@ CEDARS 官方介绍：[Morrison Hall - HKU Cedars - Housing](https://housing.ced
 #### 1. 位置
 
 香港大学马礼逊堂位于赛马会第二舍堂村，地址为薄扶林道 109 号，即 Pokfulam Road 109。到主校区步行约 15 分钟。
-
-![image](https://cdn-mineru.openxlab.org.cn/result/2026-06-22/f256582a-6943-4913-a409-1beda8c177d0/5464db9604108cd14ca05f3493e38acc9997c6ee2084ce62398f233df0b54c68.jpg)
 
 #### 2. 性别构成
 

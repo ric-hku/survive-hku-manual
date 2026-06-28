@@ -1,6 +1,8 @@
 # CSSAUD 举办的新生系列活动
 
-\*活动详情及报名方式请见 “港大CSSAUD” 公众号。
+{% hint style="info" %}
+活动详情及报名方式请见 “港大CSSAUD” 公众号。
+{% endhint %}
 
 ## 一．Buddy Program
 

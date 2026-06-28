@@ -1,8 +1,31 @@
 ---
 description: Ching Lin Terrace Residence
+cover: ../../../.gitbook/assets/ching-lin-terrace-residence.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# 青莲台学生宿舍入住指南
+# 青莲台宿舍入住指南
 
 写在前面：青莲台并不属于港大传统意义上的 “Residential Hall”，更多作为港大 PhD 学生的短期住宿之用。由于港大从 2017 年开始扩招，导致传统舍堂的宿位不足，因此一部分申请 Hall 的本科同学会被分到青莲台住宿，但分配的具体标准目前尚不清楚。
 
@@ -11,8 +34,6 @@ CEDARS 官方介绍：[Ching Lin Terrace Residence - HKU Cedars - Housing](https
 ### 一、基本信息
 
 #### 1. 位置及路线
-
-CEDARS 官网有详细路线及照片。
 
 青莲台位于一村和二村中间，处在薄扶林道和坚尼地城的半山腰上。到达青莲台有两种方式。一是由坚城地铁站 B 口出之后右转直走到尽头，沿升降梯和手扶梯上到半山腰，再爬一段楼梯即可到达。另一种方式是从港大 C 口出，沿着薄扶林道直走，在走过一村约 3 分钟之后会看到一个有着 “鲁班先师庙” 的指示牌，沿该路口下 3 段楼梯即可到达青莲台平台。
 

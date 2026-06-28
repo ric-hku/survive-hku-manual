@@ -36,7 +36,7 @@
 
 #### 其他 Others
 
-* [青莲台学生宿舍 Ching Lin Terrace Residence](ching-lin-terrace-residence.md)
+* [青莲台宿舍 Ching Lin Terrace Residence](ching-lin-terrace-residence.md)
 
 ***
 

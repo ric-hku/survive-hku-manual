@@ -1,10 +1,36 @@
 ---
 description: Jockey Club Student Village IV (JCSV IV)
+cover: ../../../.gitbook/assets/jcsv-iv.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 四村（黄竹坑）入住指南
 
 ### 一、基本信息
+
+CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options)\
+（选择 “Residential Colleges”，再点击具体学院查看详情）
 
 #### 1. 位置
 
@@ -14,9 +40,16 @@ Police School Road 4, Wong Chuk Hang, Hong Kong，即香港黄竹坑警校道 4 
 
 快递 / 外卖地址可填写：
 
-香港南区黄竹坑警校道 4 号香港大学赛马会第四学生村 College X XXXXX，例如 College 3 F1505。
+香港南区黄竹坑警校道 4 号香港大学赛马会第四学生村 College X XXXXX，例如 College 2 F1505。
 
 英文：XXXXX, College X, HKU Jockey Club Student Village IV, Police School Road 4, Wong Chuk Hang, Hong Kong
+
+四个学院分别为：
+
+* 袁彭凤群学院 Phoenix Yuen College
+* 第二学院 College 2
+* 蔡加赞学院 Karson Choi College
+* 陈廷骅学院 D. H. Chen College
 
 #### 2. 性别构成
 

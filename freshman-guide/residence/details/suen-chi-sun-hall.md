@@ -1,5 +1,28 @@
 ---
 description: Suen Chi Sun Hall
+cover: ../../../.gitbook/assets/suen-chi-sun-hall.jpg
+coverY: -49.79965153957631
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 孙志新堂入住指南

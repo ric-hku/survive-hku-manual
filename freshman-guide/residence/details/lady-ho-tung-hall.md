@@ -1,5 +1,28 @@
 ---
 description: Lady Ho Tung Hall
+cover: ../../../.gitbook/assets/lady-ho-tung-hall.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 何东夫人纪念堂入住指南

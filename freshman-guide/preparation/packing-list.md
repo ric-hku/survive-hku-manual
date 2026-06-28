@@ -153,10 +153,16 @@
 
 以上所带的物品也可来港后在惠康、百佳、日本城、宜家等地购买。建议同学们以行李容量大小为首要考虑因素。
 
-下面为行李 Checklist：
-
-<figure><img src="../../.gitbook/assets/462bea77255c1b170eeb3d883cd3c56.png" alt=""><figcaption></figcaption></figure>
-
 ***
 
-_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文原作者：郑妍；\
+2025 修订作者：B25 陈添祤 BEng(EngSc)；\
+2026 修订作者：B28 马浚越 BSc；B27 孙皋 BA。
+
+本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
+
+最后更新于 2026 年 6 月 28 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

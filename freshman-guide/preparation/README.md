@@ -1,10 +1,26 @@
 ---
+hidden: true
 icon: suitcase
 ---
 
 # 来港准备 & 来港生活
 
+本部分内容包括：
+
+* 新生来港物品指南
+* 交通指南
+* 银行 / 信用卡指南
+* 电话卡指南
+* 出入境检查指南
+* 在港兼职 / 工作指南
+* 网络 / 科学上网指南
+
 ***
 
-_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
+本部分内容基于原新生群文件《part 7 来港准备&来港生活》编写而成。
+
+最后更新于 2026 年 6 月 28 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

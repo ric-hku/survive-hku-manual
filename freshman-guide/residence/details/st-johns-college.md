@@ -1,5 +1,28 @@
 ---
 description: St John's College
+cover: ../../../.gitbook/assets/st-john-s-college.jpg
+coverY: 64.028137365053
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 圣约翰学院入住指南

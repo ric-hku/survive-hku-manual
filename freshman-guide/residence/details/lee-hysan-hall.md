@@ -1,5 +1,28 @@
 ---
 description: Lee Hysan Hall
+cover: ../../../.gitbook/assets/lee-hysan-hall.jpg
+coverY: 106.71356227508834
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 利希慎堂入住指南

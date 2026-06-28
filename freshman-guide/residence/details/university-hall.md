@@ -1,5 +1,28 @@
 ---
 description: University Hall (U-Hall)
+cover: ../../../.gitbook/assets/university-hall.png
+coverY: -94.77314373458185
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 大学堂入住指南

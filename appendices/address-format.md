@@ -13,16 +13,11 @@ icon: map-location-dot
 
 ### 常用英文及缩写
 
-室 = Room / Rm.　层 = Floor / F　单元 = Unit　幢 / 栋 = Building / Bldg.
-
-小区 / 社区 = Community　花园 = Garden　公寓 = Apartment / Apt.
-
-组 = Group　号 = Number / No.　巷 = Lane / Ln.　弄 = Alley / Aly.
-
-路 = Road / Rd.　街 / 大街 = Street / St.　大道 = Avenue / Ave.
-
-村 = Village　街道 = Subdistrict　镇 = Town　乡 = Township
-
+室 = Room / Rm.　层 = Floor / F　单元 = Unit　幢 / 栋 = Building / Bldg.\
+小区 / 社区 = Community　花园 = Garden　公寓 = Apartment / Apt.\
+组 = Group　号 = Number / No.　巷 = Lane / Ln.　弄 = Alley / Aly.\
+路 = Road / Rd.　街 / 大街 = Street / St.　大道 = Avenue / Ave.\
+村 = Village　街道 = Subdistrict　镇 = Town　乡 = Township\
 区 = District / Dist.　县 = County　市 = City　省 = Province / Prov.
 
 ### 示例

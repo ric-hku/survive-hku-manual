@@ -1,5 +1,5 @@
 ---
-icon: file-pen
+icon: pen-to-square
 ---
 
 # Master Registration 指南

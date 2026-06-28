@@ -21,6 +21,7 @@
 * [宿舍指南](freshman-guide/residence/README.md)
   * [宿舍选择综合指南](freshman-guide/residence/general-info.md)
   * [2025 - 26 年度住宿费](freshman-guide/residence/2025-26-lodging-fees.md)
+  * [2026 – 27 年度住宿费](freshman-guide/residence/2026-27-lodging-fees.md)
   * [各宿舍详细介绍](freshman-guide/residence/details/README.md)
     * [李国贤堂入住指南](freshman-guide/residence/details/simon-k-y-lee-hall.md)
     * [太古堂入住指南](freshman-guide/residence/details/swire-hall.md)

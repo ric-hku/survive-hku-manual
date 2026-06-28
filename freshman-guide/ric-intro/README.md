@@ -1,6 +1,29 @@
 ---
 description: RIC 欢迎你的加入！
 icon: star
+cover: ../../.gitbook/assets/DSC_4668.jpg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # RIC 介绍
@@ -44,7 +67,7 @@ icon: star
 
 * 2021 年 6 月：针对租房补贴政策变动，RIC 立即开展问卷调查并联系 CEDARS 等相关方召开紧急庄会，最终通过多方协作争取到现有新政策。
 * 2022 年 10 月起：持续跟进黄竹坑 New Hall 事宜，在官方发布前整合关键信息，有效缓解内地生住房焦虑。
-* 2024 年 3 月：跟进 Readmission 新政策 "P-1"，及时同步动态并积极与校方沟通，全力维护内地本科生权益。
+* 2024 年 3 月：跟进 Readmission 新政策 "P-1 Policy"，及时同步动态并积极与校方沟通，全力维护内地本科生权益。
 
 🍴 食品安全
 

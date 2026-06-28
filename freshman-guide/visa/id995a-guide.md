@@ -60,10 +60,8 @@ description: 最重要的一张表格。
 4. **出生地点、原居地（适用于内地、澳门及台湾居民）、现时定居国家／地区**：填写省级行政区即可。
 
 {% hint style="info" %}
-陕西：SHAANXI；
-
-内蒙古：NEI MONGOL / INNER MONGOLIA；
-
+陕西：SHAANXI；\
+内蒙古：NEI MONGOL / INNER MONGOLIA；\
 西藏：XIZANG / TIBET。
 {% endhint %}
 

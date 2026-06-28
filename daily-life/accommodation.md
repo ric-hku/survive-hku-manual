@@ -1,5 +1,5 @@
 ---
-icon: house-chimney
+icon: bed-front
 ---
 
 # 住宿

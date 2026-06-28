@@ -30,7 +30,7 @@ icon: signs-post
   * （获得账号信息后）[**Master Registration**](master-registration-guide.md)**（主注册 / 正式注册）**；
   * （完成 Master Registration 后）**上传学生证所需文件**；
   * **（本地生）**[**选择、申请宿舍**](residence/)**。**
-* [**了解课程要求，初步安排课表**](course-selection/)；
+* **了解课程要求，初步安排课表**；
 * （收到入境许可后）办理**港澳通行证**和/或**逗留（D）签注**；
 {% endstep %}
 

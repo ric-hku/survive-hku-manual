@@ -28,10 +28,11 @@
   * 立之学院（原 C 座）Lap-Chee College (Formerly Block C)
   * 日新学院（原 D 座）New College (Formerly Block D)
 * [赛马会第四学生村 Jockey Club Student Village IV (JCSV IV)](jcsv-iv.md)
-  * 袁彭凤群学院 Phoenix Yuen College（原第一学院 Formerly College 1）
+  * 袁彭凤群学院 Phoenix Yuen College
   * 第二学院 College 2
   * 蔡加赞学院 Karson Choi College
   * 陈廷骅学院 D. H. Chen College
+* 西高山学生宿舍 High West Student Village
 
 #### 其他 Others
 

@@ -110,6 +110,6 @@ CEDARS 官方介绍：[Ching Lin Terrace Residence - HKU Cedars - Housing](https
 
 本文基于原新生群文件《4.13 青莲台(Ching Lin Terrace)学生宿舍入住指南》编写而成。
 
-最后更新于 2025 年 9 月 1 日。
+最后更新于 2026 年 7 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

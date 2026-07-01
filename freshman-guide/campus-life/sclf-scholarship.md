@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 宋奖申请攻略
 
 你好呀！港大 RIC 锐克很高兴能为你提供这份“含金量”极高的奖学金申请指南。
@@ -97,4 +101,4 @@
 | 北京       | 王老师 / 徐老师 | 13581859673 / 18501982724 |
 
 \
-&#xNAN;_&#x4C;icensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+\&#xNAN;_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_

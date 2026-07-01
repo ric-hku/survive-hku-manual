@@ -56,6 +56,7 @@
   * [CSSAUD 举办的新生系列活动](freshman-guide/freshmen-activities/cssaud.md)
   * [UBCC Ocamp](freshman-guide/freshmen-activities/ubcc-ocamp.md)
   * [HKUCCC Ocamp](freshman-guide/freshmen-activities/hkuccc-ocamp.md)
+  * [UBCC 举办的新生活动](freshman-guide/freshmen-activities/ubcc-ju-ban-de-xin-sheng-huo-dong.md)
 * [校园生活](freshman-guide/campus-life/README.md)
   * [港大黑话](freshman-guide/campus-life/hku-slang.md)
   * [缴费指南](freshman-guide/campus-life/payment-instructions.md)

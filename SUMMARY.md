@@ -54,6 +54,7 @@
   * [网络、科学上网指南](freshman-guide/preparation/internet-access.md)
 * [新生活动](freshman-guide/freshmen-activities/README.md)
   * [CSSAUD 举办的新生系列活动](freshman-guide/freshmen-activities/cssaud.md)
+  * [UBCC](freshman-guide/freshmen-activities/ubcc.md)
 * [校园生活](freshman-guide/campus-life/README.md)
   * [港大黑话](freshman-guide/campus-life/hku-slang.md)
   * [缴费指南](freshman-guide/campus-life/payment-instructions.md)

@@ -301,6 +301,7 @@ AO 联系方式：[https://www.studentvisa.hku.hk/contact-us](https://www.studen
 {% endhint %}
 
 * 上传时可能出现上传失败或速度缓慢的情况，可以尝试多次上传。
+* 文件名没有具体要求，最好用英文，并避免过于简单（如 1.pdf）或过长的文件名，以避免上传错误。
 * 交上去之后的文件在最终 Submit 之前都是可以修改的。
 
 确认提交后，将收到标题为 **HKU Student Visa - Online Application Documents Submitted** 的邮件。耐心等待 AO 审核电子版文件即可。

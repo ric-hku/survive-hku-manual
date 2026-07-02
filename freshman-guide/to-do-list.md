@@ -16,7 +16,8 @@ icon: signs-post
 ### 6 月末 – 7 月
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
-  * 官方教程（英文）：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
+  * 高考生（含联考）：[2026 年香港大学内地本科生入学计划 回复录取通知书指引](https://admissions.hku.hk/sites/default/files/2024-06/Procedures.pdf)
+  * 国际生：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
 * 申请[**签证（入境许可）**](visa/)；
   * 由于申请程序用时可能较长，建议**尽早**开始申请。
 * **（非本地生）**[**选择、申请宿舍**](residence/)**。**

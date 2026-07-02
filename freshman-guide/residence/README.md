@@ -112,7 +112,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 {% hint style="warning" %}
 注意：这里所说的 “本地学生（Local Students）” 、 “非本地学生（Non-local Students）” 与出生地、居住地、成长经历所在地等均无关，而只与 **身份（Status）**&#x6709;关。
 
-有关其具体定义，请阅读：[本地及非本地学生的定义](../../appendices/local-definition.md)。
+有关其具体定义，请参照：[本地及非本地学生的定义](../../appendices/local-definition.md)。
 {% endhint %}
 
 ***
@@ -268,6 +268,13 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
   * **申请方式**：在 [Residence Application](https://housing.cedars.hku.hk/university-accommodation/residence-application/new-undergraduate-students/non-local-students) 页面中，选择 New Undergraduate Students > Non-local Students > Apply Now，打开申请表。
   * **申请时间**：2026 年 3 月 20 日 10:00 - 9 月 15 日；
   * **结果公布时间**：2026 年 7 月 15 日 - 9 月 15 日。
+
+{% hint style="info" %}
+非本地新生**不需要获得 HKU Portal 账号**等，就可以申请宿舍。
+
+这是因为上述申请系统的账号与 HKU Portal 账号相互独立。
+{% endhint %}
+
 * **本地身份新生**：
   * **申请方式**：在 HKU Portal 中，左侧菜单栏选择 Campus Life & Service > Application for Hall/College，打开申请表。
   * **申请时间**：2026 年 8 月 7 日 10:00 - 13 日 17:59；

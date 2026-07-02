@@ -24,7 +24,7 @@ icon: house-chimney
 * [拿到 Offer 后要做什么](freshman-guide/to-do-list.md)
 * [签证指南](freshman-guide/visa/)
 * [宿舍指南](freshman-guide/residence/)
-* [Master Registration 指南](freshman-guide/master-registration-guide.md)
+* [Master Registration 指南](freshman-guide/master-registration.md)
 * [香港身份证办理指南](freshman-guide/hkid-application-guide.md)
 * [来港准备 & 来港生活](freshman-guide/preparation/)
 * [新生活动](freshman-guide/freshmen-activities/)

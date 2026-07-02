@@ -26,25 +26,25 @@ icon: map-location-dot
 
 Rm. 1001, 10/F, Bldg. 3, Taiyueyuan\
 No. 12 Zhichun Rd., Haidian District\
-Beijing 100088, P.R. China
+Beijing 100088, P. R. China
 
 中国广东省深圳市罗湖区南湖街道建设路 1002 号 1 号楼 501 室（邮编：518005）
 
 Rm. 501, Bldg. 1, No. 1002 Jianshe Rd.\
 Nanhu Subdist., Luohu Dist., Shenzhen\
-Guangdong 518005, P.R. China
+Guangdong 518005, P. R. China
 
 中国浙江省杭州市淳安县安阳乡范家村 1 组（邮编：311708）
 
 Group 1, Fanjia Village, Anyang Town\
 Chun'an County, Hangzhou City\
-Zhejiang Province 311708, P.R. China
+Zhejiang Province 311708, P. R. China
 
 中国新疆维吾尔自治区乌鲁木齐市天山区胜利路街道延安路 950 号（邮编：830049）
 
 No. 950 Yan'an Rd., Shenglilu Subdistrict\
 Tianshan District, Urumqi City\
-Xinjiang 830049, P.R. China
+Xinjiang 830049, P. R. China
 
 {% hint style="info" %}
 **仅供参考。**

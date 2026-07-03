@@ -87,6 +87,8 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 除了官方介绍，也可以看我们的 [各宿舍详细介绍](details/)，了解各个宿舍的细节和入住体验！
 
+<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260628.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 二、找到最适合自己的舍堂

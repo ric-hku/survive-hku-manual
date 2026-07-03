@@ -39,7 +39,7 @@ icon: house-chimney
 
 ## **在哪里可以找到《HKU 生存手册》？**
 
-《HKU 生存手册》网页版网址：[https://surviveinhku.gitbook.io/survivehkumanual](https://surviveinhku.gitbook.io/survivehkumanual)
+《HKU 生存手册》网页版网址：[https://ric-hku.gitbook.io/survive-hku-manual](https://ric-hku.gitbook.io/survive-hku-manual)
 
 或者，你也可以在我们 RIC 的官网 **“RIC 杂货铺”** 上，点击 **“新生专栏”** 查看：[https://richku.com/freshmen](https://richku.com/freshmen)
 

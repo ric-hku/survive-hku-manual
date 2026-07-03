@@ -119,7 +119,7 @@
     在内地或香港买均可。不过香港价格较贵，且港版排插只适用于英标插头，需要配合多个转换插头使用。
 * 计算器\
   **注**：内地高考、学科竞赛等常用的 CASIO fx-82ES PLUS、CASIO fx-991CN X、CASIO fx-999CN CW 等型号的计算器均不在港大考试允许携带的计算机型号的列表里。\
-  可以购买 **CASIO fx-50FH II** 或 **CASIO fx-3650P II**，前者在港大书店及附近的文具店等均有销售，后者在内地用淘宝等购买也很方便。二者功能上差不多，前者编程功能操作略方便。\
+  可以购买 **CASIO fx-50FH II** 或 **CASIO fx-3650P II**，前者在港大书店及附近的文具店等均有销售，后者在内地用淘宝等网购平台购买也很方便。二者功能上差不多，前者编程功能操作略方便。\
   具体要求可以点击 [Approved List of Calculators for Use in University Examinations](http://www.exam.hku.hk/pdf/calculators_list.pdf) 查看。
 * 个人电子设备\
   如手机、相机、iPad、笔记本电脑、电子词典、耳机等。

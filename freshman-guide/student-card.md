@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: user-graduate
 ---
 
@@ -85,7 +84,49 @@ icon: user-graduate
 
 从邮件或 HKU Portal 的下述位置下载通知：
 
-Collection of Card (1st Year)
+在 HKU Portal 里选择 New Students > Collection of Card (1st Year)（简体中文：新注册学生 > 领取学生证）
+
+然后打印。
+
+* 可以选择智华馆、图书馆里的打印机，方法：[2026｜如何优雅地打印/复印](https://mp.weixin.qq.com/s/WirpsyxL7akpTeWsm4Qj6Q)
+* 也可以选择钮鲁诗楼（Knowles Building，KB）4/F 的打印店，营业时间为周一至周五 11:00 am - 6:00 pm（周六、周日、公众假期休息）
+
+### 2. 所需文件
+
+根据领取通知，需要携带下列文件：
+
+1. 打印的学生证领取通知；
+2. 以下身份证明文件中的**任意一件**的**原件**
+   * 香港身份证，或申请香港身份证收据（俗称 “行街纸”）
+   * **往来港澳通行证**，或护照
+3. 对于**非本地学生**和**非永久性居民的本地学生**，需要出示电子签证原件和**一份打印件 / 复印件**。
+
+### 3. 领取时间及地点
+
+一般在通知中 Collection Venue and Time 会分配两个时间段。如果可以在这些时间段领取，需前往：
+
+* Room 105, Chong Yuet Ming Amenities Centre（庄月明文娱中心 1/F 105 室）
+
+如果不能在上述分配的时间段前去领取，则可以在某时间点（具体参照通知）之后，前往学务办公室（Academic Services Office，ASO）领取：
+
+* Room G‑04, Run Run Shaw Building（本部校园 邵逸夫楼 G/F G-04 室）
+* 工作时间：
+  * 周一至周五 9:00 a.m. – 5:30 p.m.
+  * 周六 9:00 a.m. – 12:30 p.m.
+  * 周日、公众假期、大学假期 休息
+
+{% hint style="warning" %}
+注意：是**本部校园的邵逸夫楼**（Run Run Shaw **Building**），而非百周年校园的逸夫教学楼（Run Run Shaw **Tower**）。
+{% endhint %}
+
+{% hint style="info" %}
+**大学假期**包括：
+
+* 平安夜（12 月 24 日）全天
+* 元旦前夕（12 月 31 日）下午（中午 12:00 后）
+* 除夕日（农历年初一的前一天）下午（中午 12:00 后）
+* 香港大学奠基纪念日（Foundation Day，3 月 16 日）全天
+{% endhint %}
 
 ***
 

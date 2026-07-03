@@ -23,9 +23,7 @@ icon: signs-post
 * **（非本地生）**[**选择、申请宿舍**](residence/)**。**
   * 由于宿位有限，建议**尽早**完成申请。
 * 如收到题为 Registration for New Full-time Undergraduate Students 的邮件，则需根据其中要求，**依次**完成：
-  * （获得账号信息后）访问 HKU Portal；
-  * [**Master Registration**](master-registration.md)**（主注册 / 正式注册）**；
-  * （完成 Master Registration 后）**上传学生证所需文件**；等步骤。
+  * （获得账号信息后）访问 HKU Portal，并完成 [**Master Registration**](master-registration.md)**（主注册 / 正式注册）**；
 {% endstep %}
 
 {% step %}
@@ -33,7 +31,7 @@ icon: signs-post
 
 * 收到 Welcome Email；根据其中要求，**依次**完成：
   * （获得账号信息后）[**Master Registration**](master-registration.md)**（主注册 / 正式注册）**；
-  * （完成 Master Registration 后）**上传学生证所需文件**；
+  * （完成 Master Registration 后）[**上传学生证所需文件**](student-card.md)；
   * **（本地生）**[**选择、申请宿舍**](residence/)**。**
 * **了解课程要求，初步安排课表**；
 * （收到入境许可后）办理**港澳通行证**和/或**逗留（D）签注**；

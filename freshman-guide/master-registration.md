@@ -71,7 +71,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 <figure><img src="../.gitbook/assets/chunk-0-img-0 (8).jpeg" alt=""><figcaption></figcaption></figure>
 
-### 2. 点击 Master Registration
+### 2. 进入 Master Registration
 
 在 HKU Portal 里选择 Student Information System (SIS)，打开学生资讯系统：
 
@@ -107,7 +107,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 * 王建国 WANG, Jianguo
 * 上官晓月 SHANGGUAN, Xiaoyue
 
-但是，如果不是内地居民，则需要以官方姓名英文写法为准。可能的情况如：
+但是，如果不是内地居民，则需要以官方文件上的英文写法为准。可能的情况如：
 
 * （港）陳大文 CHAN, Tai Man / CHAN, Tai Man Joseph
 * （台）張志明 CHANG, Chih-ming

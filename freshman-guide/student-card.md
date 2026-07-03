@@ -113,19 +113,10 @@ icon: user-graduate
 * 工作时间：
   * 周一至周五 9:00 a.m. – 5:30 p.m.
   * 周六 9:00 a.m. – 12:30 p.m.
-  * 周日、公众假期、大学假期 休息
+  * 周日、[公众假期](../appendices/2026-27-calendar.md#san-gong-zhong-jia-qi-public-holidays)、[大学假期](../appendices/2026-27-calendar.md#si-da-xue-jia-qi-university-holidays) 休息
 
 {% hint style="warning" %}
 注意：是**本部校园的邵逸夫楼**（Run Run Shaw **Building**），而非百周年校园的逸夫教学楼（Run Run Shaw **Tower**）。
-{% endhint %}
-
-{% hint style="info" %}
-**大学假期**包括：
-
-* 平安夜（12 月 24 日）全天
-* 元旦前夕（12 月 31 日）下午（中午 12:00 后）
-* 除夕日（农历年初一的前一天）下午（中午 12:00 后）
-* 香港大学奠基纪念日（Foundation Day，3 月 16 日）全天
 {% endhint %}
 
 ***

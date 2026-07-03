@@ -3,7 +3,7 @@ icon: graduation-cap
 metaLinks: {}
 ---
 
-# 2026-27 本科课程一览
+# 2026 – 27 本科课程一览
 
 {% hint style="info" %}
 说明：
@@ -253,7 +253,7 @@ metaLinks: {}
 {% hint style="info" %}
 注：跨学科学院，同时属于工程学院和理学院；由原工程学院的计算机科学系和原理学院的统计及精算学系组成。其 “行政学院”（Administering Faculty）为工程学院。
 
-CDS、BASc(FinTech) 由工程学院、计算机科学系（ Department of Computer Science）管理；BASc(AppliedAI) 由人工智能与数据科学系（Department of AI & Data Science）管理；BSc(ActuarSc)、SDS 由统计及精算学系（Department of Statistics & Actuarial Science）管理。
+CDS、BASc(FinTech) 由工程学院、计算机科学系（Department of Computer Science）管理；BASc(AppliedAI) 由人工智能与数据科学系（Department of AI & Data Science）管理；BSc(ActuarSc)、SDS 由统计及精算学系（Department of Statistics & Actuarial Science）管理。
 {% endhint %}
 
 ### 未来媒体学院 School of Future Media
@@ -280,3 +280,11 @@ CDS、BASc(FinTech) 由工程学院、计算机科学系（ Department of Comput
 {% hint style="info" %}
 注：跨学科学院，同时属于工程学院、建筑学院、经管学院和理学院。其 “行政学院”（Administering Faculty）为工程学院。
 {% endhint %}
+
+***
+
+本文参考了以下网页：
+
+* [本科课程 | Admissions Office, the Registry](https://admissions.hku.hk/zh-hans/programmes/undergraduate-programmes)
+
+最后更新于 2026 年 7 月 3 日。

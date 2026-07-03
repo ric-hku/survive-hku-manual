@@ -143,8 +143,8 @@ HONG KONG
 
 本文参考了以下网页：
 
-[Postal addressing system - China (People's Rep.) - UPU](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chnEn.pdf)
+* [Postal addressing system - China (People's Rep.) - UPU](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chnEn.pdf)
+* [Postal addressing system - Hongkong, China - UPU](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hkgEn.pdf)
+* [香港邮政 - 正确地址](https://www.hongkongpost.hk/sc/about_us/tips/correct_address/index.html)
 
-[Postal addressing system - Hongkong, China - UPU](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hkgEn.pdf)
-
-[香港邮政 - 正确地址](https://www.hongkongpost.hk/sc/about_us/tips/correct_address/index.html)
+最后更新于 2026 年 7 月 3 日。

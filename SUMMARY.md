@@ -76,5 +76,6 @@
 ## 附录 <a href="#appendices" id="appendices"></a>
 
 * [本地及非本地学生的定义](appendices/local-definition.md)
-* [2026-27 本科课程一览](appendices/2026-27-ug-programmes.md)
+* [2026 – 27 本科课程一览](appendices/2026-27-ug-programmes.md)
 * [内地、香港地址格式参考](appendices/address-format.md)
+* [2026 – 27 校历、假期](appendices/2026-27-calendar.md)

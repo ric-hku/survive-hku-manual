@@ -96,7 +96,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 1. **University Number**、**Degree Curriculum** 等：自动填写，无需更改，也不能更改。
 2. **Concurrent Active Programs**：无需打勾。
 3. **Name** 姓名
-   * **Name Prefix** 称谓：男性选择 Mr.；女性选择 Miss 或 Ms.。
+   * **Name Prefix** 头衔 / 称谓：男性选择 Mr.；女性选择 Miss 或 Ms.。
    * **Surname** 姓、**Other Name** 名：必须与往来港澳通行证（或护照、香港身份证等官方文件）上的相同。
 
 {% hint style="warning" %}
@@ -201,6 +201,12 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 * 称谓、姓名（英文或中文）、证件号码、婚姻状态、出生日期 / 地点、永居地、国籍等个人信息
   * 使用 [Change of Personal Particulars](https://ase.hku.hk/doc/change_of_personal_particulars.pdf) 表格，向学务办公室（Academic Services Office，ASO）提交申请。
+  * 学务办公室（Academic Services Office，ASO）：
+    * Room G‑04, Run Run Shaw Building（本部校园 邵逸夫楼 G/F G-04 室）
+    * 工作时间：
+      * 周一至周五 9:00 a.m. – 5:30 p.m.
+      * 周六 9:00 a.m. – 12:30 p.m.
+      * 周日、[公众假期](../appendices/2026-27-calendar.md#san-gong-zhong-jia-qi-public-holidays)、[大学假期](../appendices/2026-27-calendar.md#si-da-xue-jia-qi-university-holidays) 休息
 
 {% hint style="info" %}
 在**取得香港居民身份证后**，需通过上述表格更新香港身份证号码（HKID Card No.）和中文姓名及电码（Full Name in Chinese - Chinese Character & CC Code）。

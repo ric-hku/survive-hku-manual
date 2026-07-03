@@ -287,9 +287,8 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 明确标准通常不会公布，但根据 RIC 对以往结果的观察，可能有以下几个：
 
 1. 申请表递交时间：新生最好在收到学校 Offer 后**尽快**填写并提交申请表。
-2. 申请人所学专业。
-3. 申请人可以在申请表中 Additional Information 栏写下自己选择心仪的舍堂的原因。同学可以在自己想去宿舍的官方网站了解该宿舍有哪些特色吸引自己，或是哪个传统的项目比较强。若未来想要参与其中，可以在 Additional Information 中描述。
-4. 申请人在表中选择的志愿和顺序。
+2. 申请人可以在申请表中 Additional Information 栏写下自己选择心仪的舍堂的原因。同学可以在自己想去宿舍的官方网站了解该宿舍有哪些特色吸引自己，或是哪个传统的项目比较强。若未来想要参与其中，可以在 Additional Information 中描述。
+3. 申请人在表中选择的志愿和顺序。
 
 要注意合理分配自己的志愿，比如希望住得近一些的同学可以由近到远挑选，不要全都报校内和一村；如果申请人在几个志愿中选择了比较冷门的宿舍（如黄竹坑），则被分配过去的可能性或许更大。
 
@@ -303,6 +302,27 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 住宿时间一般**从 8 月下旬（第一学期开始前）开始**，**到第二年 5 月下旬（第二学期结束后）为止**。暑假期间（6 – 8 月）如果想继续住在宿舍，需要单独申请，并将单独收费。有关申请一般在 3 – 4 月，届时学校和宿舍将会通知同学们。
 
+### Q9. 如何填写宿舍申请表？
+
+整体上按其中的说明填写即可。
+
+以下是对一些项目的进一步说明：
+
+* **Title** 头衔 / 称呼：男性选择 Mr.；女性选择 Miss 或 Ms. 即可。非必填。
+* **Preferred Name** 偏好名：指希望别人称呼自己的名字，如英文名。非必填。
+* **Faculty** 所属学院：跨学科学院按下列 “行政学院” 填写即可。
+  * 生物医学工程学院 School of Biomedical Engineering — 李嘉诚医学院 (Li Ka Shing) Faculty of Medicine
+  * 计算与数据科学学院 School of Computing and Data Science — 工程学院 Faculty of Engineering
+  * 创新学院 School of Innovation — 工程学院 Faculty of Engineering
+  * 未来媒体学院 School of Future Media — 社会科学学院 Faculty of Social Sciences
+  * 治理与政策学院 School of Governance and Policy — 社会科学学院 Faculty of Social Sciences
+* **Degree Curriculum** 学位 / 课程：按自己的专业填写即可。
+  * CDS 大一默认为 BEng(CompSc)。
+  * BEcon/BEcon\&Fin、BBA(Acc\&Fin)/BBA(ADA) 这类待后续选择方向的专业，可以任意填写一个。
+  * 具体专业对宿舍申请结果影响不大。
+* **Course Duration** 修业时长：即 Programme Duration，按 Offer 填写即可。
+* **Year of Study** 就读年数：新生即 Year 1，大一。
+
 ***
 
 想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
@@ -313,6 +333,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
 
-最后更新于 2026 年 6 月 28 日。
+最后更新于 2026 年 7 月 3 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

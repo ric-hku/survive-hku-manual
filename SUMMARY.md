@@ -79,4 +79,4 @@
 * [2026 – 27 本科课程一览](appendices/2026-27-ug-programmes.md)
 * [内地、香港地址格式参考](appendices/address-format.md)
 * [2026 – 27 校历、假期](appendices/2026-27-calendar.md)
-* [香港天文台发出的天气警告](appendices/hko-warning-signals.md)
+* [恶劣天气时的特别安排](appendices/hko-warning-signals.md)

@@ -31,6 +31,13 @@ layout:
 
 赛马会第三学生村官方网站：[Jockey Club Student Village III – The University of Hong Kong](https://jockeyv3.hku.hk/)
 
+各学院官方网站：
+
+* [HKU Shun Hing College | Official Website of Shun Hing College of The University of Hong Kong](https://shunhingcollege.hku.hk/)
+* [Chi Sun College – A Community of Freely Enquiring Minds](https://chisuncollege.hku.hk/)
+* [Home | HKU Lap-Chee College](https://lapcheecollege.hku.hk/)
+* [Home | New College | The University of Hong Kong](https://newcollege.hku.hk/)
+
 CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options)\
 （选择 “Residential Colleges”，再点击具体学院查看详情）
 

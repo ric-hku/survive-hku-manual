@@ -29,6 +29,13 @@ layout:
 
 ### 一、基本信息
 
+各学院官方网站：
+
+* [College 1 Jockey Club Student Village IV HKU](https://college1.hku.hk/)（现袁彭凤群学院 Phoenix Yuen College）
+* [Home | JCSV IV College II](https://www.jcsv4c2.hku.hk/)
+* [Home | Karson Choi College](https://www.karsonchoicollege.hku.hk/)
+* [D. H. Chen College - Residence options - University Accommodation - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/d-h-chen-college)
+
 CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options)\
 （选择 “Residential Colleges”，再点击具体学院查看详情）
 

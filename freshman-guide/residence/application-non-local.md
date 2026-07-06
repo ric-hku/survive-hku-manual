@@ -87,7 +87,7 @@
 
 后续填写申请表时，其他可能需要说明的项目如下：
 
-* **Course Duration** 修业时长：即 Programme Duration，按 Offer 填写即可。
+* **Course Duration** 修业时长：即 Programme Duration，也就是修读这一本科项目所需要的时间。按 Offer 填写即可。
 * **Year of Study** 就读年数：新生即 Year 1，大一。
 
 ***

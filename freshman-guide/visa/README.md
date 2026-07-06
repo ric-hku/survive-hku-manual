@@ -102,6 +102,10 @@ icon: passport
 
 持往来港澳通行证的内地中国居民来港就读，**必须直接从内地进入香港**，方能激活学生签证。
 
+### Q6. 申请签证对财产证明有什么要求吗？
+
+有关财产证明的具体要求，请查看 [STEP 3. 提交文件 Applicant Documents | 签证申请详细指南](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/visa/application#step-3.-ti-jiao-wen-jian-applicant-documents) 中 “7. 财产证明（Financial Proof）” 的内容。
+
 ***
 
 想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～

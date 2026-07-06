@@ -46,13 +46,13 @@ icon: id-card
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+#### 乙部分：申请人资料
 
-在乙部分中选择"其他旅行证件"，并填写港澳通行证信息，只需要填写数字部分的最后六位数字（详情请点击右方的问号查看，如图后半部分）。
+
+
+（详情请点击右方的问号查看，如图后半部分）。
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。<br>
 
@@ -65,13 +65,11 @@ icon: id-card
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-<h3 align="center">三、确定办理时间及地点</h3>
+### 三、确定办理时间及地点
 
 绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/chunk-0-img-3.jpeg" alt=""><figcaption></figcaption></figure>
 
 点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。
 

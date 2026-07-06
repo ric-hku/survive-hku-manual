@@ -87,6 +87,15 @@
 
 后续填写申请表时，其他可能需要说明的项目如下：
 
+* **Passport Number** 护照号码：也可以填写往来港澳通行证号码（以下涉及 Passport 的地方均同）。
+* **Passport Issuing Authority** 签发机关：
+  * 中华人民共和国护照：中华人民共和国国家移民管理局 National Immigration Administration, PRC
+  * 往来港澳通行证：中华人民共和国出入境管理局 Exit and Entry Administration, PRC
+
+{% hint style="info" %}
+如果没有现在有效的港澳通行证 / 护照，也可以填写旧的证件的号码；如果未曾办理任何一种证件，也可以填写占位符 0000。
+{% endhint %}
+
 * **Course Duration** 修业时长：即 Programme Duration，也就是修读这一本科项目所需要的时间。按 Offer 填写即可。
 * **Year of Study** 就读年数：新生即 Year 1，大一。
 

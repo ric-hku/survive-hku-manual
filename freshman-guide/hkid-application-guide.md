@@ -150,8 +150,6 @@ icon: id-card
 
 **注意：以上授权方式有不予授权或授权不被认可等风险，入境事务处强烈建议各位未成年新生 在家长陪同下办理香港智能身份证**
 
-{% file src="../.gitbook/assets/5.1 如何网上预约香港身份证办理及预填申请表格.pdf" %}
-
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
@@ -161,6 +159,6 @@ icon: id-card
 
 本文基于原新生群文件《5.1 如何网上预约香港身份证办理及预填申请表格》编写而成。
 
-最后更新于 2026 年 7 月 5 日。
+最后更新于 2026 年 7 月 6 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

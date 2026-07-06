@@ -1,6 +1,14 @@
+---
+description: 香港大学内地本科生联合会
+---
+
 # CSSAUD 举办的新生系列活动
 
+
+
 {% hint style="info" %}
+CSSAUD 是**香港大学内地本科生联合会**的简称。
+
 活动详情及报名方式请见 “港大CSSAUD” 公众号。
 {% endhint %}
 

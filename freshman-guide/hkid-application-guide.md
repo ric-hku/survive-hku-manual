@@ -4,34 +4,53 @@ icon: id-card
 
 # 香港身份证办理指南
 
-<mark style="color:red;">注：现在⽹上预约⾝份证办理名额⼗分紧缺，根据《⼈事登记条例》，除获豁免或⽆须登记的⼈⼠外，凡年满11岁或以上的⾹港居⺠（包括获准在⾹港逗留超过180天的⼈⼠），均须登记领取⾝份证。年满11岁或以上并获准在⾹港逗留超过180天的新抵港⼈⼠须在抵港后的30天内登记领取⾝份证。RIC强烈建议同学们及早进⾏预约。</mark>
+{% hint style="warning" %}
+注：现在⽹上预约⾝份证办理名额⼗分紧缺。
 
-<h3 align="center">一、登录香港政府一站通网站</h3>
+根据《⼈事登记条例》，除获豁免或⽆须登记的⼈⼠外，凡年满 11 岁或以上的⾹港居⺠（包括获准在⾹港逗留超过 180 天的⼈⼠），均须登记领取⾝份证。年满 11 岁或以上并获准在⾹港逗留超过 180 天的新抵港⼈⼠须在抵港后的 30 天内登记领取⾝份证。
 
-复制下方链接至浏览器，进入香港政府一站通网站：\
-[https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.htm](https://www.gov.hk/tc/residents/immigration/idcard/hkic/bookregidcard.html)
+因此，RIC 强烈建议同学们及早进⾏预约。
+{% endhint %}
 
-如果觉得看繁体字或英文不便，可将语言调成简体中文。此外，由于在线预约系统需要浏览器 Cookie 打开并将使用 JavaScript，如果后续申请出现无法继续等问题，大家可以调整浏览器设置或更换浏览器重试。
+## 一、预约网站：香港政府一站通
 
-点选"网上预约申领香港智能身份证及预填表格"：
+[GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm)
 
-<figure><img src="../.gitbook/assets/834befe63b18faa6805e2af65098ea0.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+根据 [使用香港政府一站通网上服务的系统需求](https://www.gov.hk/sc/about/helpdesk/softwarerequirement/onlineservice.htm)，可以使用Windows、macOS、Linux、iOS、Android 等常用操作系统和 Microsoft Edge、Safari、Mozilla Firefox、Google Chrome 等常用浏览器。
+{% endhint %}
 
-点击“预约”
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/76989c420ee98e554a4599fbcfcda9a.png" alt=""><figcaption></figcaption></figure>
+在打开的网页里，点击 **网上预约申领香港身份证(包括其后更改,取消或查询预约)及预填表格** 按钮，进入网上预约系统。
 
-<h3 align="center">二、在线填写预约信息</h3>
+点击 **申领香港智能身份证预约服务** 中的 **预约**，开始预约。
 
-身份证预约共有 5 个步骤，首先在步骤 1 中输入信息。已满十八岁的同学，在申请类别选择中"首次登记身份证（持单程证人士除外）"及"持有效签证/进入许可的新来港人士（就读）"。
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+## 二、在线填写预约信息
 
-如未满十八岁，需选择"首次登记身份证（持单程证人士除外）"及"年满 11 岁申请"。<br>
+<figure><img src="../.gitbook/assets/0615ade8563a36beca39b0c6d68b2487.png" alt=""><figcaption></figcaption></figure>
+
+网上预约共有 5 个步骤。
+
+### 1. 输入预约资料
+
+#### 甲部分：申请详情
+
+已满十八岁的同学，在申请类别选择中"首次登记身份证（持单程证人士除外）"及"持有效签证/进入许可的新来港人士（就读）"。
+
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
+如未满十八岁，需选择"首次登记身份证（持单程证人士除外）"及"年满 11 岁申请"。
+
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 在乙部分中选择"其他旅行证件"，并填写港澳通行证信息，只需要填写数字部分的最后六位数字（详情请点击右方的问号查看，如图后半部分）。
+
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,23 +61,37 @@ icon: id-card
 \
 填写完丙丁部分后，点击继续即可。
 
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <h3 align="center">三、确定办理时间及地点</h3>
 
-绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。<br>
+绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。
+
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/chunk-0-img-3.jpeg" alt=""><figcaption></figcaption></figure>
 
-点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。<br>
+点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。
 
-<figure><img src="../.gitbook/assets/chunk-0-img-4.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+
 
 选定日期后, 选择办理时间段。
 
-![chunk-0-img-5.jpeg](../.gitbook/assets/chunk-0-img-5.jpeg)
 
-确定好预约信息无误后，点击确认提交。<br>
+
+
+
+确定好预约信息无误后，点击确认提交。
+
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/chunk-0-img-6.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -121,4 +154,13 @@ icon: id-card
 
 ***
 
-_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文原作者不详； \
+2026 修订作者：B28 周育廉 BSc；B27 孙皋 BA。
+
+本文基于原新生群文件《5.1 如何网上预约香港身份证办理及预填申请表格》编写而成。
+
+最后更新于 2026 年 7 月 5 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -308,22 +308,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 整体上按其中的说明填写即可。
 
-以下是对一些项目的进一步说明：
-
-* **Title** 头衔 / 称呼：男性选择 Mr.；女性选择 Miss 或 Ms. 即可。非必填。
-* **Preferred Name** 偏好名：指希望别人称呼自己的名字，如英文名。非必填。
-* **Faculty** 所属学院：跨学科学院按下列 “行政学院” 填写即可。
-  * 生物医学工程学院 School of Biomedical Engineering — 李嘉诚医学院 (Li Ka Shing) Faculty of Medicine
-  * 计算与数据科学学院 School of Computing and Data Science — 工程学院 Faculty of Engineering
-  * 创新学院 School of Innovation — 工程学院 Faculty of Engineering
-  * 未来媒体学院 School of Future Media — 社会科学学院 Faculty of Social Sciences
-  * 治理与政策学院 School of Governance and Policy — 社会科学学院 Faculty of Social Sciences
-* **Degree Curriculum** 学位 / 课程：按自己的专业填写即可。
-  * CDS 大一默认为 BEng(CompSc)。
-  * BEcon/BEcon\&Fin、BBA(Acc\&Fin)/BBA(ADA) 这类待后续选择方向的专业，可以任意填写一个。
-  * 具体专业对宿舍申请结果影响不大。
-* **Course Duration** 修业时长：即 Programme Duration，按 Offer 填写即可。
-* **Year of Study** 就读年数：新生即 Year 1，大一。
+**非本地生**填写账号注册表格可参阅：[账号注册指南（非本地生）](application-non-local.md)。
 
 ***
 

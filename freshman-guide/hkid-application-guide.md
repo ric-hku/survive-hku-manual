@@ -4,6 +4,10 @@ icon: id-card
 
 # 香港身份证办理指南
 
+{% hint style="info" %}
+需要**获得学生签证之后**才可以预约办理香港身份证。
+{% endhint %}
+
 {% hint style="warning" %}
 注：现在⽹上预约⾝份证办理名额⼗分紧缺。
 
@@ -26,6 +30,13 @@ icon: id-card
 
 点击 **申领香港智能身份证预约服务** 中的 **预约**，开始预约。
 
+{% hint style="info" %}
+由于系统限时 10 分钟，可提前准备好所需信息：
+
+* 往来港澳通行证号码；
+* 签证 / 进入许可申请档案编号：在发放的电子版签证 / 进入许可上，格式如 AAAA-1234567-89(0)。
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 ## 二、在线填写预约信息
@@ -34,7 +45,7 @@ icon: id-card
 
 网上预约共有 5 个步骤。
 
-### 1. 输入预约资料
+### 步骤 1：输入预约资料
 
 #### 甲部分：申请详情
 
@@ -48,56 +59,96 @@ icon: id-card
 
 #### 乙部分：申请人资料
 
+{% hint style="info" %}
+点击每一栏右侧的问号按钮，可展开更多说明。
+{% endhint %}
 
+旅行证件号码：填写往来港澳通行证号码即可。
 
-（详情请点击右方的问号查看，如图后半部分）。
+* 根据提示，输入最后六个数字即可。例如，如果证件号码是 CA3273201，则填写 273201 即可。
+
+签证 / 进入许可申请档案编号：按照签证 / 进入许可上的填写，括号中的数字填入右侧括号中。
+
+* 编号的位置如图所示。
+
+出生日期（日-月-年）（只需出生日及出生年份）
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-根据 Visa 文件中 Notification Slip for Entry Visa / Permit 左上角显示的申请档案编号填写相关信息。<br>
+#### 丙部分：查询代码
 
-<figure><img src="../.gitbook/assets/chunk-0-img-0 (1).jpeg" alt=""><figcaption></figcaption></figure>
+自己选择一组 4 位数字代码填入。
 
-\
-填写完丙丁部分后，点击继续即可。
+{% hint style="warning" %}
+注意选择**自己能够记住的代码**。之后更改、取消或查询预约都需要这组代码。
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+#### 丁部分：验证
 
-### 三、确定办理时间及地点
+填写验证码。确认本页信息无误后，点按 **继续** 进入下一步。
 
-绝大多数同学会选择离港大最近的湾仔事务处进行办理。但因为同学必须在抵港 30 天内办理身份证, 如果发现湾仔事务处的时间没有空位, 可以尝试选择其他较远的办事处查找空位。
+<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_2.png" alt=""><figcaption></figcaption></figure>
+
+### 步骤 2：选择办理地点
+
+选择合适的、自己能够接受的办理地点。
+
+离港大最近的是湾仔办事处；如果可预约的最早时间过晚，或是时间不合适等，可以考虑其他较远的办事处。
+
+{% hint style="info" %}
+从香港大学港铁站前往各办事处的交通时间：
+
+* 湾仔（港岛）：约 20 分钟
+* 长沙湾（九龙）：约 30 - 40 分钟
+* 将军澳：约 50 分钟
+* 火炭：约 45 分钟
+* 屯门：约 55 - 75 分钟
+* 元朗：约 60 - 70 分钟
+
+（数据来源：Google 地图）
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
-点击位置、地图等查看办事处具体位置; 点击其他日期查看近期预约情况。
+### 步骤 3：选择办理时间
+
+点击 **其他日期** 查看近期预约情况；之后，点击 **位置地图** 查看办事处具体位置。
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
-
-
-选定日期后, 选择办理时间段。
-
-
-
-
-
-确定好预约信息无误后，点击确认提交。
+选定日期后，选择办理时间。
 
 <figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-
+选择办理时间后，可以选择填入一个自己常用且方便查看的**电邮地址**，方便接收**确认通知**和**预约提示**。
 
 <figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/chunk-0-img-6.jpeg" alt=""><figcaption></figcaption></figure>
+### 步骤 4：确认
 
-最好将步骤 5 中显示的预约详情存一份备用。
+确定好预约信息无误后，点击 **确认预约及预填表格** 提交预约。
 
-至此，身份证办理预约部分已经完成，同学们可以选择继续在网上预填申请表或届时到办事处 现场，用其提供的设备进行填写。如何网络预填申请表格见下方（部分内容由于未入境香港，暂时无法填写，需入境后补填）。
+<figure><img src="../.gitbook/assets/微信图片_20260705161833_1228_494 - 副本.png" alt=""><figcaption></figcaption></figure>
 
-## 四、登记表格填写
+如果先前填写了电邮地址，点击确认后将会收到确认通知的邮件。
+
+<figure><img src="../.gitbook/assets/微信图片_20260707114856_1243_494 - 副本.png" alt="" width="563"><figcaption></figcaption></figure>
+
+至此，身份证办理预约部分已经完成。
+
+{% hint style="info" %}
+点击 **确认预约及预填表格** 提交预约后，步骤 5 会被自动跳过。
+{% endhint %}
+
+这时，可以选择继续在网上预填申请书）。
+
+{% hint style="info" %}
+部分内容由于未入境香港，暂时无法填写，需入境后补填）。
+{% endhint %}
+
+## 三、登记表格填写
 
 提交预约后,在步骤 5 中点击绿色按键“开始”进入填写,点击下图中的申请人 1。
 

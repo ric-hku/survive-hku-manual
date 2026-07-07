@@ -39,7 +39,7 @@
     * [大学堂入住指南](freshman-guide/residence/details/university-hall.md)
     * [三村入住指南](freshman-guide/residence/details/jcsv-iii.md)
     * [四村（黄竹坑）入住指南](freshman-guide/residence/details/jcsv-iv.md)
-    * [青莲台宿舍入住指南](freshman-guide/residence/details/ching-lin-terrace-residence.md)
+    * [青莲台学生宿舍入住指南](freshman-guide/residence/details/ching-lin-terrace-residence.md)
 * [Master Registration 指南](freshman-guide/master-registration.md)
 * [学生证指南](freshman-guide/student-card.md)
 * [香港身份证办理指南](freshman-guide/hkid-application-guide.md)

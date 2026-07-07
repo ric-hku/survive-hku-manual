@@ -83,6 +83,16 @@
 
 * **Password** 密码：要求长度 8 个字符或以上，含至少一个小写字母、大写字母、数字、特殊字符。
 
+### 5. 上传文件 Document Upload
+
+**For new non-local full-degree undergraduate students**: Please submit a copy of your offer letter or offer email, showing your full name as in your passport and the 10-digit application number starting with 20xxxxxxxx.&#x20;
+
+此处上传自己的 Offer Letter 即可。
+
+{% hint style="info" %}
+高考生的申请编号是 150xxxxxxx，在这里不会有影响。
+{% endhint %}
+
 ## 三、后续填写
 
 后续填写申请表时，其他可能需要说明的项目如下：

@@ -392,6 +392,8 @@ AO 接收签证后，系统会发送标题为 **HKU Student Visa - Visa Permit C
 **到这里，签证申请部分就结束了。**&#x795D;大家入学顺利！
 {% endhint %}
 
+同时，也可以开始预约办理香港身份证了。具体请见：[香港身份证办理指南](../hkid-application-guide.md)。
+
 
 
 ### STEP 8. 入学信息 Enrollment Details
@@ -406,8 +408,6 @@ AO 接收签证后，系统会发送标题为 **HKU Student Visa - Visa Permit C
 * 学生证号（University Student No.）
 * 学校邮箱（University Email）
 * 预计/实际学习结束日期（Intended/Actual Study End Date）
-
-
 
 ***
 

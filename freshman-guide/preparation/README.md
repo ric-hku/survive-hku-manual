@@ -20,6 +20,4 @@ icon: suitcase
 
 本部分内容基于原新生群文件《part 7 来港准备&来港生活》《part 9 RIC的奇妙小教程》编写而成。
 
-最后更新于 2026 年 6 月 28 日。
-
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

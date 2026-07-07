@@ -8,7 +8,7 @@ icon: pen-to-square
 
 学校会在核验完入学所需文件后，在 7 - 8 月，向申请入学用的邮箱发送标题为 **Registration for New Full-time Undergraduate Students** 的邮件。
 
-在完成 Master Registration 之后，同学们便可以开始把个人信息记录到港大的在线系统（Portal）中了。之后选课、查看课程信息、查看成绩等操作都要通过 Portal 进行。\
+在完成 Master Registration 之后，同学们便可以开始把个人信息记录到港大的在线系统（HKU Portal）中了。之后选课、查看课程信息、查看成绩等操作都要通过 Portal 进行。\
 这封邮件在最下方，有 **COMPUTER ACCOUNT DETAILS** 部分，包含以下内容：
 
 * 个人信息：

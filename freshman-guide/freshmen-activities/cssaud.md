@@ -22,9 +22,7 @@ CSSAUD 与学校合作，举办面向新生的 Buddy Program（“挚友计划�
 
 活动报名方式：详情请见 “港大CSSAUD” 公众号
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="302"><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (50).png" alt="" width="288"><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/image (49).png" alt="" width="302"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (50).png" alt="" width="288"><figcaption></figcaption></figure></div>
 
 ## 二．新生城市见面会
 
@@ -45,9 +43,9 @@ CSSAUD 与学校合作，举办面向新生的 Buddy Program（“挚友计划�
 
 活动报名方式：详情请见 “港大CSSAUD” 公众号
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## 三．O-Camp
 

@@ -59,6 +59,7 @@
   * [UBCC 举办的 O-Camp](freshman-guide/freshmen-activities/ubcc.md)
   * [HKUCCC 举办的 O-Camp](freshman-guide/freshmen-activities/hkuccc.md)
   * [HKUESS 举办的 O-Camp](freshman-guide/freshmen-activities/hkuess.md)
+  * [ACA 举办的 O-Camp](freshman-guide/freshmen-activities/aca.md)
 * [校园生活](freshman-guide/campus-life/README.md)
   * [港大黑话](freshman-guide/campus-life/hku-slang.md)
   * [缴费指南](freshman-guide/campus-life/payment-instructions.md)

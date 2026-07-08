@@ -58,6 +58,7 @@
   * [CSSAUD 举办的新生系列活动](freshman-guide/freshmen-activities/cssaud.md)
   * [UBCC 举办的 O-Camp](freshman-guide/freshmen-activities/ubcc.md)
   * [HKUCCC 举办的 O-Camp](freshman-guide/freshmen-activities/hkuccc.md)
+  * [HKU Pootal 举办的 O-Camp](freshman-guide/freshmen-activities/hku-pootal.md)
   * [HKUESS 举办的 O-Camp](freshman-guide/freshmen-activities/hkuess.md)
   * [动漫联盟举办的 O-Camp](freshman-guide/freshmen-activities/aca.md)
 * [校园生活](freshman-guide/campus-life/README.md)

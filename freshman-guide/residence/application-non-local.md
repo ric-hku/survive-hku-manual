@@ -99,8 +99,8 @@
 
 * **Passport Number** 护照号码：也可以填写往来港澳通行证号码（以下涉及 Passport 的地方均同）。
 * **Passport Issuing Authority** 签发机关：
-  * 中华人民共和国护照：中华人民共和国国家移民管理局 National Immigration Administration, PRC
-  * 往来港澳通行证：中华人民共和国出入境管理局 Exit and Entry Administration, PRC
+  * 中华人民共和国护照：中华人民共和国国家移民管理局 National Immigration Administration, PRC（2019 年 3 月 4 日前：公安部出入境管理局 MPS Exit & Entry Administration）
+  * 往来港澳通行证：中华人民共和国出入境管理局 Exit and Entry Administration, PRC（2019 年 6 月 1 日前：公安部出入境管理局 MPS Exit & Entry Administration）
 
 {% hint style="info" %}
 如果没有现在有效的港澳通行证 / 护照，也可以填写旧的证件的号码；如果未曾办理任何一种证件，也可以填写占位符 0000。

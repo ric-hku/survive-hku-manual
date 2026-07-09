@@ -1,4 +1,5 @@
 ---
+description: 含名词解释
 icon: pen-to-square
 ---
 
@@ -8,7 +9,14 @@ icon: pen-to-square
 
 学校会在核验完入学所需文件后，在 7 - 8 月，向申请入学用的邮箱发送标题为 **Registration for New Full-time Undergraduate Students** 的邮件。
 
-在完成 Master Registration 之后，同学们便可以开始把个人信息记录到港大的在线系统（HKU Portal）中了。之后选课、查看课程信息、查看成绩等操作都要通过 Portal 进行。\
+这其中有关于 Master Registration（新生注册）的信息。
+
+{% hint style="warning" %}
+新生需要在**收到邮件后 3 天内**完成 Master Registration（新生注册）。
+{% endhint %}
+
+在完成 Master Registration 之后，同学们便可以开始把个人信息记录到港大的内联网系统（HKU Portal）中了。之后选课、查看课程信息、查看成绩等操作都要通过 Portal 进行。
+
 这封邮件在最下方，有 **COMPUTER ACCOUNT DETAILS** 部分，包含以下内容：
 
 * 个人信息：
@@ -44,15 +52,28 @@ icon: pen-to-square
 
 * **HKU Portal PIN**：学校各种电脑系统里的**密码**。
   * 如需修改，可在 HKU Portal 里选择：IT Support > HKU Portal PIN Change（简体中文：资讯科技服务 / > 更改 HKU Portal 密码）。
-* **HKU Email**：**校园电子邮箱**。邮箱地址为 UID 加上 "@ connect.hku.hk"。
+* **HKU Portal Email** (HKU Email)：**校园电子邮箱**。邮箱地址为 UID 加上 "@ connect.hku.hk"。
   * 入学之后，学校信息、社团 / 活动推广、与学校部门联系、与教师联系等都需要使用这个邮箱。
   * 由 Microsoft 提供。因此，可以[使用 Outlook 登录](https://outlook.office365.com/mail/)。在手机等移动设备上，可以[使用 Outlook 应用](https://www.microsoft.com/zh-cn/microsoft-365/outlook-mobile-for-android-and-ios)。
+
+{% hint style="info" %}
+获得校园邮箱后，学校将通过这一校园邮箱向学生通知重要信息，并作为主要的沟通渠道（而非先前申请时使用的个人邮箱）。因此，需时常关注校园邮箱。
+{% endhint %}
+
+{% hint style="warning" %}
+2026 - 27 学年及以后入学的新生的 UID@connect.hku.hk 电子邮箱地址**仅在就读期间有效**。
+
+如果在未完成学业的情况下离开学校，将无法再访问 UID@connect.hku.hk 邮箱账户。
+
+毕业后，发送到 UID@connect.hku.hk 邮箱的邮件将在一年内自动转发至 UID@graduate.hku.hk 邮箱；**毕业生有权长期使用该 UID@graduate.hku.hk 邮箱**。
+{% endhint %}
+
 * **Email Alias**：上述邮箱的**别名**（第二个地址），也可以用来收发邮件。
   * 可以选择修改成与自己的姓名等信息相关的，方便识别和记忆。
   * 如需修改，可在 HKU Portal 里选择：New Student > Change of Email Alias（简体中文：新注册学生 > 更改电子邮件别名）。
 
 {% hint style="info" %}
-修改 Email Alias 不改变 HKU Portal UID。登录电脑系统时，仍然需要使用 HKU Portal UID。
+修改 Email Alias 不改变 HKU Portal UID。登录各种系统时，仍然需要使用 HKU Portal UID。
 {% endhint %}
 
 * **Sender Name**：用上述邮箱收发邮件时显示的 “发送人”、“收件人”。
@@ -69,7 +90,7 @@ icon: pen-to-square
 
 HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.html)
 
-<figure><img src="../.gitbook/assets/chunk-0-img-0 (8).jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 进入 Master Registration
 
@@ -93,7 +114,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 #### 第 1 页
 
-1. **University Number**、**Degree Curriculum** 等：自动填写，无需更改，也不能更改。
+1. **University Number**、**Degree Curriculum** 等：自动填写。无需更改，也不能更改。
 2. **Concurrent Active Programs**：无需打勾。
 3. **Name** 姓名
    * **Name Prefix** 头衔 / 称谓：男性选择 Mr.；女性选择 Miss 或 Ms.。
@@ -109,7 +130,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 但是，如果不是内地居民，则需要以官方文件上的英文写法为准。可能的情况如：
 
-* （港）陳大文 CHAN, Tai Man / CHAN, Tai Man Joseph
+* （港）陳大文 CHAN, Tai Man（或 CHAN, Tai Man Joseph 等）
 * （台）張志明 CHANG, Chih-ming
 {% endhint %}
 
@@ -120,7 +141,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 * Mrs. 夫人 / 太太，适用于已婚女性，通常跟着丈夫的姓；
 * Ms. 女士，适用于不愿意强调婚姻情况（或不清楚）的女性。
 
-其他称谓：Dr. 博士；Hon. 阁下；Ir. 注册工程师；Lady 女勋爵；Lord 勋爵；Prof. 教授；Rev. 牧师；Sir 爵士；Ven. 尊者。
+（其他称谓：Dr. 博士；Hon. 阁下；Ir. 注册工程师；Lady 女勋爵；Lord 勋爵；Prof. 教授；Rev. 牧师；Sir 爵士；Ven. 尊者；等）
 {% endhint %}
 
 4. **CC Code of your Chinese name** 中文姓名电码
@@ -193,7 +214,7 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 提交前请再三检查**姓名、证件号码等重要信息**。
 {% endhint %}
 
-完成后，可以先关闭系统。10 分钟后即可开始使用 HKU Portal 的全部功能。
+完成后，可以先关闭系统。10 分钟后，即可开始使用 HKU Portal 的全部功能。
 
 ## 四、修改信息
 

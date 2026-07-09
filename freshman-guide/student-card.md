@@ -41,7 +41,7 @@ icon: user-graduate
 
 ## 二、上传学生签证等材料
 
-根据规定，非本地学生（需要签证来港就读的学生）需要在**抵港后**先上传证明材料，才可以获得领取学生证的通知。
+根据规定，非本地学生和需要签证来港就读的学生（如学生签证、IANG 签证、受养人签证、工作签证、优才签证等）需要在**抵港后**先上传证明材料，才可以获得领取学生证的通知。
 
 ### 1. 官方指导
 
@@ -78,7 +78,7 @@ icon: user-graduate
 
 ## 三、领取学生证
 
-完成上述步骤后，会在 **8 月底或之后**收到标题为 Notice for collection of Student Registration Card 的邮件。
+完成上述步骤后，会在 **8 月底至 9 月**收到标题为 Notice for collection of Student Registration Card 的邮件。
 
 ### 1. 打印学生证领取通知
 
@@ -88,8 +88,11 @@ icon: user-graduate
 
 然后打印。
 
-* 可以选择智华馆、图书馆里的打印机，方法：[2026｜如何优雅地打印/复印](https://mp.weixin.qq.com/s/WirpsyxL7akpTeWsm4Qj6Q)
-* 也可以选择钮鲁诗楼（Knowles Building，KB）4/F 的打印店，营业时间为周一至周五 11:00 am - 6:00 pm（周六、周日、公众假期休息）
+{% hint style="info" %}
+可以选择智华馆、图书馆里的打印机，方法：[2026｜如何优雅地打印/复印](https://mp.weixin.qq.com/s/WirpsyxL7akpTeWsm4Qj6Q)；
+
+也可以选择钮鲁诗楼（Knowles Building，KB）4/F 的打印店，营业时间为周一至周五 11:00 am - 6:00 pm（周六、周日、公众假期休息）。
+{% endhint %}
 
 ### 2. 所需文件
 

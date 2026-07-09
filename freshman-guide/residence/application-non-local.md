@@ -29,7 +29,7 @@
 * **Title** 头衔 / 称呼：男性选择 Mr.；女性选择 Miss 或 Ms. 即可。非必填。
 * **First Name / Last Name IN ENGLISH** 名 / 姓（英文）：按官方文件（港澳通行证、护照等）填写即可。注意 **First Name 是名**，**Last Name 是姓**。
 
-{% hint style="info" %}
+{% hint style="warning" %}
 内地居民的姓名在官方文件的英文写法中**一般没有空格**。
 
 因此，在输入时，**不要在两个字的拼音间空格**。例如：
@@ -39,7 +39,7 @@
 
 但是，如果不是内地居民，则需要以官方文件上的英文写法为准。可能的情况如：
 
-* （港）陳大文 CHAN, Tai Man / CHAN, Tai Man Joseph
+* （港）陳大文 CHAN, Tai Man（或 CHAN, Tai Man Joseph 等）
 * （台）張志明 CHANG, Chih-ming
 {% endhint %}
 

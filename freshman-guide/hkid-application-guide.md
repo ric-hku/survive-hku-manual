@@ -21,7 +21,7 @@ icon: id-card
 [GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm)
 
 {% hint style="info" %}
-根据 [使用香港政府一站通网上服务的系统需求](https://www.gov.hk/sc/about/helpdesk/softwarerequirement/onlineservice.htm)，可以使用Windows、macOS、Linux、iOS、Android 等常用操作系统和 Microsoft Edge、Safari、Mozilla Firefox、Google Chrome 等常用浏览器。
+根据 [使用香港政府一站通网上服务的系统需求](https://www.gov.hk/sc/about/helpdesk/softwarerequirement/onlineservice.htm)，可以使用 Windows、macOS、Linux、iOS、Android 等常用操作系统和 Microsoft Edge、Safari、Mozilla Firefox、Google Chrome 等常用浏览器。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
@@ -49,13 +49,9 @@ icon: id-card
 
 #### 甲部分：申请详情
 
-已满十八岁的同学，在申请类别选择中"首次登记身份证（持单程证人士除外）"及"持有效签证/进入许可的新来港人士（就读）"。
+在申请类别选择中依次选择 **首次登记身份证（持单程证人士除外）**、**持有效签证／进入许可的新来港人士（就读）**。
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-
-如未满十八岁，需选择"首次登记身份证（持单程证人士除外）"及"年满 11 岁申请"。
-
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 #### 乙部分：申请人资料
 
@@ -65,13 +61,13 @@ icon: id-card
 
 旅行证件号码：填写往来港澳通行证号码即可。
 
-* 根据提示，输入最后六个数字即可。例如，如果证件号码是 CA3273201，则填写 273201 即可。
+* 根据提示，输入**最后六个数字**即可。例如，如果证件号码是 CA3273201，则填写 273201 即可。
 
 签证 / 进入许可申请档案编号：按照签证 / 进入许可上的填写，括号中的数字填入右侧括号中。
 
 * 编号的位置如图所示。
 
-出生日期（日-月-年）（只需出生日及出生年份）
+出生日期（日-月-年）（只需输入出生日及出生年份）
 
 <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +94,7 @@ icon: id-card
 离港大最近的是湾仔办事处；如果可预约的最早时间过晚，或是时间不合适等，可以考虑其他较远的办事处。
 
 {% hint style="info" %}
-从香港大学港铁站前往各办事处的交通时间：
+从香港大学港铁站前往各办事处的交通时间（数据来源：Google 地图）：
 
 * 湾仔（港岛）：约 20 分钟
 * 长沙湾（九龙）：约 30 - 40 分钟
@@ -107,7 +103,7 @@ icon: id-card
 * 屯门：约 55 - 75 分钟
 * 元朗：约 60 - 70 分钟
 
-（数据来源：Google 地图）
+以上各办事处的地址、办公时间、电话号码：[人事登记办事处 | 入境事务处](https://www.immd.gov.hk/hks/contactus/person-registration.html)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
@@ -147,10 +143,10 @@ icon: id-card
 {% hint style="info" %}
 部分内容由于未入境香港，暂时无法填写，需入境后补填。
 
-也可以选择在抵港后再进行预填表格；或是在办事处现场⽤提供的设备进⾏填写。
+因此，也可以选择在抵港后再进行预填表格，或是在办事处现场⽤提供的设备进⾏填写。
 {% endhint %}
 
-## 三、登记表格填写
+## 三、预先填写登记表格
 
 提交预约后,在步骤 5 中点击绿色按键“开始”进入填写,点击下图中的申请人 1。
 

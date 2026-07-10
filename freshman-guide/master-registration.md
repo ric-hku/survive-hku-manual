@@ -151,7 +151,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 5. **HKID Number** 香港身份证号码：如果没有香港身份证，此项留空即可。
-6. **Passport** 护照：填写**护照号码 / 往来港澳通行证号码**。
+6. **Passport** 护照：填写**往来港澳通行证号码**。
    * **Issuing Country** 发行国：CHN 中国
 7. **ID No. of Home Country** 本国身份证件号码：如果有内地的居民身份证，填写**公民身份号码（身份证号）**。否则留空。
    * **Issuing Country** 发行国：CHN 中国

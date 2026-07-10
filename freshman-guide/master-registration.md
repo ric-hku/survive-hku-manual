@@ -151,13 +151,14 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 5. **HKID Number** 香港身份证号码：如果没有香港身份证，此项留空即可。
-6. **Passport** 护照：填写**往来港澳通行证号码**。
+6. **Passport** 护照：填写**往来港澳通行证号码 / 护照号码**。
    * **Issuing Country** 发行国：CHN 中国
 7. **ID No. of Home Country** 本国身份证件号码：如果有内地的居民身份证，填写**公民身份号码（身份证号）**。否则留空。
    * **Issuing Country** 发行国：CHN 中国
    * **National ID Type** 身份证件类型：NID 居民身份证
 8. **Place of Residence/Household in Mainland China** 内地的居住地 / 户口所在地：**来自内地的同学必须填写**。否则留空。
-9. **Type of Visa/Entry Permit Required to Study in Hong Kong** 来港就读所需签证/入境许可类型：此项供同学确认本地 / 非本地身份，非本地同学选 Student Visa / Entry Permit。
+9. **Type of Visa/Entry Permit Required to Study in Hong Kong** 来港就读所需签证/入境许可类型：此项供同学确认本地 / 非本地身份。
+   * 非本地同学选 Student Visa / Entry Permit。
    * 有关具体定义，请参照：[本地及非本地学生的定义](https://ric-hku.gitbook.io/survive-hku-manual/appendices/local-definition)。
    * 如果与实际情况有所出入，请在完成 Master Registration 之后，尽快通过 [Request to Update Local/Non-local Status](https://ase.hku.hk/doc/localstatus_update.pdf) 表格更新相关信息，并告知所属学院。
 10. **Marital Status** 婚姻状态：**Single** 未婚

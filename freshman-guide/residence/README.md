@@ -264,7 +264,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 具体设施，详见 [CEDARS 的官方介绍网页](https://housing.cedars.hku.hk/university-accommodation/residence-options)，或本手册 [各宿舍详细介绍](details/) 这部分的内容。
 {% endhint %}
 
-### Q5. 什么时候申请宿舍？在哪里申请？
+### Q5. 什么时候申请宿舍？在哪里申请？只有 Conditional Offer 可以申请吗？
 
 * **非本地身份新生**：
   * **申请方式**：在 [Residence Application](https://housing.cedars.hku.hk/university-accommodation/residence-application/new-undergraduate-students/non-local-students) 页面中，选择 New Undergraduate Students > Non-local Students > Apply Now，打开申请表。
@@ -283,6 +283,8 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
   * 面试时间（如有）：2026 年 8 月 7 - 16 日；
   * **接受 Offer 时间**：2026 年 8 月 17 - 18 日；
   * 提出 Appeal 时间：2026 年 8 月 17 - 20 日。
+
+**只有 Conditional Offer 也可以申请。**
 
 ### Q6. 宿舍招收新生的标准是什么？
 

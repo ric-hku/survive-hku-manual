@@ -216,6 +216,8 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 完成后，可以先关闭系统。10 分钟后，即可开始使用 HKU Portal 的全部功能。
 
+此外，完成 Master Registration 后，可以开始 [上传学生证所需材料](student-card.md) 了。
+
 ## 四、修改信息
 
 如要修改：

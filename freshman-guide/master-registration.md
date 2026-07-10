@@ -51,10 +51,11 @@ icon: pen-to-square
 <figure><img src="../.gitbook/assets/HKU Portal - 副本.png" alt=""><figcaption></figcaption></figure>
 
 * **HKU Portal PIN**：学校各种电脑系统里的**密码**。
-  * 如需修改，可在 HKU Portal 里选择：IT Support > HKU Portal PIN Change（简体中文：资讯科技服务 / > 更改 HKU Portal 密码）。
+  * 如需修改，可在 HKU Portal 里选择 IT Support > HKU Portal PIN Change（简体中文：资讯科技服务 > 更改 HKU Portal 密码）。
 * **HKU Portal Email** (HKU Email)：**校园电子邮箱**。邮箱地址为 UID 加上 "@ connect.hku.hk"。
   * 入学之后，学校信息、社团 / 活动推广、与学校部门联系、与教师联系等都需要使用这个邮箱。
   * 由 Microsoft 提供。因此，可以[使用 Outlook 登录](https://outlook.office365.com/mail/)。在手机等移动设备上，可以[使用 Outlook 应用](https://www.microsoft.com/zh-cn/microsoft-365/outlook-mobile-for-android-and-ios)。
+  * 也可以通过在 HKU Portal 里选择 My Services > My Email（简体中文：我的服务 > 我的电邮）来打开。
 
 {% hint style="info" %}
 获得校园邮箱后，学校将通过这一校园邮箱向学生通知重要信息，并作为主要的沟通渠道（而非先前申请时使用的个人邮箱）。因此，需时常关注校园邮箱。
@@ -70,7 +71,7 @@ icon: pen-to-square
 
 * **Email Alias**：上述邮箱的**别名**（第二个地址），也可以用来收发邮件。
   * 可以选择修改成与自己的姓名等信息相关的，方便识别和记忆。
-  * 如需修改，可在 HKU Portal 里选择：New Student > Change of Email Alias（简体中文：新注册学生 > 更改电子邮件别名）。
+  * 如需修改，可在 HKU Portal 里选择 New Student > Change of Email Alias（简体中文：新注册学生 > 更改电子邮件别名）。
 
 {% hint style="info" %}
 修改 Email Alias 不改变 HKU Portal UID。登录各种系统时，仍然需要使用 HKU Portal UID。
@@ -80,7 +81,7 @@ icon: pen-to-square
   * 默认为邮箱地址，格式 u3xxxxxx @ connect.hku.hk。
   * 如果修改过 Email Alias，会自动变更为 \[Email Alias] @ connect.hku.hk。
   * 可以选择修改成与自己的姓名等，方便识别。
-  * 如需修改，可在 HKU Portal 里选择：IT Support > Name/Email Address Registration in Mail（简体中文：资讯科技服务 > 注册电邮名字/地址）。
+  * 如需修改，可在 HKU Portal 里选择 IT Support > Name/Email Address Registration in Mail（简体中文：资讯科技服务 > 注册电邮名字/地址）。
 
 ## 三、Master Registration 步骤
 
@@ -239,9 +240,9 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 {% endhint %}
 
 * 地址、电话、紧急联络人信息
-  * 在 HKU Portal 里选择：Useful Links & Resources > View & Change Personal Info（简体中文：常用连结 > 查看及更改个人资料）。
+  * 在 HKU Portal 里选择 Useful Links & Resources > View & Change Personal Info（简体中文：常用连结 > 查看及更改个人资料）。
 * 银行账户信息
-  * 在 HKU Portal 里选择：Financial Services > View / Amend Bank Account Info（简体中文：财政服务 > 查看银行账户资料）。
+  * 在 HKU Portal 里选择 Financial Services > View / Amend Bank Account Info（简体中文：财政服务 > 查看银行账户资料）。
 
 ***
 

@@ -41,7 +41,7 @@ icon: id-card
 
 ## 二、在线填写预约信息
 
-<figure><img src="../.gitbook/assets/0615ade8563a36beca39b0c6d68b2487.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 网上预约共有 5 个步骤。
 
@@ -76,7 +76,7 @@ icon: id-card
 自己选择一组 4 位数字代码填入。
 
 {% hint style="warning" %}
-注意选择**自己能够记住的代码**。之后更改、取消或查询预约都需要这组代码。
+注意选择**自己能够记住的代码**。之后更改、取消或查询预约（以及预填表格）都需要这组代码。
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/微信图片_20260706225427_543_3.png" alt=""><figcaption></figcaption></figure>
@@ -138,7 +138,7 @@ icon: id-card
 点击 **确认预约及预填表格** 提交预约后，步骤 5 会被自动跳过，自动进入网上预填申请书的部分。
 {% endhint %}
 
-这时，可以选择继续在网上预填申请书。
+这时，可以选择继续在网上预填申请书，也可以选择直接结束预约流程。
 
 {% hint style="info" %}
 部分内容由于未入境香港，暂时无法填写，需入境后补填。
@@ -148,21 +148,63 @@ icon: id-card
 
 ## 三、预先填写登记表格
 
-提交预约后,在步骤 5 中点击绿色按键“开始”进入填写,点击下图中的申请人 1。
+如果不是在预约后直接开始填写登记表格，也可以直接在 [GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm) 中选择 **预填表格** 进行填写。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+### 步骤 1：输入预约资料
 
-申请人需要填写甲和乙部分。甲中的个人资料、香港地址和教育程度须填写。
+{% hint style="info" %}
+点击右侧的问号按钮，可展开更多说明。
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+* 证件类型：其他旅行证件
+* 旅行证件号码：预约时填写的证件号码的**最后六个数字**
+* 查询代码：预约时填写的一组自己选择的 4 位数字代码
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-香港住址需写明地区，校内各堂及第一、第二舍堂村位于中西区半山区；第三舍堂村、青莲台及蒲飞路学生宿舍位于中西区坚尼地城；沙宣道舍堂村位于南区薄扶林；黄竹坑新舍堂位于南区黄竹坑。楼宇名称填写宿舍名称即可。<br>
+### 步骤 2：选择申请人
 
-<figure><img src="../.gitbook/assets/chunk-0-img-9.jpeg" alt=""><figcaption></figcaption></figure>
+选择 **申请人 1**。
+
+<figure><img src="../.gitbook/assets/0000.png" alt=""><figcaption></figcaption></figure>
+
+### 步骤 3：输入资料
+
+#### 甲部 - 个人资料
+
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 1.png" alt=""><figcaption></figcaption></figure>
+
+* **出生地点**：内地
+* **申报的国籍**：中国
+* **职业**：全日制学生
+* **香港住址／通讯地址（只适用於没有香港住址的申请人）**：具体填写方式见下。
+* **联络电话号码**：本项不能填写空格、横线（-）等特殊符号，且不能长于 15 字符。如有需要，可以在前面加上区号 86 或 0086。
+
+香港住址：
+
+* 可以在 **地址查找** 处输入屋邨、楼宇名称（如李国贤堂、赛马会第一舍堂村等），然后填写楼层、单位等信息；也可以在地址搜索结果末尾（或先点击任意地址后）点击 **如系统未能显示所需的地址，请按此** 进入自行填写地址的界面。
+* 如果
+
+<figure><img src="../.gitbook/assets/767148618f8aacb3d290bb3842c28897.png" alt="" width="563"><figcaption></figcaption></figure>
+
+如果没有香港住址，也可以在通讯地址处填写内地住址。
+
+<figure><img src="../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
+
+* 香港业务地址：无需填写
+* 教育程度：中学及以下
+* 婚姻状况：单身
+
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 2.png" alt=""><figcaption></figcaption></figure>
+
+#### &#x20;乙部（只供没有香港居留权的申请人填写）
+
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 乙.png" alt=""><figcaption></figcaption></figure>
+
+* 在港逗留条件：学生
+* 获准在港逗留至（如适用）：<br>
 
 乙部的香港居留权特指可以在香港永久居住的权利，因而同学们需要在港逗留条件中选择 "学生"。但是，由于获准逗留日期在未入港前无法确定，需要同学首次使用学生签证入境并拿到 一张写有批准逗留日期的入境小白条（海关人员会将小白条和签证钉在一起），因此同学们可以暂时不填写此处信息，入港后补填。在是否居于香港连续七年或以上中选"否"。丙部不适用 则无需填写，点击"继续"。
 

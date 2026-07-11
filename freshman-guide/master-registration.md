@@ -30,6 +30,18 @@ icon: pen-to-square
   * HKU Portal URL：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.html)
   * 电子邮箱地址 Email Address：格式 u3xxxxxx @ connect.hku.hk
 
+{% hint style="info" %}
+Programme 处标的 (4) **不表示学生的修业时长（Programme/Course Duration）是四年**，而是表示 “学制”。
+
+2012 - 13 学年开始，香港的大学本科教育由传承自英国的三年制（3-Year Curriculum）改制成与世界其他地区一致的四年制（4-Year Curriculum）。为了区分不同学制的课程和项目，引入了这个标识：(3) 表示学生就读的项目是三年制；(4) 表示四年制。&#x20;
+
+（此处的 “学制” 不代表实际修业时长。例如：MBBS 在三年制下需读 5 年，而四年制下为 6 年。）&#x20;
+
+因此，现在所有本科生项目此处一般都是 (4)。
+
+详情请见：[SIS Glossary - Student Information System (SIS)](https://intraweb.hku.hk/reserved_1/sis_student/sis/SIS-glossary.html)（需登录 HKU Portal）
+{% endhint %}
+
 ## 二、名词解释
 
 * **University Number**（U. No.）：**学生编号**。是之后学生证（Student Registration Card）上的编号。
@@ -93,13 +105,21 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+在首次登录时
+{% endhint %}
+
 ### 2. 进入 Master Registration
 
-在 HKU Portal 里选择 Student Information System (SIS)，打开学生资讯系统：
+通过自动弹出的页面，点击 **Go to Master Registration**；
+
+<figure><img src="../.gitbook/assets/995c977e960b011d4836fb2622217ebf.png" alt=""><figcaption></figcaption></figure>
+
+或者，在 HKU Portal 里选择 Student Information System (SIS) 打开学生资讯系统后，在左侧菜单栏中，选择 SIS Menu > Self Services > **Master Registration**。
 
 <figure><img src="../.gitbook/assets/SIS.png" alt=""><figcaption></figcaption></figure>
 
-在左侧菜单栏中，选择 SIS Menu > Self Services > **Master Registration**。
+
 
 ### 3. 填写相关信息
 
@@ -115,19 +135,20 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 #### 第 1 页
 
-1. **University Number**、**Degree Curriculum** 等：自动填写。无需更改，也不能更改。
-2. **Concurrent Active Programs**：无需打勾。
+1. 在开始填写表格前，需勾选页面顶端的选择框（表示同意学校获取自己的个人信息）。
+2. **Personal Particulars - Biographical** 个人信息：自动填写。无需更改，也不能更改。
 3. **Name** 姓名
    * **Name Prefix** 头衔 / 称谓：男性选择 Mr.；女性选择 Miss 或 Ms.。
    * **Surname** 姓、**Other Name** 名：必须与往来港澳通行证（或护照、香港身份证等官方文件）上的相同。
 
 {% hint style="warning" %}
-内地居民的姓名在官方文件的英文写法中**一般没有空格**。
+内地居民的姓名在官方文件的英文写法中**一般没有空格**，且没有隔音符号（'）。
 
 因此，在输入时，**不要在两个字的拼音间空格**。例如：
 
 * 王建国 WANG, Jianguo
 * 上官晓月 SHANGGUAN, Xiaoyue
+* 吴兴恩 WU, Xingen
 
 但是，如果不是内地居民，则需要以官方文件上的英文写法为准。可能的情况如：
 
@@ -147,29 +168,29 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 4. **CC Code of your Chinese name** 中文姓名电码
    * 如果没有香港身份证，此项留空即可。
-   * 如果有香港身份证，此项填写上面的中文姓名电码。输入之后，点击 Display Chinese Name，确认实际汉字。
+   * 如果有香港身份证，此项填写上面的中文姓名电码（见下图）。输入之后，点击 Display Chinese Name，确认实际汉字。
 
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-5. **HKID Number** 香港身份证号码：如果没有香港身份证，此项留空即可。
-6. **Passport** 护照：填写**往来港澳通行证号码 / 护照号码**。
-   * **Issuing Country** 发行国：CHN 中国
-7. **ID No. of Home Country** 本国身份证件号码：如果有内地的居民身份证，填写**公民身份号码（身份证号）**。否则留空。
-   * **Issuing Country** 发行国：CHN 中国
-   * **National ID Type** 身份证件类型：NID 居民身份证
-8. **Place of Residence/Household in Mainland China** 内地的居住地 / 户口所在地：**来自内地的同学必须填写**。否则留空。
-9. **Type of Visa/Entry Permit Required to Study in Hong Kong** 来港就读所需签证/入境许可类型：此项供同学确认本地 / 非本地身份。
-   * 非本地同学选 Student Visa / Entry Permit。
-   * 有关具体定义，请参照：[本地及非本地学生的定义](https://ric-hku.gitbook.io/survive-hku-manual/appendices/local-definition)。
-   * 如果与实际情况有所出入，请在完成 Master Registration 之后，尽快通过 [Request to Update Local/Non-local Status](https://ase.hku.hk/doc/localstatus_update.pdf) 表格更新相关信息，并告知所属学院。
-10. **Marital Status** 婚姻状态：**Single** 未婚
-11. **Place of Permanent Right of Abode** 永久居留权所在地：内地同学为 CHN 中国。
-12. **Country of Legal Nationality** 国籍：内地同学为 CHN 中国。
-    * 持香港特别行政区护照（HKSAR Passport）、英国国民（海外）护照（BNO Passport）或香港特区签证身份书（D.I.），且未持有其他国家有效护照的人，应选择 Hong Kong (SAR) of PRC。
-
 #### 第 2 页
 
-1. **Type of Disability** 残障类别：如有，则填写具体类别；如无，则留空。
+1. **HKID Number** 香港身份证号码：如果没有香港身份证，此项留空即可。
+2. **Passport** 护照：填写**往来港澳通行证号码 / 护照号码**。
+   * **Issuing Country** 发行国：CHN 中国
+3. **ID No. of Home Country** 本国身份证件号码：如果有内地的居民身份证，填写**公民身份号码（身份证号）**。否则留空。
+   * **Issuing Country** 发行国：CHN 中国
+   * **National ID Type** 身份证件类型：NID 居民身份证
+4. **Place of Residence/Household in Mainland China** 内地的居住地 / 户口所在地：**来自内地的同学必须填写**。否则留空。
+5. **Type of Visa/Entry Permit Required to Study in Hong Kong** 来港就读所需签证/入境许可类型：此项供同学确认本地 / 非本地身份。
+   * 需要学生签证来港就读的同学，选 Student Visa / Entry Permit；通过受养人签证来港的同学，选 Dependant visa / entry permit。
+   * 有关本地 / 非本地身份的具体定义，请参照：[本地及非本地学生的定义](https://ric-hku.gitbook.io/survive-hku-manual/appendices/local-definition)。
+   * 如果与实际情况有所出入，请在完成 Master Registration 之后，尽快通过 [Request to Update Local/Non-local Status](https://ase.hku.hk/doc/localstatus_update.pdf) 表格更新相关信息，并告知所属学院。
+6. **Marital Status** 婚姻状态：**Single** 未婚
+7. **Place of Birth** 出生地：内地同学为 CHN 中国。
+8. **Place of Permanent Right of Abode** 永久居留权所在地：内地同学为 CHN 中国。
+9. **Country of Legal Nationality** 国籍：内地同学为 CHN 中国。
+   * 持香港特别行政区护照（HKSAR Passport）、英国国民（海外）护照（BNO Passport）或香港特区签证身份书（D.I.），且未持有其他国家有效护照的人，应选择 Hong Kong (SAR) of PRC。
+10. **Type of Disability** 残障类别：如有，则填写具体类别；如无，则留空。
 
 #### 第 3 页
 

@@ -66,7 +66,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
   * 如需修改，可在 HKU Portal 里选择 IT Support > HKU Portal PIN Change（简体中文：资讯科技服务 > 更改 HKU Portal 密码）。
 * **HKU Portal Email** (HKU Email)：**校园电子邮箱**。邮箱地址为 UID 加上 "@ connect.hku.hk"。
   * 入学之后，学校信息、社团 / 活动推广、与学校部门联系、与教师联系等都需要使用这个邮箱。
-  * 由 Microsoft 提供。因此，可以[使用 Outlook 登录](https://outlook.office365.com/mail/)。在手机等移动设备上，可以[使用 Outlook 应用](https://www.microsoft.com/zh-cn/microsoft-365/outlook-mobile-for-android-and-ios)。
+  * 由 Microsoft 提供。因此，可以 [使用 Outlook 登录](https://outlook.office365.com/mail/)。在手机等移动设备上，可以 [使用 Outlook 应用](https://www.microsoft.com/zh-cn/microsoft-365/outlook-mobile-for-android-and-ios)。
   * 也可以通过在 HKU Portal 里选择 My Services > My Email（简体中文：我的服务 > 我的电邮）来打开。
 
 {% hint style="info" %}

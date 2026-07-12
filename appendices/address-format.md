@@ -95,7 +95,7 @@ WAN CHAI\
 HONG KONG
 
 {% hint style="info" %}
-注：现时，**香港没有采用邮政编码系统**。市民如须在网站填写香港的邮政编码，可考虑**留空该栏**或尝试其他人士惯常使用的 **“000”**、**“0000”**、**“000000”** 或 **“HKG”** 等方法。
+注：现时，**香港没有采用邮政编码系统**。如须在网站填写香港的邮政编码，可考虑**留空该栏**或尝试其他人士惯常使用的 **“000”**、**“0000”**、**“000000”** 或 **“HKG”** 等方法。
 {% endhint %}
 
 ### 附：各宿舍地址
@@ -115,25 +115,26 @@ HONG KONG
     Starr Hall, 91B Pokfulam Road, Pokfulam, Hong Kong
 * 利玛窦宿舍 Ricci Hall\
   Ricci Hall, 93 Pokfulam Road, Pokfulam, Hong Kong
-*   赛马会第二舍堂村 Jockey Club Student Village II (JCSV II)
-
-    _\[Hall Name]_, Jockey Club Student Village II, 109 Pokfulam Road, Hong Kong
+* 赛马会第二舍堂村 Jockey Club Student Village II (JCSV II)\
+  \[Hall Name], Jockey Club Student Village II, 109 Pokfulam Road, Hong Kong
 * 圣约翰学院 St. John's College\
   St John's College, 82 Pokfulam Road, Hong Kong
 * 沙宣道各舍堂 Sassoon Road Halls\
-  &#xNAN;_\[Hall Name]_, 6 Sassoon Road, Hong Kong
+  \[Hall Name], 6 Sassoon Road, Hong Kong
   * 利铭泽堂 Richard Charles Lee Hall (R.C. Lee Hall)\
     R. C. Lee Hall, 6A Sassoon Road
   * 伟伦堂 Wei Lun Hall\
     Wei Lun Hall, 6D Sassoon Road
   * 利希慎堂 Lee Hysan Hall\
     Lee Hysan Hall, 6B Sassoon Road
+* 西高山学生宿舍 High West Student Village\
+  High West Student Village, 142 Pokfulam Road, Hong Kong
 * 大学堂 University Hall (U-Hall)\
   University Hall, 144 Pokfulam Road, Hong Kong
 * 赛马会第三学生村 Jockey Club Student Village III (JCSV III)\
-  &#xNAN;_\[College Name]_, HKU Jockey Club Student Village III, 9 Lung Wah Street, Kennedy Town
+  \[College Name], HKU Jockey Club Student Village III, 9 Lung Wah Street, Kennedy Town
 * 赛马会第四学生村 Jockey Club Student Village IV (JCSV IV)\
-  &#xNAN;_\[College Name]_, HKU Jockey Club Student Village IV, 4 Police School Road, Wong Chuk Hang
+  \[College Name], HKU Jockey Club Student Village IV, 4 Police School Road, Wong Chuk Hang
 * 青莲台学生宿舍 Ching Lin Terrace Residence\
   Ching Lin Terrace Residence, 10 Ching Lin Terrace, Kennedy Town, Hong Kong
 * 学生公寓 Student Flats\

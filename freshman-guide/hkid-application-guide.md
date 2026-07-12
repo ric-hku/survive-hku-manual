@@ -8,15 +8,9 @@ icon: id-card
 需要**获得学生签证之后**才可以预约办理香港身份证。
 {% endhint %}
 
-{% hint style="warning" %}
-注：现在⽹上预约⾝份证办理名额⼗分紧缺。
+根据法律规定，抵港后 30 天内须登记领取身份证。因此，强烈建议同学们及早进行预约。
 
-根据《⼈事登记条例》，除获豁免或⽆须登记的⼈⼠外，凡年满 11 岁或以上的⾹港居⺠（包括获准在⾹港逗留超过 180 天的⼈⼠），均须登记领取⾝份证。年满 11 岁或以上并获准在⾹港逗留超过 180 天的新抵港⼈⼠须在抵港后的 30 天内登记领取⾝份证。
-
-因此，RIC 强烈建议同学们及早进⾏预约。
-{% endhint %}
-
-## 一、预约网站：香港政府一站通
+## 一、进入预约网站
 
 [GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm)
 
@@ -24,7 +18,7 @@ icon: id-card
 根据 [使用香港政府一站通网上服务的系统需求](https://www.gov.hk/sc/about/helpdesk/softwarerequirement/onlineservice.htm)，可以使用 Windows、macOS、Linux、iOS、Android 等常用操作系统和 Microsoft Edge、Safari、Mozilla Firefox、Google Chrome 等常用浏览器。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt="" width="563"><figcaption></figcaption></figure>
 
 在打开的网页里，点击 **网上预约申领香港身份证(包括其后更改,取消或查询预约)及预填表格** 按钮，进入网上预约系统。
 
@@ -37,7 +31,7 @@ icon: id-card
 * 签证 / 进入许可申请档案编号：在发放的电子版签证 / 进入许可上，格式如 AAAA-1234567-89(0)。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 二、在线填写预约信息
 
@@ -51,7 +45,7 @@ icon: id-card
 
 在申请类别选择中依次选择 **首次登记身份证（持单程证人士除外）**、**持有效签证／进入许可的新来港人士（就读）**。
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 乙部分：申请人资料
 
@@ -69,7 +63,7 @@ icon: id-card
 
 出生日期（日-月-年）（只需输入出生日及出生年份）
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 丙部分：查询代码
 
@@ -79,13 +73,13 @@ icon: id-card
 注意选择**自己能够记住的代码**。之后更改、取消或查询预约（以及预填表格）都需要这组代码。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_3.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 丁部分：验证
 
 填写验证码。确认本页信息无误后，点按 **继续** 进入下一步。
 
-<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20260706225427_543_2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 步骤 2：选择办理地点
 
@@ -112,15 +106,15 @@ icon: id-card
 
 点击 **其他日期** 查看近期预约情况；之后，点击 **位置地图** 查看办事处具体位置。
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure>
 
 选定日期后，选择办理时间。
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
 
 选择办理时间后，可以选择填入一个自己常用且方便查看的**电邮地址**，方便接收**确认通知**和**预约提示**。
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 步骤 4：确认
 
@@ -143,14 +137,14 @@ icon: id-card
 {% hint style="info" %}
 部分内容由于未入境香港，暂时无法填写，需入境后补填。
 
-因此，也可以选择在抵港后再进行预填表格，或是在办事处现场⽤提供的设备进⾏填写。
+因此，也可以选择在**抵港后**再进行预填表格；或者，在办理身份证当天，于人事登记办事处内使用自助设施或个人流动装置填写电子表格。
 {% endhint %}
 
 ## 三、预先填写登记表格
 
 如果不是在预约后直接开始填写登记表格，也可以直接在 [GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm) 中选择 **预填表格** 进行填写。
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 步骤 1：输入预约资料
 
@@ -158,9 +152,9 @@ icon: id-card
 点击右侧的问号按钮，可展开更多说明。
 {% endhint %}
 
-* 证件类型：其他旅行证件
-* 旅行证件号码：预约时填写的证件号码的**最后六个数字**
-* 查询代码：预约时填写的一组自己选择的 4 位数字代码
+* 证件类型：其他旅行证件。
+* 旅行证件号码：预约时填写的证件号码的**最后六个数字**。
+* 查询代码：预约时填写的一组自己选择的 4 位数字代码。
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
@@ -174,76 +168,252 @@ icon: id-card
 
 #### 甲部 - 个人资料
 
-<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 1.png" alt="" width="563"><figcaption></figcaption></figure>
 
-* **出生地点**：内地
-* **申报的国籍**：中国
-* **职业**：全日制学生
+* **出生地点**：中国 - 内地。
+* **申报的国籍**：中国。
+* **职业**：全日制学生。
 * **香港住址／通讯地址（只适用於没有香港住址的申请人）**：具体填写方式见下。
 * **联络电话号码**：本项不能填写空格、横线（-）等特殊符号，且不能长于 15 字符。如有需要，可以在前面加上区号 86 或 0086。
+
+<figure><img src="../.gitbook/assets/767148618f8aacb3d290bb3842c28897.png" alt="" width="563"><figcaption></figcaption></figure>
 
 香港住址：
 
 * 可以在 **地址查找** 处输入屋邨、楼宇名称（如李国贤堂、赛马会第一舍堂村等），然后填写楼层、单位等信息；也可以在地址搜索结果末尾（或先点击任意地址后）点击 **如系统未能显示所需的地址，请按此** 进入自行填写地址的界面。
-* 如果
 
-<figure><img src="../.gitbook/assets/767148618f8aacb3d290bb3842c28897.png" alt="" width="563"><figcaption></figcaption></figure>
+{% hint style="info" %}
+宿舍地址可参考 [附：各宿舍地址 | 内地、香港地址格式参考](https://ric-hku.gitbook.io/survive-hku-manual/appendices/address-format#fu-ge-su-she-di-zhi)
 
-如果没有香港住址，也可以在通讯地址处填写内地住址。
+* 地域：香港。
+* 地区：
+  * 校内、一村、利玛窦宿舍、二村、圣约翰学院、三村位于中西区；
+  * 沙宣道、西高山、大学堂、四村（黄竹坑）位于南区。
+* 街道名称：
+  * Bonham Road 般咸道；Pokfulam Road 薄扶林道；Sassoon Road 沙宣道；Lung Wah Street 龙华街；Police School Road 警校道；Ching Lin Terrace 青莲台。
+* 屋邨名称：香港大学、赛马会第一舍堂村等。
+* 楼宇名称：李国贤堂、何东夫人纪念堂、利玛窦宿舍、利铭泽堂、信兴学院等。
+* 座数：可选择 “无座数”。
+* 楼层：按实际填写。
+* 单位：可选择 “室”，然后填入编号。
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* 香港业务地址：无需填写
-* 教育程度：中学及以下
-* 婚姻状况：单身
+如果没有香港住址，也可以在通讯地址处填写内地住址。
 
-<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 甲 2.png" alt="" width="563"><figcaption></figcaption></figure>
+
+* 香港业务地址：无需填写。
+* 教育程度：中学及以下（中学）。
+* 婚姻状况：单身。
 
 #### &#x20;乙部（只供没有香港居留权的申请人填写）
 
-<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 乙.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* 在港逗留条件：学生
-* 获准在港逗留至（如适用）：<br>
+* 在港逗留条件：学生。
+* 获准在港逗留至（如适用）：可参考入境标签（俗称 “小白条”，如下图）。注意格式为 “日-月-年”。
 
-乙部的香港居留权特指可以在香港永久居住的权利，因而同学们需要在港逗留条件中选择 "学生"。但是，由于获准逗留日期在未入港前无法确定，需要同学首次使用学生签证入境并拿到 一张写有批准逗留日期的入境小白条（海关人员会将小白条和签证钉在一起），因此同学们可以暂时不填写此处信息，入港后补填。在是否居于香港连续七年或以上中选"否"。丙部不适用 则无需填写，点击"继续"。
+<figure><img src="../.gitbook/assets/image (110).png" alt="" width="250"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+入境标签是在**入境香港时**获得的。
+{% endhint %}
 
-下图为入境小白条,红框内为批准逗留日期:
+* 旅行证件／证件种类及号码：填写港澳通行证号码。
+* “你曾否通常居于香港连续七年或以上？”：否。
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+#### 丙部（只供已登记为选民的申请人填写）
 
-确认所有信息填写无误后，点击最下方的"确定"提交。提交后，可以保存一份预约详情备用。<br>
+<figure><img src="../.gitbook/assets/微信图片_20260711172938_1248_494 - 丙.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/chunk-0-img-10.jpeg" alt=""><figcaption></figcaption></figure>
+无需勾选。
 
-<h3 align="center">五、办理提示</h3>
+### 步骤 4：确认
 
-1. 未满十八岁的申请者需要在父母或其他法定监护人陪同下到事务处进行身份证的申请 **（详情见下方未成年专题）**。
-2. 请大家务必按照预约时间前往事务处办理；如果因故无法在预约的时间内出席，在上述网站上更改或取消预约即可，最迟在预约日期的**前一天**更改或取消。
-3. 验证预约身份时可以出示最后确认时的表格，也可以提供申请使用的**旅行证件**进行验证。
-4. 周六事务处只在上午办公，请同学们在预约办理身份证时注意事务处办公时间。
+<figure><img src="../.gitbook/assets/微信图片_20260712005525_1250_494 2.png" alt=""><figcaption></figcaption></figure>
 
-### 六、未成年专题
+确认所有信息填写无误后，点击最下方的 **确定** 提交。
 
-香港政府一站通网站上要求未成年人办理香港智能身份证必须有家长/监护人陪同办理。RIC就此事与入境事务处进行了沟通，入境事务处表示如非极特殊情况，还是要求家长/监护人**陪同未成年人到场办理身份证。**
+### 步骤 5：接收确认
 
-如实在有特殊情况家长/监护人无法到场办理，请家长/监护人联系学校让学校方面指定临时监护人陪同学生办理。申请临时监护人的申请书须包括：
+<figure><img src="../.gitbook/assets/微信图片_20260712005550_1251_494 2.png" alt=""><figcaption></figcaption></figure>
 
-\
-1\. "xxx 同学家长 xxx 授权香港大学的 xxx 作为 xxx 同学的临时监护人"\
-2\. xxx 的香港身份证号为......\
-3."陪同 xxx 同学办理香港智能身份证"\
-4\. 家长/监护人签字
+提交后，可以保存预约详情（图片或 PDF 文件），然后点击 **完成** 关闭窗口。
 
-**注意：以上授权方式有不予授权或授权不被认可等风险，入境事务处强烈建议各位未成年新生 在家长陪同下办理香港智能身份证**
+## 四、前往办事处办理、领取证件
+
+### 1. 需要携带的文件
+
+预约当天，携带申请时使用的**往来港澳通行证**，前往预约的办事处办理。
+
+当天不足十八岁的同学，须同时出示**出生证明书**，并**由父、母或合法监护人陪同办理申请手续**。陪同办理申请手续的父、母或合法监护人，须出示其有效旅行证件（如港澳通行证、香港身份证等）。
+
+### 2. 拍摄照片要求
+
+由于办理时会现场拍摄照片，可以点击下面的链接，了解有关要求。
+
+[智能身份证相片的规格 - 智能身份证 | 入境事务处](https://www.immd.gov.hk/hks/services/hkid/smartid.html#photoRequirements)
+
+### 3. 办理流程
+
+{% stepper %}
+{% step %}
+#### 于自助取筹机或接待处领取筹号
+
+自动取筹机领取筹号的方法：
+
+* 将手机或电邮收到的确认通知上的二维码放在扫描器下；或
+* 在光学阅读器上放置你用作预约的身份证证明文件号码；或
+* 在屏幕上输入你用作预约的身份证证明文件号码或预约编号。
+{% endstep %}
+
+{% step %}
+### （如未网上预填）填写及提交申请表格
+
+如果同学没有预先于网上填写表格，可使用人事登记办事处内的自助设施或个人流动装置填写及提交申请表格。
+{% endstep %}
+
+{% step %}
+### 前往指定登记室进行登记手续
+
+登记手续包括：
+
+* 扫描左、右手拇指指纹；
+* 拍摄照片；
+* 核对申请表资料并签署。
+{% endstep %}
+
+{% step %}
+### 等候会见批核主任
+
+批核主任会复核申请，并发出一张申请香港身份证收据（俗称 “行街纸”）。
+
+<figure><img src="../.gitbook/assets/HKID TEMP.png" alt="" width="444"><figcaption></figcaption></figure>
+
+收据上会列出身份证号码、领取身份证的时间等信息。
+
+在拿到身份证之前，这份收据可在所列日期以前作为身份证明文件。
+{% endstep %}
+{% endstepper %}
+
+### 4. 处理申请时间
+
+处理身份证申请的时间一般为**五个工作天**（工作天是指星期一至星期五，公众假期除外）。一般而言，申请人可于入境事务处完成处理后的下一个工作天领取新身份证。
+
+### 5. 领取身份证
+
+申请人应在申请身份证收据上指定的领证期限内亲身或授权代表前往领证。
+
+在领证时，申请人必须交还其申请身份证收据。申请人须把左、右手拇指放在扫描器上，以确定身份证内的晶片操作正常，及晶片内的个人资料正确无误。
+
+领证时，也可以使用自助领证服务站 / 领取个人证件服务站。详情请见：[自助领证服务站/领取个人证件服务站](https://www.immd.gov.hk/hks/ic_collection_kiosk.html)。
+
+此外，也可以授权代表领证。详情请见：[登记或补领香港身份证 | 入境事务处](https://www.immd.gov.hk/hks/services/hkid/reg_replace.html#above_18\&lastTab)。
+
+## 五、未成年人换证
+
+未成年时已获得儿童身份证的同学，须在 **18 岁生日后的 30 天内**登记领取**成人身份证**。如果当时身在香港以外地方，则须在**返港后的 30 天内**提出申请。
+
+换领成人身份证时，可以使用设置于将军澳入境事务处总部的 “申请个人证件服务站”，以全自助形式办理，无需预约。地址及服务时间：[申请个人证件服务站 - 申请身份证](https://www.immd.gov.hk/hks/contactus/hq.html#12\&firstTab)。
+
+此外，也可以在其他办事处（如港岛）办理，预约网站：[GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm)；流程与前述预约流程类似，但 **申请类别** 需选择 **换领/补领身份证** - **年满 18 岁换证**。
+
+## 六、注意事项
+
+### 1. 登记领取身份证的法律义务
+
+根据香港法例第 177 章《人事登记条例》、第 177A 章《人事登记规例》，除获豁免的人士外，凡年满 11 岁或以上的香港居民，均须登记领取身份证。
+
+* 获准在香港逗留超过 180 天的**新抵港人士**必须在**抵港后的 30 天内**登记领取身份证。（第 3 条）
+* 任何人士如在 11 至 17 岁期间已获签发儿童身份证，须在 **18 岁生日后的 30 天内**登记领取成人身份证。如果有关人士当时身在香港以外地方，则须在**返港后的 30 天内**提出申请。（第 6 条）
+* 任何人如无合理辩解而违反上述规定，即属犯罪，可处第 3 级罚款（$10,000）及监禁 1 年。（第 19 条）
+
+### 2. 携带和出示身份证的法律义务
+
+根据香港法例第 115 章《入境条例》第 17C 条：
+
+1. 任何人如年满 15 岁，是身分证持有人或是根据《人事登记条例》须申请予以登记的人，即须**时刻随身携带其身分证明文件**（通常是指身分证）。
+2.  按上述规定须携带身分证明文件的人，在下述人员规定下须出示身分证明文件以供查阅 ——
+
+    1. 任何警务人员；
+    2. 任何入境事务主任或入境事务助理员；或
+    3. 行政长官藉宪报刊登的命令而为此目的授权的任何人或任何界别的人，
+
+    惟上述人员须穿着制服，或在被要求下出示获正式发给的证明文件，以证明他是警务人员、入境事务主任、入境事务助理员或是根据 (c) 段获授权的人。
+3. 任何人如未能按规定出示身分证明文件以供查阅，即属犯罪，经定罪后，可处第 2 级罚款（$5,000）。   \
+   但在就本款所订罪行而进行的法律程序中，被控人如能够就未能出示身分证明文件一事提出合理辩解，即可作为免责辩护。
+
+## 七、常见问题与解答
+
+### Q1. 我无法在预约的时间前去办理。怎么办？
+
+如果因故无法在预约的时间前去办理，在上述网站上更改或取消预约即可。
+
+最迟需要在预约日期的**前一天**更改或取消。
+
+### Q2. 我预约办理 / 领取香港身份证的时间遇恶劣天气（台风、暴雨等）。怎么办？
+
+详见：[恶劣天气时的特别安排](../appendices/hko-warning-signals.md)。
+
+恢复服务：
+
+* 在一般情况下，各办事处（包括入境事务处总部的自助服务站）所有服务会在八号热带气旋警告信号、“极端情况” 或黑色暴雨警告信号取消后的 2 小时内恢复正常。
+* 上述警告信号如在办公时间结束前 2 小时内取消，办事处（包括入境事务处总部的自助服务站）当日便不会提供服务。
+* 如恢复服务的时间预期在办事处的中午休息时段（如适用），有关服务将会在下午 2 时恢复。
+
+预约办理当天遇恶劣天气：
+
+* 若有关办事处的服务在八号热带气旋警告信号、“极端情况” 或黑色暴雨警告信号取消后恢复正常，你可在**往后日子的服务时段内**前往有关办事处作出其他安排而**无须重新预约**。
+* 届时，你应携同原本的网上预约通知书（如有）或提供电话预约参考编号以便跟进。
+* 服务轮候时间将视乎当日情况而可能较长。避免人多挤迫，你**无须**急于在警告信号取消翌日到有关办事处办理。详情请留意政府最新的新闻公报。
+
+领取香港身份证：
+
+* 领取香港身份证的期限一般为 1 个月。你可以在领证期限内的办公时间领取证件。
+* 如今天是你领取身份证期限的最后一天，你可在八号热带气旋警告信号、“极端情况” 或黑色暴雨警告信号取消后，在**其后的工作日**前往有关办事处领取证件。
+
+### Q3. 我在预约办证的日子未满 18 岁，而我的家长/监护人无法陪同。怎么办？
+
+根据入境事务处的意见，如非极特殊情况，**家长/监护人必须陪同未成年人办理身份证。**
+
+如实在有特殊情况家长/监护人无法到场办理，请家长/监护人联系学校让学校方面指定临时监护人陪同学生办理。
+
+申请临时监护人的申请书：
+
+> \[学生姓名] 的家长/监护人 \[姓名] 授权香港大学的 \[姓名]（香港身份证号码：……）作为 \[学生姓名] 的临时监护人，陪同 \[学生姓名] 办理香港身份证。
+
+并由家长/监护人签字。
+
+{% hint style="warning" %}
+以上授权方式有不予授权或授权不被认可等风险。
+
+因此，入境事务处**强烈建议未成年学生在家长陪同下办理香港身份证**。
+{% endhint %}
+
+### Q4. 我抵港 30 天内已经没有可供预约的时间了。怎么办？
+
+建议：
+
+* 及时预约能约到的最近日期；
+* 平时如果遇到警察检查身份证，可以：
+  * 出示签证（及港澳通行证、入境标签 / “小白条”）代替；
+  * 并解释预约困难的问题，表明自己已经预约好某一天的身份证办理，目前还在等待。
+
+### Q5. 香港居民身份证上的数字、字母等符号都是什么意思？
+
+关于香港身份证的历史、防伪特征、设计等，可参考：[智能身份证 | 入境事务处](https://www.immd.gov.hk/hks/services/hkid/smartid.html)。
+
+正面信息：
+
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者不详； \
+本文原作者不详；\
 2026 修订作者：B28 周育廉 BSc；B27 孙皋 BA。
 
 本文基于原新生群文件《5.1 如何网上预约香港身份证办理及预填申请表格》编写而成。

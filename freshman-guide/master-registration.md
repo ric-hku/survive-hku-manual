@@ -186,7 +186,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
    * 如果有香港身份证，填写香港身份证号码，并可留空下方的护照信息、身份证 / 港澳通行证信息。
 2. **Passport Number** 护照号码：填写**护照号码**。
    * **Issuing Country** 发行国：CHN 中国
-3. **China ID no** 中国（内地）证件号码：
+3. **China ID No** 中国（内地）证件号码：
    * **Issuing Country** 发行国：CHN 中国
    * **National ID Type** 身份证件类型：NID 居民身份证 / EEP 港澳通行证
    * **ID Number** 证件号码：公民身份号码（身份证号）/ 港澳通行证号码
@@ -205,6 +205,27 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 10. **Special Educational Needs** 特殊教育需要：如有，则填写具体类别；如无，则留空。
     * 主要包括：视觉障碍、色觉障碍、听力障碍、言语障碍、身体障碍、多重障碍、孤独症谱系障碍（俗称 “自闭症”）、精神疾病、注意缺陷多动障碍（ADHD）、特殊学习困难（如读写障碍 Dyslexia 等）、内脏 / 慢性疾病等。
     * 如有相关需求，请尽早联系 CEDARS，并可参考：[2026 | 如何优雅地获取特殊教育需求支持](https://mp.weixin.qq.com/s/EKdbHsQH2eaTTfjmvF_lTA)
+
+{% hint style="warning" %}
+对于**在入学年度的 9 月 1 日仍未满 18 岁**的学生（即**未成年学生**），这里会多出以下部分：
+
+**Parent / Guardian Information** 家长/监护人信息：
+
+* **Parent / Guardian's Name** (Family Name first) 家长/监护人姓名（姓在前）等信息：这一位家长/监护人必须是之后填写网上家长/监护人同意书的那一位。
+* **Parent / Guardian's Email address** 家长/监护人电邮地址：须保证这一电邮地址正确有效，因为随后的 “同意书通知电邮” 和 “同意书密码的电邮” 将发送到该电邮地址。提交注册表后，这一电邮地址**不能更改**。
+
+家长/监护人在提交本表格第二天，需检查这里填写的电子邮箱，查看以下两封电邮：
+
+* 同意书通知电邮（未成年学生也会收到一封副本）；和
+* 同意书密码的电邮（仅发送给家长/监护人）。
+
+后续填写请参考：[未滿 18 歲學生家長 / 監護人同意書填寫指南](https://ase.hku.hk/age18/Guide_for_Parent_Guardian_Consent_Form.pdf)（英文、繁体中文）
+
+此外，需阅读以下文件：
+
+* [入學時未滿18歲學生之家長 / 監護人須知](https://ase.hku.hk/age18/Important_Info_for_Parents_Guardians.pdf)（英文、繁体中文）
+* [未滿 18 歲學生家長 / 監護人同意書样本](https://ase.hku.hk/age18/consent_form.pdf)（英文、繁体中文）
+{% endhint %}
 
 #### 第 3 页
 
@@ -234,10 +255,14 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 #### 第 4 页
 
+<figure><img src="../.gitbook/assets/04 - 副本.png" alt=""><figcaption></figcaption></figure>
+
 1. **Emergency Contact** 紧急联络人：选择一个紧急联络人，填写其姓名、关系、地址、联系电话。
    * 地址、电话的注意事项同上。
 
 #### 第 5 页
+
+<figure><img src="../.gitbook/assets/05 - 副本.png" alt=""><figcaption></figcaption></figure>
 
 1. **Bank Account Information** 银行账户信息：必须是香港的银行账户。
    * 如暂无，可先留空；获得后在系统中补上。

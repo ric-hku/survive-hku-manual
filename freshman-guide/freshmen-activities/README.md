@@ -9,7 +9,7 @@ icon: ferris-wheel
 * [香港大学内地本科生联合会（CSSAUD）举办的新生系列活动](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/cssaud)
 * [香港大学商业咨询协会（UBCC）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/ubcc)
 * [香港大学中华文化交流协会（HKUCCC）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/hkuccc)
-* HKU Pootal 举办的 O-Camp
+* [HKU Pootal 举办的 O-Camp](hku-pootal.md)
 * [香港大学民族研究学会（HKUESS）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/hkuess)
 * [香港大学动漫联盟（ACA）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/aca)
 

@@ -44,7 +44,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 
 ## 二、名词解释
 
-* **University Number**（U. No.）：**学生编号**。是之后学生证（Student Registration Card）上的编号。
+* **University Number**（University No.）、**Student ID**：**学生编号**。是之后学生证（Student Registration Card）上的编号。
 * **HKU Portal UID**：HKU Portal、学生资讯系统（SIS，Student Information System）、图书馆系统等学校各种电脑系统里的**用户 ID**。
   * 默认为 uxxxxxxx（数字部分即 University Number 的第 3 - 9 位）。
 

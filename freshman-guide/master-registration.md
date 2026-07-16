@@ -280,7 +280,16 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 完成后，可以先关闭系统。10 分钟后，即可开始使用 HKU Portal 的全部功能。
 
-此外，完成 Master Registration 后，可以开始 [上传学生证所需材料](student-card.md) 了。
+此外，完成 Master Registration 后，可以开始：
+
+* [上传学生证所需材料](student-card.md)
+* 完成 [CEDARS 的反诈测试](https://www.cedars.hku.hk/mandatoryanti-scamtraining)
+
+{% hint style="info" %}
+完成 Master Registration 后，1 个工作日之后才能打开反诈测试的网页。
+
+所有新生要求在 Master Registration 后 14 天内完成该测试。否则，可能失去进入智华馆、图书馆的权限。
+{% endhint %}
 
 ## 四、修改信息
 
@@ -310,7 +319,7 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者不详； \
+本文作者：香港大学内地本科生权益保障组（RIC）；\
 2026 修订作者：B28 宋恒睿 CDS；B27 孙皋 BA。
 
 本文基于原新生群文件《5.2 Master Registration指南》编写而成。

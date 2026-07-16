@@ -104,7 +104,7 @@
   * 往来港澳通行证：中华人民共和国出入境管理局 Exit and Entry Administration, PRC（2019 年 6 月 1 日前：公安部出入境管理局 MPS Exit & Entry Administration）
 
 {% hint style="info" %}
-如果没有现在有效的港澳通行证 / 护照，也可以填写旧的证件的号码；如果未曾办理任何一种证件，也可以填写占位符 0000。
+如果没有现在有效的港澳通行证 / 护照，也可以填写旧的证件的号码；如果未曾办理任何一种证件，也可以填写占位符（0000 等）。
 {% endhint %}
 
 * **Course Duration** 修业时长：即 Programme Duration，也就是修读这一本科项目所需要的时间。按 Offer 填写即可。

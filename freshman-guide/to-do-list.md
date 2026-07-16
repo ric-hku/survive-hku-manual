@@ -47,7 +47,7 @@ icon: signs-post
 {% step %}
 ### 8 月末 – 9 月初
 
-* 申请、办理[**香港居民身份证（HKID）**](hkid-application-guide.md)；
+* 申请、办理[**香港居民身份证（HKID）**](hkid-application.md)；
 * 领取**学生证**；
 * 办理八达通、电话卡、银行卡等。
 {% endstep %}

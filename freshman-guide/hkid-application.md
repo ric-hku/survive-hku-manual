@@ -413,7 +413,7 @@ icon: id-card
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者不详；\
+本文作者：香港大学内地本科生权益保障组（RIC）；\
 2026 修订作者：B28 周育廉 BSc；B27 孙皋 BA。
 
 本文基于原新生群文件《5.1 如何网上预约香港身份证办理及预填申请表格》编写而成。

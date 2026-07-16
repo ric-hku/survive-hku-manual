@@ -25,7 +25,7 @@ icon: house-chimney
 * [签证指南](freshman-guide/visa/)
 * [宿舍指南](freshman-guide/residence/)
 * [Master Registration 指南](freshman-guide/master-registration.md)
-* [香港身份证办理指南](freshman-guide/hkid-application-guide.md)
+* [香港身份证办理指南](freshman-guide/hkid-application.md)
 * [来港准备 & 来港生活](freshman-guide/preparation/)
 * [新生活动](freshman-guide/freshmen-activities/)
 * [校园生活](freshman-guide/campus-life/)

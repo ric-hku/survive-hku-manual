@@ -1,4 +1,4 @@
-# RIC 电话卡选择指南
+# 电话卡指南
 
 你好呀！香港大学内地本科生权益保障组 Rights and Interests Committee (RIC) 很高兴与你相遇。我们致力于：权益维护 | 学术干货分享 | 丰富福利活动。
 
@@ -48,4 +48,14 @@
 
 ***
 
-> 版权声明：Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved. 未经许可，禁止演绎、修改或商业用途。
+想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文作者：B19 陈奕熹；\
+2024 修订作者：B25 刘芠宇 BSocSc、B25 张恒元 BEng(CompSc)、B25 陈添祤 BEng(EngSc)\
+2026 修订作者：B27 陈斯涵 BSc(Bioinformatics)。
+
+本文基于原新生群文件《9.2 RIC电话卡选择指南》编写而成。
+
+最后更新于 2026 年 7 月 14 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

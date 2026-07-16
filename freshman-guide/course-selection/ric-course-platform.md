@@ -4,7 +4,7 @@
 
 ### 1. 登录 RIC 选课平台
 
-点击[此处](https://richku.com/courses)访问 RIC 选课平台官网（https://richku.com/courses）点击右上角 “登录/注册”，使用 **@connect.hku.hk 结尾的港大邮箱** 进行注册。<br>
+点击 [此处](https://richku.com/courses) 访问 RIC 选课平台官网（https://richku.com/courses）点击右上角 “登录/注册”，使用 **@connect.hku.hk 结尾的港大邮箱** 进行注册。<br>
 
 <figure><img src="../../.gitbook/assets/chunk-0-img-0 (9).jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@
 
 在排课表中选择一个 Subclass 后，即将该 Subclass 添加到了 Timetable 中。
 
-![chunk-0-img-3.jpeg](<../../.gitbook/assets/chunk-0-img-3 (4).jpeg>)
+![](<../../.gitbook/assets/chunk-0-img-3 (4).jpeg>)
 
 点击网站右下角的![](<../../.gitbook/assets/image (16).png>)悬浮按钮，即可打开 Timetable。\
 在这里你可以看到所有你添加的课程，并检查是否有冲突的课程，帮助你更直观地安排和调整课程。<br>
@@ -41,4 +41,10 @@
 
 ***
 
-_Licensed under CC BY-NC-ND 4.0. Copyright © 2026 HKURIC. All Rights Reserved._ _未经许可，禁止演绎、修改或商业用途。_
+想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文作者：香港大学内地本科生权益保障组（RIC）。
+
+最后更新于 2026 年 7 月 14 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -18,8 +18,6 @@ description: 如何优雅地交学费 / 住宿费～
 * **账单户口号码（Bill Account Number, Bill A/C No.）**：
   * 14 位数字。除贷款还款外，账单户口号码是**学生证号码（303......）+ “9999”**。
 
-***
-
 ## 二、缴费办法
 
 {% hint style="info" %}
@@ -266,9 +264,39 @@ description: 如何优雅地交学费 / 住宿费～
 **注意**：确认**柜台输入的 14 位账单户口号码正确**。
 {% endhint %}
 
-***
+## 三、学校有关部门
 
-## 三、常见问题与解答
+* 有关缴费、账户等：\
+  **财务及企业管理处**\
+  Finance and Enterprises Office, FEO\
+  1/F, Knowles Building\
+  2859 2337 (Student Matters)\
+  [feo\_student@hku.hk](mailto:feo_student@hku.hk)<br>
+* 有关具体费用（学费）：\
+  **教务处 学务及考试部**\
+  Academic Support and Examinations Section (ASE Section), The Registry\
+  费用相关：\
+  [fees@hku.hk](mailto:fees@hku.hk)
+  * 工程学院、李嘉诚医学院、理学院、社会科学学院：\
+    3917 7082\
+    Thomas Yang [kihang@hku.hk](mailto:kihang@hku.hk)
+  * 建筑学院、文学院、经管学院、牙医学院、教育学院、法律学院：\
+    3917 5261\
+    Andy Lau [andylau3@hku.hk](mailto:andylau3@hku.hk)<br>
+*   有关经济支援等：\
+    **学生发展与资源中心**
+
+    Centre of Development and Resources for Students, CEDARS
+
+    Campus Life Section
+
+    3/F, Meng Wah Complex
+
+    3917 2305
+
+    [cedars@hku.hk](mailto:cedars@hku.hk)
+
+四、常见问题与解答
 
 ### Q1. 什么时候需要交学费 / 住宿费？是一起交吗？
 
@@ -341,13 +369,13 @@ description: 如何优雅地交学费 / 住宿费～
 
 * **留位费**，在**接受录取时**缴纳；
 * **第一部分**（1st Instalment），在**第一学期**缴纳：
-  * 第一学期学费（Composition Fee），减去留位费（Admission Deposit）：
-    * 本地学生：HKD 23,500 减去留位费
-    * 非本地学生（非 STEM）：HKD 112,000 减去留位费
-    * 非本地学生（STEM）：HKD 124,500 减去留位费
+  * 第一学期学费（Composition Fee），减去缴付留位费（Admission Deposit）时预付的部分学费（Advance Payment）：
+    * 本地学生：HKD 23,500 减去预付的学费
+    * 非本地学生（非 STEM）：HKD 112,000 减去预付的学费
+    * 非本地学生（STEM）：HKD 124,500 减去预付的学费
   * 学生活动费（Student Activity Fee）：HKD 100
   * 保证金（Caution Money）：HKD 350
-  * 录取行政费（Admin Fee for Admission）：HKD 3,000
+  * 录取行政费（Admin Fee for Admission）：HKD 3,000（缴付留位费时或已支付）
 * **第二部分**（2nd Instalment），在**第二学期**缴纳：
   * 第二学期学费（Composition Fee）：
     * 本地学生：HKD 23,500
@@ -364,11 +392,11 @@ description: 如何优雅地交学费 / 住宿费～
 
 ### Q5. 我多交了钱，能退款吗？
 
-**注意**：已缴纳的费用**不予退还**。
+已缴纳的费用一般**不予退还**。
 
 如果多交了学费 / 住宿费，多交的部分**会留在学生账户中**；下次缴交费用时，这部分钱仍可以用于支付对应账单类型的费用（也即，**可以少交这部分**）。
 
-如有特殊情况需要特殊考虑减免/退还学费，请将申请发送至 [fees@hku.hk](mailto:fees@hku.hk)，并提供以下信息以加快处理：
+如有特殊情况需要特殊考虑减免、退还学费，请将申请发送至 [fees@hku.hk](mailto:fees@hku.hk)，并提供以下信息以加快处理：
 
 * 英文姓名、学生证号（University Number）及所学课程（Curriculum）；
 * 涉及豁免 / 退款申请的费用类型和金额；
@@ -392,43 +420,9 @@ description: 如何优雅地交学费 / 住宿费～
 
 ***
 
-## 四、学校有关部门
-
-* 有关缴费、账户等：\
-  **财务及企业管理处**\
-  Finance and Enterprises Office, FEO\
-  1/F, Knowles Building\
-  2859 2337 (Student Matters)\
-  [feo\_student@hku.hk](mailto:feo_student@hku.hk)<br>
-* 有关具体费用（学费）：\
-  **教务处 学务及考试部**\
-  Academic Support and Examinations Section (ASE Section), The Registry\
-  费用相关：\
-  [fees@hku.hk](mailto:fees@hku.hk)
-  * 工程学院、李嘉诚医学院、理学院、社会科学学院：\
-    3917 7082\
-    Thomas Yang [kihang@hku.hk](mailto:kihang@hku.hk)
-  * 建筑学院、文学院、经管学院、牙医学院、教育学院、法律学院：\
-    3917 5261\
-    Andy Lau [andylau3@hku.hk](mailto:andylau3@hku.hk)<br>
-*   有关经济支援等：\
-    **学生发展与资源中心**
-
-    Centre of Development and Resources for Students, CEDARS
-
-    Campus Life Section
-
-    3/F, Meng Wah Complex
-
-    3917 2305
-
-    [cedars@hku.hk](mailto:cedars@hku.hk)
-
-***
-
 想要加入 [RIC](../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者不详；\
+本文作者：香港大学内地本科生权益保障组（RIC）；\
 2025 修订作者：B27 李卓芸 BSc\&LLB；\
 2026 修订作者：B28 诸杰安 CDS/BEng(CompSc)；B27 孙皋 BA。
 

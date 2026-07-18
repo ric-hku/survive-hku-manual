@@ -2,7 +2,7 @@
 description: English Language Enhancement
 ---
 
-# 英文增补课程指南
+# CAES 课程指南
 
 {% hint style="info" %}
 说明：“英文增补课程” 是参照 “中文增补课程” 对 English Language Enhancement 的翻译，但并不是官方翻译。
@@ -106,7 +106,9 @@ description: English Language Enhancement
 
 所有大一的学生（除了免修的学生）都必须修读 CAES1001。
 
-选课时拒录通常是因为该 Subclass 已满（班型：20 人 / 班）。可以**选择其他 Subclass 重试**。
+选课时拒录通常是因为该 Subclass 已满（班型：18 人 / 班）。可以**选择其他 Subclass 重试**。
+
+可以在这里看到所有 Subclass 的选课人数情况：[Academic Communication in English Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/eng/enrol_stat.html)。
 
 如果在 8 月 30 日前未有成功注册 CAES1001，且不具备免修资格，则**系统会自动分配**。
 

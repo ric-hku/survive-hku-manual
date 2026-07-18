@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -60,7 +61,7 @@ CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars
 
 如果房型为双人间，室友为内地生、Local 或国际生均有可能，分配相对随机。第三学生村，以下简称“三村”，国际生比例比其他 Hall 高，也有很多交换生。如果有充分理由，可以向 Tutor 和 General Office 申请更换室友。
 
-注：三村的宿生理想比例为内地生：本地生：国际生 = 1：1：1，本科生：研究生 = 1：1。该比例仅供参考。第二年通过 Readmission 后，一般可以自己选择室友和房间 / 房型。根据不同 Hall 的情况，单人间可能需参与抽签。
+注：三村的宿生理想比例为内地生 : 本地生 : 国际生 = 1 : 1 : 1，本科生 : 研究生 = 1 : 1。该比例仅供参考。第二年通过 Readmission 后，一般可以自己选择室友和房间 / 房型。根据不同 Hall 的情况，单人间可能需参与抽签。
 
 #### 4. 访客
 
@@ -195,14 +196,6 @@ MTR 机场快线可直接坐到香港站，然后转乘港岛线，坐到坚尼�
 也可乘小巴，具体可参考龙华往返主校园小巴攻略。除去等车时间，车程约 10 - 25 分钟。
 
 如果步行，可走到宜记甜品路口，沿蒲飞路上行到薄扶林道左转，从西闸进入校园。时间约 20 - 30 分钟。
-
-#### 3. 相关网站
-
-* 三村官方网站：[https://jockeyv3.hku.hk/](https://jockeyv3.hku.hk/)
-* A 栋 — Shun Hing College（信兴学院）：[https://shunhingcollege.hku.hk/](https://shunhingcollege.hku.hk/)
-* B 栋 — Chi Sun College（志新学院）：[https://chisuncollege.hku.hk/](https://chisuncollege.hku.hk/)
-* C 栋 — Lap-Chee College（立之学院）：[http://www.lapcheecollege.hku.hk/](http://www.lapcheecollege.hku.hk/)
-* D 栋 — New College（日新学院）：[https://www.newcollege.hku.hk/](https://www.newcollege.hku.hk/)
 
 ***
 

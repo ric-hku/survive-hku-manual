@@ -44,9 +44,9 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 
 ## 二、名词解释
 
-* **University Number**（University No.）、**Student ID**：**学生编号**。是之后学生证（Student Registration Card）上的编号。
+* **University Number**（University No.）**/Student ID**：**学生编号**。是之后学生证（Student Registration Card）上的编号。
 * **HKU Portal UID**：HKU Portal、学生资讯系统（SIS，Student Information System）、图书馆系统等学校各种电脑系统里的**用户 ID**。
-  * 默认为 uxxxxxxx（数字部分即 University Number 的第 3 - 9 位）。
+  * 默认为 u3xxxxxx（数字部分即 University Number 的第 3 - 9 位）。
 
 {% hint style="warning" %}
 自 2025 年 8 月 7 日起，UID **不能更改**（无论是否在完成 Master Registration 后七天内）。&#x20;
@@ -64,7 +64,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 
 * **HKU Portal PIN**：学校各种电脑系统里的**密码**。
   * 如需修改，可在 HKU Portal 里选择 IT Support > HKU Portal PIN Change（简体中文：资讯科技服务 > 更改 HKU Portal 密码）。
-* **HKU Portal Email** (HKU Email)：**校园电子邮箱**。邮箱地址为 UID 加上 "@ connect.hku.hk"。
+* **HKU Portal Email** (HKU Email)：**校园电子邮箱**。邮箱地址为 UID 加上 "@connect.hku.hk"。
   * 入学之后，学校信息、社团 / 活动推广、与学校部门联系、与教师联系等都需要使用这个邮箱。
   * 由 Microsoft 提供。因此，可以 [使用 Outlook 登录](https://outlook.office365.com/mail/)。在手机等移动设备上，可以 [使用 Outlook 应用](https://www.microsoft.com/zh-cn/microsoft-365/outlook-mobile-for-android-and-ios)。
   * 也可以通过在 HKU Portal 里选择 My Services > My Email（简体中文：我的服务 > 我的电邮）来打开。
@@ -90,23 +90,27 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 {% endhint %}
 
 * **Sender Name**：用上述邮箱收发邮件时显示的 “发送人”、“收件人”。
-  * 默认为邮箱地址，格式 u3xxxxxx @ connect.hku.hk。
-  * 如果修改过 Email Alias，会自动变更为 \[Email Alias] @ connect.hku.hk。
+  * 默认为邮箱地址，格式 u3xxxxxx@connect.hku.hk。
+  * 如果修改过 Email Alias，会自动变更为 \[EmailAlias]@connect.hku.hk。
   * 可以选择修改成与自己的姓名等，方便识别。
   * 如需修改，可在 HKU Portal 里选择 IT Support > Name/Email Address Registration in Mail（简体中文：资讯科技服务 > 注册电邮名字/地址）。
 
 ## 三、Master Registration 步骤
 
+{% hint style="info" %}
+建议**使用电脑**填写注册表格。
+{% endhint %}
+
 ### 1. 登录 HKU Portal
 
-使用邮件中提供的电子邮箱地址 u3xxxxxx @ connect.hku.hk 和 HKU Portal PIN 登录 HKU Portal。
+使用邮件中提供的电子邮箱地址 u3xxxxxx@connect.hku.hk 和 HKU Portal PIN 登录 HKU Portal。
 
 HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.html)
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-在首次登录时
+在首次登录时，需要按指示**修改初始密码**。
 {% endhint %}
 
 ### 2. 进入 Master Registration
@@ -291,7 +295,9 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 所有新生要求在 Master Registration 后 14 天内完成该测试。否则，可能失去进入智华馆、图书馆的权限。
 {% endhint %}
 
-## 四、修改信息
+## 四、常见问题
+
+### Q1. 我想修改这里填写的资料。怎么办？
 
 如要修改：
 
@@ -314,6 +320,12 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
   * 在 HKU Portal 里选择 Useful Links & Resources > View & Change Personal Info（简体中文：常用连结 > 查看及更改个人资料）。
 * 银行账户信息
   * 在 HKU Portal 里选择 Financial Services > View / Amend Bank Account Info（简体中文：财政服务 > 查看银行账户资料）。
+
+### Q2. 我忘记了我的 Student ID / University No.，也找不到当时的邮件了。怎么办？
+
+在 HKU Portal 里选择 Student Information System (SIS) 打开学生资讯系统后，在左侧菜单栏中，选择 SIS Menu > Self Services > View & Change Personal Info。
+
+在打开的界面可以找到 Student ID，即 University No. / 学生证号。
 
 ***
 

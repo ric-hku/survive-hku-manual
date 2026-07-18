@@ -130,6 +130,16 @@ icon: user-graduate
 注意：是**本部校园的邵逸夫楼**（Run Run Shaw **Building**），而非百周年校园的逸夫教学楼（Run Run Shaw **Tower**）。
 {% endhint %}
 
+## 四、常见问题
+
+### Q1. 领取学生证之前，要如何使用学校各种设施？
+
+学校提供了 HKU App，简介、下载方式：[About HKU App » Information Technology Services](https://its.hku.hk/services/university-wide-applications/mobile-applications/about-hku-app/)
+
+这个 App 中有 HKU Student Access Code 的功能，可以在智华馆、图书馆、餐饮设施替代学生证使用。简介、常见问题：[HKU Student Access Code » Information Technology Services](https://its.hku.hk/services/university-wide-applications/mobile-applications/about-hku-app/hku-student-access-code/)
+
+至于宿舍，一般会发放暂时卡，用于刷卡进门等。详情请联系宿舍。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～

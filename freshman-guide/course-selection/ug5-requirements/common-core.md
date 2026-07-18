@@ -1,45 +1,40 @@
+---
+description: Common Core Courses
+---
+
 # Common Core 指南
 
-## 一、什么是 CC Course
+## 一、课程内容
 
-CC 的全称为 Common Core。
+官方网站：[HKU Common Core Curriculum](http://commoncore.hku.hk/)
 
-对于 2025–26 及以后入学的同学，所有课程分为五个不同的探索范畴（Area of Inquiry，AoI），分别是：
+Common Core（CC）是由学生自主选择的跨学科课程，设计目的是让学生 “建立起与自己未来的联系”，理解社会议题、认识文化差异、参与社区建设、锻炼个人能力。
 
-* Scientific and Technological Literacy（CCST）。
-* Arts and Humanities（CCHU）。
-* Global Issues（CCGL）。
-* China: Culture, State and Society（CCCH）。
-* Artificial Intelligence（CCAI）。
+对于 2025–26 及以后入学的同学，所有课程分为五个不同的**探索范畴（Area of Inquiry，AoI）**，分别是：
 
-港大创立 CC 课程，旨在鼓励大家探索兴趣爱好，并与未来建立联系。更多信息请查看下一部分的官方网站。
+* Scientific and Technological Literacy（编号 CCSTxxxx）
+* Arts and Humanities（编号 CCHUxxxx）
+* Global Issues（编号 CCGLxxxx）
+* China: Culture, State and Society（编号 CCCHxxxx）
+* Artificial Intelligence（编号 CCAIxxxx）
 
-## 二、我能选什么课
+大多数同学要求上 36 学分的 CC 课程。对于这些学生，需要选择：
 
-如何找到心仪的课程？\
-如果你还在犹豫不定，可以参考以下平台的信息：
+* 6 个 6 学分课程（覆盖所有 5 个 AoI）；或者
+* 5 个 6 学分课程（覆盖所有 5 个 AoI）和 2 个 3 学分课程（任意 AoI）。
 
-#### 1. CC Course 官方网站
+MBBS、BASc、双学位（如 BA\&LLB、BBA(Law)\&LLB 等）的同学要求上 24 学分的 CC 课程。对于这些学生，需要选择：
 
-[http://commoncore.hku.hk/](http://commoncore.hku.hk/)
+* 4 个 6 学分课程（覆盖任意 4 个 AoI）；或者
+* 3 个 6 学分课程（覆盖任意 3 个 AoI）和 2 个 3 学分课程（同一个 AoI，不能与前述的 3 个 AoI 重合）。
 
-#### 2. RIC 选课平台
+## 二、课程形式
 
-[https://richku.com/courses](https://richku.com/courses)\
-同学们也可以通过公众号 @ 港大 RIC 锐克，选择“搜索平台 → 选课平台”。
+### 1. 6 学分的线下课（编号）
 
-#### 3. RIC 杂货铺 App
 
-[https://mp.weixin.qq.com/s/rlmK9sQbUg401yDSKk3G4w](https://mp.weixin.qq.com/s/rlmK9sQbUg401yDSKk3G4w)\
-同学们可以在 App 的课程栏搜索课程信息。
 
-#### 4. RegCourse 等其他选课评价平台
 
-港大的 CC 课程及其他课程，均可通过上述平台查看同学们的评价。不过，Local 同学对课程的感受可能与内地生不同，因此评分仅供参考。
-
-#### 5. Portal → Enrollment → Course Effectiveness Profile
-
-可以参考每门课的 Mean Course Effectiveness。这是同学们每学期在成绩公布前填写 Questionnaire 时，对课程评价的综合得分。
 
 <mark style="color:blue;">需要选几门 CC？</mark>
 
@@ -49,7 +44,7 @@ CC 的全称为 Common Core。
 
 只要确保四年内该类别课程不超过两门，且一年内 CC 总课程不超过四门，同一年甚至同一学期内 Enroll 两门 CH / HU / ST / GL / AI 都是允许的～
 
-### 三、怎样抢到课
+## 三、怎样抢到课
 
 <mark style="color:blue;">CC Enroll 的规则？</mark>\
 正常选课阶段采用先到先得规则，Add & Drop Period 采用定时抽签。如何在正常选课阶段快速选课，可参考推送 [HKU 选课系统使用指南](https://mp.weixin.qq.com/s/D_yThNRc8FMX-lIfGNo6kw)。\
@@ -82,7 +77,7 @@ Add & Drop Period 中，每天的 8 AM、11 AM、2 PM、5 PM、8 PM、11 PM 各�
 [https://sweb.hku.hk/ccacad/ccc\_appl/enrol\_stat.html](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)\
 这个地址不仅能显示 Open 状态，还能显示空缺名额和 Queue Up 人数。该网站每小时定时更新一次，因此数据可能延迟。
 
-### 四、Common Core Clusters and Transdisciplinary Minor
+## 四、Common Core Clusters 与 Transdisciplinary Minor
 
 Common Core Thematic Cluster 是一系列相同主题的 CC 课程。如果在同一 Cluster 下选择四门 CC 课，该 Cluster 将记录在 Academic Attainment Profile（AAP）上。如果在同一 Cluster 下选择六门 CC 课，则可以构成一个 Transdisciplinary Minor。如果课程同时满足多个 Cluster，只能选择其中一个记录在 AAP 上。\
 如果已 Declare 一个 Common Core Transdisciplinary Minor（CCTM），选修剩余 CC 课时可享有优先权。选择四门同一 Cluster 的 CC 课后，才可以 Declare CCTM。
@@ -92,13 +87,15 @@ Common Core Thematic Cluster 是一系列相同主题的 CC 课程。如果在�
 详细政策可通过以下链接查看：\
 [https://commoncore.hku.hk/cctms/](https://commoncore.hku.hk/cctms/)
 
-### 五、常见问题
+## 五、常见问题
 
-**问：能不能把 CC 课上成 Free Elective / 我能不能上超过六门 CC？**\
-答：很遗憾，这是学校绝对不允许的。四年六门的限制是，一旦选满，绝不可以通过任何形式申请 Overload 或转成 Free 学分。\
+### **Q1. 能不能把 CC 课上成 Free Elective / 我能不能上超过六门 CC？**
+
+很遗憾，这是学校绝对不允许的。四年六门的限制是，一旦选满，绝不可以通过任何形式申请 Overload 或转成 Free 学分。\
 因此，大家要谨慎选择心爱的 CC，多看多听。可以在 RIC 杂货铺的选课平台中查看大家对 CC 课的评价。假如实在喜欢，也可以选择 Sit In。
 
-**问：选不上课，能不能写邮件 Argue？**\
+### **Q2. 选不上课，能不能写邮件 Argue？**
+
 和专业课程不同，CC 课的 Enroll 为确保绝对公平公正，相关 Lecturer 和 Tutor 不可以参与选课过程。
 
 **特殊规则：对于 17 年之后入学的同学，有对 Graduation GPA 的特殊规则：**
@@ -113,11 +110,11 @@ GGPA 有两种计算方案：选取 GPA 最高的五门 CC 课，且需要 Cover
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
-本文原作者不详；\
-2026 修订作者：B28 周育廉 BSc。
+本文作者：香港大学内地本科生权益保障组（RIC）；\
+2026 修订作者：B28 周育廉 BSc；B27 孙皋 BA。
 
 本文基于原新生群文件《6.3 CCC选课指南》编写而成。
 
-最后更新于 2026 年 7 月 14 日。
+最后更新于 2026 年 7 月 17 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

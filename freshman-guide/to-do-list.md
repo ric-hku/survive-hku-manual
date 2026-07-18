@@ -33,15 +33,15 @@ icon: signs-post
   * （获得账号信息后）[**Master Registration**](master-registration.md)**（主注册 / 正式注册）**；
   * （完成 Master Registration 后）[**上传学生证所需文件**](student-card.md)；
   * **（本地生）**[**选择、申请宿舍**](residence/)**。**
-* **了解课程要求，初步安排课表**；
-* （收到入境许可后）办理**港澳通行证**和/或**逗留（D）签注**；
+* [**了解课程要求，初步安排课表**](course-selection/)；
+* （收到入境许可后）办理[**港澳通行证和/或逗留（D）签注**](visa/exit-entry-permit.md)；
 {% endstep %}
 
 {% step %}
 ### 8 月下旬
 
 * **正式选课**；
-* 参加**迎新营（Orientation Camp，O Camp）**&#x7B49;迎新活动。
+* 参加[**迎新营（Orientation Camp，O Camp）等迎新活动**](freshmen-activities/)。
 {% endstep %}
 
 {% step %}

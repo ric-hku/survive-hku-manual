@@ -59,7 +59,7 @@ description: 是的，每个宿舍的费用是不一样的。
   * 第一期：HKD 36,000
   * 第二期：HKD 39,200
 
-### 青莲台学生宿舍 Ching Lin Terrace Residence
+### 青莲台宿舍 Ching Lin Terrace Residence
 
 * 双人间：HKD 69,654 / 年
 * 单人间（高架床）：HKD 74,166 / 年

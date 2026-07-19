@@ -266,7 +266,7 @@ description: 如何优雅地交学费 / 住宿费～
 
 ## 三、学校有关部门
 
-* 有关缴费、账户等：\
+* 有关缴费方式、账户等：\
   **财务及企业管理处**\
   Finance and Enterprises Office, FEO\
   1/F, Knowles Building\
@@ -283,7 +283,7 @@ description: 如何优雅地交学费 / 住宿费～
   * 建筑学院、文学院、经管学院、牙医学院、教育学院、法律学院：\
     3917 5261\
     Andy Lau [andylau3@hku.hk](mailto:andylau3@hku.hk)<br>
-*   有关经济支援等：\
+*   有关经济支援、延期支付等：\
     **学生发展与资源中心**
 
     Centre of Development and Resources for Students, CEDARS
@@ -296,7 +296,7 @@ description: 如何优雅地交学费 / 住宿费～
 
     [cedars@hku.hk](mailto:cedars@hku.hk)
 
-四、常见问题与解答
+## 四、常见问题与解答
 
 ### Q1. 什么时候需要交学费 / 住宿费？是一起交吗？
 

@@ -84,6 +84,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 * **Email Alias**：上述邮箱的**别名**（第二个地址），也可以用来收发邮件。
   * 可以选择修改成与自己的姓名等信息相关的，方便识别和记忆。
   * 如需修改，可在 HKU Portal 里选择 New Student > Change of Email Alias（简体中文：新注册学生 > 更改电子邮件别名）。
+  * 修改时注意限制：9 - 32 字符；必须以字母开始；可包含大/小写字母、数字、点（.）、短横线（-）、下划线（\_）。
 
 {% hint style="info" %}
 修改 Email Alias 不改变 HKU Portal UID。登录各种系统时，仍然需要使用 HKU Portal UID。
@@ -208,7 +209,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
    * 持香港特别行政区护照（HKSAR Passport）、英国国民（海外）护照（BNO Passport）或香港特区签证身份书（D.I.），且未持有其他国家有效护照的人，应选择 Hong Kong (SAR) of PRC。
 10. **Special Educational Needs** 特殊教育需要：如有，则填写具体类别；如无，则留空。
     * 主要包括：视觉障碍、色觉障碍、听力障碍、言语障碍、身体障碍、多重障碍、孤独症谱系障碍（俗称 “自闭症”）、精神疾病、注意缺陷多动障碍（ADHD）、特殊学习困难（如读写障碍 Dyslexia 等）、内脏 / 慢性疾病等。
-    * 如有相关需求，请尽早联系 CEDARS，并可参考：[2026 | 如何优雅地获取特殊教育需求支持](https://mp.weixin.qq.com/s/EKdbHsQH2eaTTfjmvF_lTA)
+    * 如有相关需求，请尽早联系 CEDARS。详情请参考官网：[SEN Support](https://www.cedars.hku.hk/ssi/inclusion/sen-support)。
 
 {% hint style="warning" %}
 对于**在入学年度的 9 月 1 日仍未满 18 岁**的学生（即**未成年学生**），这里会多出以下部分：

@@ -100,6 +100,13 @@ HONG KONG
 
 ### 附：各宿舍地址
 
+{% hint style="info" %}
+* 地区（中译）：
+  * Pokfulam / Pok Fu Lam 薄扶林；Kennedy Town 坚尼地城；Wong Chuk Hang 黄竹坑。
+* 街道名称（中译）：
+  * Bonham Road 般咸道；Pokfulam Road 薄扶林道；Sassoon Road 沙宣道；Lung Wah Street 龙华街；Police School Road 警校道；Ching Lin Terrace 青莲台。
+{% endhint %}
+
 * 校内 On Campus
   *   李国贤堂 Simon K.Y. Lee Hall
 
@@ -135,7 +142,7 @@ HONG KONG
   \[College Name], HKU Jockey Club Student Village III, 9 Lung Wah Street, Kennedy Town
 * 赛马会第四学生村 Jockey Club Student Village IV (JCSV IV)\
   \[College Name], HKU Jockey Club Student Village IV, 4 Police School Road, Wong Chuk Hang
-* 青莲台学生宿舍 Ching Lin Terrace Residence\
+* 青莲台宿舍 Ching Lin Terrace Residence\
   Ching Lin Terrace Residence, 10 Ching Lin Terrace, Kennedy Town, Hong Kong
 * 学生公寓 Student Flats\
   Student Flats, 6 Sassoon Road, Hong Kong

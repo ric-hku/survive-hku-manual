@@ -253,7 +253,7 @@ metaLinks: {}
 {% hint style="info" %}
 注：跨学科学院，同时属于工程学院和理学院；由原工程学院的计算机科学系和原理学院的统计及精算学系组成。其 “行政学院”（Administering Faculty）为工程学院。
 
-CDS、BASc(FinTech) 由工程学院、计算机科学系（Department of Computer Science）管理；BASc(AppliedAI) 由人工智能与数据科学系（Department of AI & Data Science）管理；BSc(ActuarSc)、SDS 由统计及精算学系（Department of Statistics & Actuarial Science）管理。
+BEng(CompSc)、BASc(FinTech) 由工程学院、计算机科学系（Department of Computer Science）管理；BEng(AI\&DataSc)、BASc(AppliedAI) 由人工智能与数据科学系（Department of AI & Data Science）管理；BSc(ActuarSc)、SDS 由统计及精算学系（Department of Statistics & Actuarial Science）管理。
 {% endhint %}
 
 ### 未来媒体学院 School of Future Media

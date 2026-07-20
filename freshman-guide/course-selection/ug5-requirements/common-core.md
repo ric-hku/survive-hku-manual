@@ -10,7 +10,7 @@ description: Common Core Courses
 
 Common Core（CC）是由学生自主选择的跨学科课程，设计目的是让学生 “建立起与自己未来的联系”，理解社会议题、认识文化差异、参与社区建设、锻炼个人能力。
 
-对于 2025–26 及以后入学的同学，所有课程分为五个不同的**探索范畴（Area of Inquiry，AoI）**，分别是：
+对于 2025–26 及以后入学的同学，所有课程分为五个不同的**探索范畴（Area of Inquiry, AoI）**，分别是：
 
 * Scientific and Technological Literacy（编号 CCSTxxxx）
 * Arts and Humanities（编号 CCHUxxxx）
@@ -105,6 +105,10 @@ GGPA 有两种计算方案：选取 GPA 最高的五门 CC 课，且需要 Cover
 [https://commoncore.hku.hk/special-proviso/](https://commoncore.hku.hk/special-proviso/)\
 更多信息可复制以下链接至浏览器查看：\
 [http://commoncore.hku.hk/faqs/](http://commoncore.hku.hk/faqs/)
+
+### Q3.&#x20;
+
+
 
 ***
 

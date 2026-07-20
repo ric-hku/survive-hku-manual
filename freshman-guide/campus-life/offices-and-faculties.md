@@ -562,10 +562,10 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 本文参考了以下网页 / 推送：
 
-* [《【RIC科普】更新｜主要学校部门职能》](https://mp.weixin.qq.com/s/VDDhhg8Gx1uhNenswREbuA)
+* [【RIC科普】更新｜主要学校部门职能](https://mp.weixin.qq.com/s/VDDhhg8Gx1uhNenswREbuA)
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 
-最后更新于 2026 年 7 月 18 日。
+最后更新于 2026 年 7 月 20 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

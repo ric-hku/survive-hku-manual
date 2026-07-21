@@ -1,6 +1,5 @@
 ---
 description: UG5 Requirements
-hidden: true
 ---
 
 # UG5 要求的必修课
@@ -14,7 +13,7 @@ hidden: true
 * [Common Core (CC)](common-core.md)
   * 一般为 36 学分。
   * MBBS、BASc、双学位学生一般为 24 学分。
-* [Artificial Intelligence Literacy 人工智能素养](ai-literacy.md)（6 学分），包括：
+* Artificial Intelligence Literacy 人工智能素养（6 学分），包括：
   * AILT1001 Artificial Intelligence Literacy I（3 学分）
   * AILTxxxx（3 学分）
 

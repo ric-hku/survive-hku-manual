@@ -296,7 +296,7 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 所有新生要求在 Master Registration 后 14 天内完成该测试。否则，可能失去进入智华馆、图书馆的权限。
 {% endhint %}
 
-## 四、常见问题
+## 四、常见问题与解答
 
 ### Q1. 我想修改这里填写的资料。怎么办？
 
@@ -317,6 +317,8 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 这一信息会出现在成绩单等。
 {% endhint %}
 
+* 本地/非本地学生身份
+  * 使用 [Request to Update Local/Non-local Status](https://ase.hku.hk/doc/localstatus_update.pdf) 表格更新。
 * 地址、电话、紧急联络人信息
   * 在 HKU Portal 里选择 Useful Links & Resources > View & Change Personal Info（简体中文：常用连结 > 查看及更改个人资料）。
 * 银行账户信息

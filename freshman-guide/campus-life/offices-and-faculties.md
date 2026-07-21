@@ -51,7 +51,7 @@ description: Major Offices & Faculties (Schools)
 
 ### 入学事务部 Admissions Office (AO)
 
-教务处（Registry）的下属部门之一，负责入学相关事宜。
+教务处（Registry）的下属部门之一，负责收生、入学相关事宜。
 
 {% embed url="https://admissions.hku.hk/" %}
 
@@ -399,7 +399,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://www.hkubs.hku.hk/](https://www.hkubs.hku.hk/)
 * 地址：Room 401, 4/F, K.K. Leung Building
 * 电话：3917 5343
-* 电邮：[fbe.ugenquiry@hku.hk](mailto:fbe.ugenquiry@hku.hk)
+* 电邮：[fbe.ugenquiry@hku.hk](mailto:fbe.ugenquiry@hku.hk)（本科课程行政）
 
 ### 牙医学院 Faculty of Dentistry
 
@@ -434,7 +434,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 电话：3917 2803
 * 电邮：
   * 一般咨询：[enggfac@hku.hk](mailto:enggfac@hku.hk)
-  * 本科学生行政支持：[enggugtl@hku.hk](mailto:enggugtl@hku.hk)
+  * 本科学生行政：[enggugtl@hku.hk](mailto:enggugtl@hku.hk)
   * 本科学生交换：[enggex@hku.hk](mailto:enggex@hku.hk)
 
 ### 法律学院 Faculty of Law

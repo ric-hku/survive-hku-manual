@@ -130,7 +130,7 @@ icon: user-graduate
 注意：是**本部校园的邵逸夫楼**（Run Run Shaw **Building**），而非百周年校园的逸夫教学楼（Run Run Shaw **Tower**）。
 {% endhint %}
 
-## 四、常见问题
+## 四、常见问题与解答
 
 ### Q1. 领取学生证之前，要如何使用学校各种设施？
 

@@ -23,92 +23,152 @@ Common Core（CC）是由学生自主选择的跨学科课程，设计目的是�
 * 6 个 6 学分课程（覆盖所有 5 个 AoI）；或者
 * 5 个 6 学分课程（覆盖所有 5 个 AoI）和 2 个 3 学分课程（任意 AoI）。
 
-MBBS、BASc、双学位（如 BA\&LLB、BBA(Law)\&LLB 等）的同学要求上 24 学分的 CC 课程。对于这些学生，需要选择：
+MBBS、BASc（如 Design+、AppliedAI 等）、双学位（如 BA\&LLB、BBA(Law)\&LLB 等）的同学要求上 24 学分的 CC 课程。对于这些学生，需要选择：
 
 * 4 个 6 学分课程（覆盖任意 4 个 AoI）；或者
 * 3 个 6 学分课程（覆盖任意 3 个 AoI）和 2 个 3 学分课程（同一个 AoI，不能与前述的 3 个 AoI 重合）。
 
 ## 二、课程形式
 
-### 1. 6 学分的线下课（编号）
+### 1. 常规线下课程 Regular F2F Courses
 
+* 6 学分
+* 编号 CCXX90xx
 
+这些课程的教学、考核都是线下的。
 
+### 2. 线上课程 Fully Online Courses
 
+* 6 学分
+* 编号 CCXX50xx
 
-<mark style="color:blue;">需要选几门 CC？</mark>
+这些课程的教学、考核都是线上的。但是，教学活动会在固定时间进行。
 
-对于新入学的四年制本科项目，大部分专业需要在四年内修够六门 CC。具体数量以专业的 Syllabus 要求为准。其中，CH / HU / ST / GL / AI 每个类别至多两门。六门课程需要涵盖上述五个 AoI 中的四个。同学们可以根据学院要求，自由安排每学年 CC 的数量。每个人的手速 / 网速不同，可能无法完全选上首选课程。因此，建议多准备几门不太热门的备选 CC。
+{% hint style="info" %}
+**最多**可以修读 **2 门** 线上课程（**12 学分**）。
+{% endhint %}
 
-<mark style="color:blue;">一年内可以选两门相同类别的 CC 吗？</mark>
+### 3. 微证书课程 Microcredential Courses, CCMCs
 
-只要确保四年内该类别课程不超过两门，且一年内 CC 总课程不超过四门，同一年甚至同一学期内 Enroll 两门 CH / HU / ST / GL / AI 都是允许的～
+* 3 学分
+* 编号 CCXX50xx
 
-## 三、怎样抢到课
+是教学形式非常紧凑的一种课程，在夏季学期（Summer Semester）提供。
 
-<mark style="color:blue;">CC Enroll 的规则？</mark>\
-正常选课阶段采用先到先得规则，Add & Drop Period 采用定时抽签。如何在正常选课阶段快速选课，可参考推送 [HKU 选课系统使用指南](https://mp.weixin.qq.com/s/D_yThNRc8FMX-lIfGNo6kw)。\
-PS：Full-Time 的同学需要选择不带“X”的 Subclass，因为带“X”的 Subclass 仅供交换生选择。
+选择修读 CCMC 的话，必须修读 2 个，以替代一个 6 学分的常规课程。
 
-<mark style="color:blue;">选课时如何知道自己有没有抢到 CC？</mark>\
-同学可在 Portal 的 Common Core Enrollment Status 查看自己的位置。位置数低于剩余名额，表示已成功选上。位置数高于剩余名额，则很可能选不上，除非排在前面的人 Drop 了该课程。一旦可能选不上，应尽快决定放弃等待并选择备选课程，或继续等待 Add & Drop Period。等待太久，备选课程也可能被抢完。
+## 三、选课相关
 
-<mark style="color:blue;">在 Add & Drop Period 抢 CC 课需要时时蹲点吗？</mark>\
-不需要！\
-好消息来啦！不要再深夜蹲守，或在课上心神不宁地刷 Portal 了！卡准时间点，每天二十分钟就够了～\
-如上题所述，Add & Drop Period 内的抽签结果与 Add 的先后顺序无关。因此，只要在每次抽签前 Add 仍有 Quota 的 CC 课即可。那么什么时候抽签呢？根据官方历史数据，具体时间如下：\
-Suspension Period 一次；\
-Add & Drop Period 中，每天的 8 AM、11 AM、2 PM、5 PM、8 PM、11 PM 各一次。\
-因此，最省时的做法是在这六个时间点前查看课程是否有 Quota，及时 Add，并在相应时间点后检查自己的 Enrollment Status。如果状态为 Not Approved，记得及时将课程重新加入 Temporary List。
+### 1. 选课相关资料
 
-#### 1. 怎么知道某门课还有没有 Quota？
+* 对于 CC 课程，每个 Subclass 的人数限制（Quota）、空缺数量（No. of Vacancies Available）、等待批准人数（No. of Applicants Waiting for Approval）可以在以下页面看到：[Common Core Course Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)；
+* （正常选课期间选择了 CC 课程后）等待审批时，可以在 HKU Portal 里选择 Course Enrollment > Common Core Queue Position（简体中文：课程记录 > 核心课程等待名单），查看自己的排队位次。
+  * 位置数低于剩余名额，表示能够成功选上；
+  * 位置数高于剩余名额，则很可能选不上，除非排在前面的人退选该课程；正常选课期间结束后，等待列表（Waiting List）会被删除，未能成功选上的学生会被系统自动 Disapprove。
 
-一般有以下两种方法：
+### 2. 选课要求
 
-**（1）最实时**
+* **一个学年**的第一、第二学期所选的 CC 课程，总共**不得超过 24 学分**；
+* 不能选择 **多于 2 个** 同一 AoI 的课程；
+* 不能同时选择 [Non-Permissible Combinations](https://commoncore.hku.hk/non-permissible-combinations/) 列出的相冲突的课程；
+* 不能有时间冲突（Time Clash）；
+* 标有 “X” 的 Subclass（如 CCST9003-1A**X**）是预留给交换学生的，本校学生不能选择。
 
-将课程加入 Temporary Course List。每次刷新后，即可看到 Status 是 Closed（蓝色小方块）还是 Open（绿色小圆圈）。一旦出现 Open，即可赶紧 Proceed to Step 2 of 3。\
-前提是总课程数不超过六门，否则需要向学院申请 Overload。
+## 四、课程审批
 
-**（2）最方便**
+<figure><img src="../../../.gitbook/assets/CC_2025-26_Approvalmethods-1024x456.png" alt=""><figcaption></figcaption></figure>
 
-学校提供 Common Core Course Enrolment Statistics。可以点击 RIC 杂货铺“选课平台”中的“选课实时数据”，或复制以下链接至浏览器查看：
+### 1. 正常选课期间
 
-[https://sweb.hku.hk/ccacad/ccc\_appl/enrol\_stat.html](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)\
-这个地址不仅能显示 Open 状态，还能显示空缺名额和 Queue Up 人数。该网站每小时定时更新一次，因此数据可能延迟。
+正常选课期间采用先到先得（First-Come-First-Served）原则。
 
-## 四、Common Core Clusters 与 Transdisciplinary Minor
+### 2. Add/Drop Period
 
-Common Core Thematic Cluster 是一系列相同主题的 CC 课程。如果在同一 Cluster 下选择四门 CC 课，该 Cluster 将记录在 Academic Attainment Profile（AAP）上。如果在同一 Cluster 下选择六门 CC 课，则可以构成一个 Transdisciplinary Minor。如果课程同时满足多个 Cluster，只能选择其中一个记录在 AAP 上。\
-如果已 Declare 一个 Common Core Transdisciplinary Minor（CCTM），选修剩余 CC 课时可享有优先权。选择四门同一 Cluster 的 CC 课后，才可以 Declare CCTM。
+Add/Drop Period 期间采用自动抽签（Auto-Ballot）形式。
 
-所有 Thematic Cluster 包含的课程列表，可通过以下链接查看：\
-[https://commoncore.hku.hk/thematic-clusters/](https://commoncore.hku.hk/thematic-clusters/)\
-详细政策可通过以下链接查看：\
-[https://commoncore.hku.hk/cctms/](https://commoncore.hku.hk/cctms/)
+第一次抽签在暂停期（Suspension Period）期间；此后每天 8:00、11:00、14:00、17:00、20:00、23:00 进行。
 
-## 五、常见问题
+## 五、Clusters 和 Transdisciplinary Minors（非必须）
 
-### **Q1. 能不能把 CC 课上成 Free Elective / 我能不能上超过六门 CC？**
+同学可以选择按照兴趣，参加来自相同 Thematic Cluster 的 CC 课程。
 
-很遗憾，这是学校绝对不允许的。四年六门的限制是，一旦选满，绝不可以通过任何形式申请 Overload 或转成 Free 学分。\
+Thematic Cluster（主题领域）有 5 个：
+
+* Sustaining Cities, Cultures, and the Earth (SCCE) 可持续城市、文化与地球
+* The Quest for a Meaningful Life (UQM) 对有意义生活的追求
+* Creative Arts (CA) 创意艺术
+* The Human Lifespan (HL) 人类生命周期
+* Gender, Sexuality, and Diversity (GSD) 性别、性、多样性
+
+各主题领域的具体课程列表，详见：[Common Core Thematic Clusters | HKU Common Core](https://commoncore.hku.hk/thematic-clusters/)
+
+在某一个主题领域完成 24 学分 CC 课程后，该主题领域对应的 Common Core Cluster 就可以被记录到成绩单上。
+
+{% hint style="info" %}
+如果可以满足多于一个 Thematic Cluster（主题领域），可以选择其中一个记录到成绩单。
+{% endhint %}
+
+同时，也会具备申请（Declare）该主题领域对应的 Common Core Transdisciplinary Minor（CCTM）的资格。申请 CCTM 后，可以在选修对应领域的课程时，拥有优先权。
+
+## 六、GGPA 计算特别规定
+
+Graduation Grade Point Average（GGPA）有两种计算方案：
+
+* 选取 GPA 最高的 5 门 CC 课（覆盖所有 AoI）；或
+* 全部六门 CC 课。
+
+GGPA 取较高的结果。这一特别规定旨在鼓励同学勇于承担风险、进行探索性学习。
+
+{% hint style="warning" %}
+该规定不适用于：
+
+* 通过 Advanced Standing 免除了部分 CC 课程学分的学生；
+* 通过 Credit Transfer 等，使得其中一/多门 CC 课程的等级是 Pass/Fail，而非字母等级（Letter Grade）的学生；
+* 本身不需要 36 学分 CC 课程的学生。
+{% endhint %}
+
+详情请见：[Special Common Core Proviso in the Determination of the Graduation Grade Point Average | HKU Common Core](https://commoncore.hku.hk/special-proviso/)
+
+## 七、Advanced Standing 与 Credit Transfer
+
+政策详情：[Advanced Standing and Credit Transfer | HKU Common Core](https://commoncore.hku.hk/advstgcrt/)
+
+### 1. Advanced Standing
+
+接受 7 年中学教育的同学可以申请 Advanced Standing，免除 12 学分的 CC 课程学分：
+
+* IB 课程、GCE ALE 课程：保证免除；
+* 其他考试：视具体情况而定，按个案处理；
+
+### 2. Credit Transfer
+
+同学可以在任何时候，将在其他学校完成的课程的学分转入本校，这称作 Credit Transfer（转学分）。可以转入的 CC 课程学分数为要求的学分数（如 36）的 50%，同时必须满足 AoI 要求。
+
+## 八、常见问题与解答
+
+### Q1. 能不能把 CC 课当成 Free Elective？或者，能不能上超过要求数量的 CC 来提高 GPA？
+
+不能。已经达到要求数量后，就不能选修多出的 CC。
+
 因此，大家要谨慎选择心爱的 CC，多看多听。可以在 RIC 杂货铺的选课平台中查看大家对 CC 课的评价。假如实在喜欢，也可以选择 Sit In。
 
-### **Q2. 选不上课，能不能写邮件 Argue？**
+### Q2. 有什么方法可以更容易选上课？能不能写邮件 Argue？
 
 和专业课程不同，CC 课的 Enroll 为确保绝对公平公正，相关 Lecturer 和 Tutor 不可以参与选课过程。
 
-**特殊规则：对于 17 年之后入学的同学，有对 Graduation GPA 的特殊规则：**
+可以在 [Common Core Course Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html) 查看每个课程的选课人数与空位情况；在选课后也可以在 HKU Portal > Course Enrollment > Common Core Queue Position，查看自己的排队位次。
 
-GGPA 有两种计算方案：选取 GPA 最高的五门 CC 课，且需要 Cover 全部四种课程；或计算全部六门 CC 课。最终以较高的结果计算。\
-详情可复制以下链接至浏览器，查看 CCC 官网关于此项目的详细说明：\
-[https://commoncore.hku.hk/special-proviso/](https://commoncore.hku.hk/special-proviso/)\
-更多信息可复制以下链接至浏览器查看：\
-[http://commoncore.hku.hk/faqs/](http://commoncore.hku.hk/faqs/)
+在 Add/Drop Period 期间，可以在每次抽签前查看课程是否有 Quota，及时 Add，并在相应时间点后检查自己的 Enrollment Status。如果状态为 Not Approved，记得及时将课程重新加入 Temporary List。
 
-### Q3.&#x20;
+同时，建议多准备几门不太热门的备选 CC。
 
+### Q3. 我看到 Subclass 1A 已经没有空位了，但 Subclass 1AX 还有。我可以选 1AX 吗？
 
+不能。带 “X” 的 Subclass 仅供交换生选择。
+
+{% hint style="info" %}
+如有其他问题，可查看：[Frequently Asked Questions on Common Core | HKU Common Core](https://commoncore.hku.hk/faqs)。
+{% endhint %}
 
 ***
 

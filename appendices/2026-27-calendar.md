@@ -47,7 +47,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### 在校学生选课暂停期间
+#### 在校学生选课暂停期间 Suspension Period
 
 2026 年 8 月 5 日（星期三）9:00 – 14:29
 {% endstep %}
@@ -78,7 +78,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### 大一新生选课暂停期间&#xD;
+#### 大一新生选课暂停期间 Suspension Period&#xD;
 
 2026 年 8 月 19 日（星期三）12:00 – 8 月 20 日（星期四）14:29
 {% endstep %}
@@ -111,7 +111,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### Add/Drop Period 暂停期
+#### Add/Drop Period 暂停期 Suspension Period
 
 2026 年 9 月 2 日（星期三）12:00 – 16:59
 {% endstep %}
@@ -123,7 +123,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### Reading Week 阅读周（实地考察周）
+#### Reading Week 阅读周
 
 2026 年 10 月 12 日（星期一）– 10 月 17 日（星期六）
 {% endstep %}
@@ -172,7 +172,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### Add/Drop Period 暂停期
+#### Add/Drop Period 暂停期间 Suspension Period
 
 2027 年 1 月 19 日（星期二）12:00 – 16:59
 {% endstep %}
@@ -190,7 +190,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### Reading Week 阅读周（实地考察周）
+#### Reading Week 阅读周
 
 2027 年 3 月 8 日（星期一）– 3 月 13 日（星期六）
 {% endstep %}

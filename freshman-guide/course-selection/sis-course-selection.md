@@ -152,14 +152,6 @@
 可以尝试再次选择 Disapproved 的课程，仍有机会获批。
 {% endhint %}
 
-### 4. Add / Drop Period
-
-开学后的前两周为 Add / Drop Period。大家可以根据情况调整已选择的课程。这两周选课系统开放。
-
-### 5. Time Clash
-
-选课开放期间，大家可以通过 “My Weekly Schedule” 查看 Approved 和 Pending 课程的时间。但此前预选课时，只能自行编排课表以避免 Time Clash。请注意，确认选课时系统会检查是否存在 Time Clash。若存在，系统会提示错误并指出发生 Time Clash 的课程。
-
 ## 三、常见问题与解答
 
 ### Q1. 课程地点 TBA 是什么意思？
@@ -190,6 +182,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 7 月 21 日。
+最后更新于 2026 年 7 月 25 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

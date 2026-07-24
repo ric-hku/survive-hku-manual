@@ -1,12 +1,13 @@
 ---
 description: Swire Hall
-cover: ../../../.gitbook/assets/swire-hall.jpg
+cover: ../../../../.gitbook/assets/swire-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -197,7 +198,7 @@ c. 从深圳机场 16 号出口搭乘 M590 号大巴到深圳机场码头 → �
 
 ***
 
-想要加入 [RIC](../../ric-intro/)，一同为内地本科生维权益、谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦。
+想要加入 [RIC](../../../ric-intro/)，一同为内地本科生维权益、谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦。
 
 本文原作者：B16 陈旭 BEcon\&Fin；B18 张雨晨 BBA(Acc\&Fin)；B25 罗予悦 BSocSc；B24 李宗儒 BEng(CompSc)；B24 赵祈萱 BEcon\&Fin；B23 徐子腾 BEcon\&Fin；B20 肖雨阳 BA(ArchStud)；\
 2024 修订作者：B25 张恒元 BEng(CompSc)；\

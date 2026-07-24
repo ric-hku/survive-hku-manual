@@ -1,12 +1,13 @@
 ---
 description: University Hall (U-Hall)
-cover: ../../../.gitbook/assets/university-hall.png
+cover: ../../../../.gitbook/assets/university-hall.png
 coverY: -94.77314373458185
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -167,7 +168,7 @@ Hall 内有活动室，内有健身器材、台球桌、电视机以及迷你足
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B24 贺子逸；B22 杨子成；\
 2025 修订作者：B25 陈添祤；B25 周梓隆。

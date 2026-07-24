@@ -1,12 +1,13 @@
 ---
 description: Richard Charles Lee Hall (R. C. Lee Hall)
-cover: ../../../.gitbook/assets/richard-charles-lee-hall-r-c-lee-hall.jpg
+cover: ../../../../.gitbook/assets/richard-charles-lee-hall-r-c-lee-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -179,7 +180,7 @@ Stanley Ho 体育中心有健身房、网球场、游泳池、羽毛球场、篮
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B18 于京群 BBA(Acc\&Fin)；\
 2023 修订作者：B25 罗予悦 BSocSc；\

@@ -1,12 +1,13 @@
 ---
 description: Lee Shau Kee Hall
-cover: ../../../.gitbook/assets/lee-shau-kee-hall.jpg
+cover: ../../../../.gitbook/assets/lee-shau-kee-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:

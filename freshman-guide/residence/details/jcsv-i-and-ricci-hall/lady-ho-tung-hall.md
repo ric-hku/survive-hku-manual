@@ -1,12 +1,13 @@
 ---
 description: Lady Ho Tung Hall
-cover: ../../../.gitbook/assets/lady-ho-tung-hall.jpg
+cover: ../../../../.gitbook/assets/lady-ho-tung-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:

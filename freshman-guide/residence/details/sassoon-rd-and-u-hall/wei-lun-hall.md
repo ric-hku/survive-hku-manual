@@ -1,12 +1,13 @@
 ---
 description: Wei Lun Hall
-cover: ../../../.gitbook/assets/wei-lun-hall.jpg
+cover: ../../../../.gitbook/assets/wei-lun-hall.jpg
 coverY: -36.9735723706707
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -216,7 +217,7 @@ Merit Score 的计算通常分为 GPA 和 Participation 两个部分，各占 50
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B17 邱阳 BSc；B18 陶俊琛 BBA(Acc\&Fin)；B18 宗毅遥 BA(UrbanStud)；\
 2025 修订作者：B27 李卓芸 BSc\&LLB。

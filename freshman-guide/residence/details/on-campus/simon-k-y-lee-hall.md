@@ -1,12 +1,13 @@
 ---
 description: Simon K. Y. Lee Hall
-cover: ../../../.gitbook/assets/716485733a6cb1b693e1cdabb14788d1.png
+cover: ../../../../.gitbook/assets/716485733a6cb1b693e1cdabb14788d1.png
 coverY: -2.509494434297139
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -39,7 +40,7 @@ CEDARS 官方介绍：[Simon K. Y. Lee Hall - HKU Cedars - Housing](https://hous
 
 李国贤堂在校园中的位置：
 
-<figure><img src="../../../.gitbook/assets/Simon K. Y. Lee Hall Location.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Simon K. Y. Lee Hall Location.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 2. 性别构成 <a href="#id-2-xing-bie-gou-cheng" id="id-2-xing-bie-gou-cheng"></a>
 
@@ -174,7 +175,7 @@ b) 乘坐东涌线到香港站 → 步行至中环站 → 乘坐港岛线在香�
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B16 刘予婧；\
 2024 修订作者：B25 杨颢喆 BEng(CompSc)；\

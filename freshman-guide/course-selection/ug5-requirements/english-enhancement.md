@@ -4,9 +4,9 @@ description: English Language Enhancement
 
 # CAES 课程指南
 
-{% hint style="info" %}
-说明：“英文增补课程” 是参照 “中文增补课程” 对 English Language Enhancement 的翻译，但并不是官方翻译。
-{% endhint %}
+官方网站：[https://caes.hku.hk/](https://caes.hku.hk/)
+
+{% embed url="https://caes.hku.hk/" %}
 
 ## 一、课程安排
 
@@ -82,7 +82,12 @@ description: English Language Enhancement
 {% hint style="warning" %}
 雅思、托福网考成绩要求所有单项在同一次考试中取得。
 
-同时，有部分学院要求考试成绩须为 2 年前的 8 月 1 日之后、获港大录取之前取得。具体标准请参考学院规定，或联系学院了解。
+同时，有**部分学院**对雅思、托福成绩的取得时间有要求。比如：
+
+* 有学院要求 “须为 2 年前的 8 月 1 日之后、获港大录取之前取得”；或者，
+* 有学院要求 “须为 2 年以内、获港大录取当年的 8 月 1 日之前取得”；
+
+具体标准请参考学院规定，或联系学院确认。
 {% endhint %}
 
 * **雅思（IELTS）**&#x603B;分 7 分或以上，且阅读、口语、听力、写作单项不低于 6.5 分；
@@ -93,6 +98,8 @@ description: English Language Enhancement
 * **Advanced Placement (AP)** English Language / English  &#x20;Language and Composition / English Literature and Composition Test 获得 4 分或以上；
 * **新版 Scholastic  &#x20;Aptitude Test (SAT)** 同一次考试中阅读、写作部分单项 630 分或以上；
 * **IGCSE** English - First Language / English as a Second Language、**GCE AS / AL** English Language 或 English Literature 获得 A 或以上；等。
+
+如果没有可以用于免修 CAES1001 的考试成绩，也可以选择参加 CAES 组织的 Academic Speaking and Writing Test。同学可以向所属学院申请；同时需要提供并非以上述考试成绩入读港大的证明（**如高考成绩**）。该测试一般在 **8 月**，以**线下**形式进行，并只安排一次（**不安排补测**）。
 
 **CAES1001 不占学分**。因此，免修 CAES1001 后，不需要用其他课补上学分。
 
@@ -124,6 +131,6 @@ description: English Language Enhancement
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 15 日。
+最后更新于 2026 年 7 月 25 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

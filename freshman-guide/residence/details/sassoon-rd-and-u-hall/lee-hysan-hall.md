@@ -1,12 +1,13 @@
 ---
 description: Lee Hysan Hall
-cover: ../../../.gitbook/assets/lee-hysan-hall.jpg
+cover: ../../../../.gitbook/assets/lee-hysan-hall.jpg
 coverY: 106.71356227508834
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -268,7 +269,7 @@ Local 也会比较吵，但一般在夜晚 12 点以后开始。早睡的同学�
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者不详；\
 修订作者：B21 陈吉荣；B21 江原非；B24 黄欣宜；B24 王柯然；B26 郭欣怡；\

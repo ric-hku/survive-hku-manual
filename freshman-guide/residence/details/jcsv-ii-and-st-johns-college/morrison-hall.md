@@ -1,12 +1,13 @@
 ---
 description: Morrison Hall
-cover: ../../../.gitbook/assets/morrison-hall.jpg
+cover: ../../../../.gitbook/assets/morrison-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -130,7 +131,7 @@ Readmission 评分分为楼层评分、Hall 内评分、Hall Song 考核和面�
 
 ### 九、重要告示
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 ### 十、从马礼逊出发
 
@@ -144,7 +145,7 @@ Readmission 评分分为楼层评分、Hall 内评分、Hall Song 考核和面�
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B17 陈亚川 BSocSc；B21 付琪深 BBA(Acc\&Fin)；B20 刘小菲 BBA(Acc\&Fin)，MHall 前内务副主席；\
 2024 修订作者：B25 徐肇成 BSc(ActuarSc)。

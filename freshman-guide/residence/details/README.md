@@ -3,22 +3,22 @@
 #### 住宿舍堂 Residential Halls
 
 * 校内 On Campus
-  * [李国贤堂 Simon K.Y. Lee Hall](simon-k-y-lee-hall.md)
-  * [太古堂 Swire Hall](swire-hall.md)
+  * [李国贤堂 Simon K.Y. Lee Hall](on-campus/simon-k-y-lee-hall.md)
+  * [太古堂 Swire Hall](on-campus/swire-hall.md)
 * 赛马会第一舍堂村 Jockey Club Student Village I (JCSV I)
-  * [何东夫人纪念堂 Lady Ho Tung Hall](lady-ho-tung-hall.md)
-  * [施德堂 Starr Hall](starr-hall.md)
-* [利玛窦宿舍 Ricci Hall](ricci-hall.md)
+  * [何东夫人纪念堂 Lady Ho Tung Hall](jcsv-i-and-ricci-hall/lady-ho-tung-hall.md)
+  * [施德堂 Starr Hall](jcsv-i-and-ricci-hall/starr-hall.md)
+* [利玛窦宿舍 Ricci Hall](jcsv-i-and-ricci-hall/ricci-hall.md)
 * 赛马会第二舍堂村 Jockey Club Student Village II (JCSV II)
-  * [李兆基堂 Lee Shau Kee Hall](lee-shau-kee-hall.md)
-  * [马礼逊堂 Morrison Hall](morrison-hall.md)
-  * [孙志新堂 Suen Chi Sun Hall](suen-chi-sun-hall.md)
-* [圣约翰学院 St. John's College](st-johns-college.md)
+  * [李兆基堂 Lee Shau Kee Hall](jcsv-ii-and-st-johns-college/lee-shau-kee-hall.md)
+  * [马礼逊堂 Morrison Hall](jcsv-ii-and-st-johns-college/morrison-hall.md)
+  * [孙志新堂 Suen Chi Sun Hall](jcsv-ii-and-st-johns-college/suen-chi-sun-hall.md)
+* [圣约翰学院 St. John's College](jcsv-ii-and-st-johns-college/st-johns-college.md)
 * 沙宣道各舍堂 Sassoon Road Halls
-  * [利铭泽堂 Richard Charles Lee Hall (R.C. Lee Hall)](richard-charles-lee-hall.md)
-  * [伟伦堂 Wei Lun Hall](wei-lun-hall.md)
-  * [利希慎堂 Lee Hysan Hall](lee-hysan-hall.md)
-* [大学堂 University Hall (U-Hall)](university-hall.md)
+  * [利铭泽堂 Richard Charles Lee Hall (R.C. Lee Hall)](sassoon-rd-and-u-hall/richard-charles-lee-hall.md)
+  * [伟伦堂 Wei Lun Hall](sassoon-rd-and-u-hall/wei-lun-hall.md)
+  * [利希慎堂 Lee Hysan Hall](sassoon-rd-and-u-hall/lee-hysan-hall.md)
+* [大学堂 University Hall (U-Hall)](sassoon-rd-and-u-hall/university-hall.md)
 
 #### 住宿学院 Residential Colleges
 

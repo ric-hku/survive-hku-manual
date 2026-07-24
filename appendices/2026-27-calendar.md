@@ -19,8 +19,6 @@ icon: calendar
 {% step %}
 #### 在校学生浏览课程信息
 
-2026 年 7 月 27 日（星期一）开始
-
 {% hint style="info" %}
 **在校学生**（Current Students），指**除了大一新生的学生**。也不包括 BASc(SDS)、BSc(ACD)、BSc(IM) 的大三学生和交换 / 访学的学生。
 
@@ -28,10 +26,12 @@ icon: calendar
 
 下同。
 {% endhint %}
+
+2026 年 7 月 27 日（星期一）开始
 {% endstep %}
 
 {% step %}
-#### 在校学生选课
+#### 在校学生正式选课期间
 
 2026 年 8 月 4 日（星期二）10:00 – 8 月 10 日（星期一）16:00
 
@@ -47,7 +47,7 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### 在校学生选课暂停期
+#### 在校学生选课暂停期间
 
 2026 年 8 月 5 日（星期三）9:00 – 14:29
 {% endstep %}
@@ -69,21 +69,28 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### 大一新生选课
+#### 大一新生正式选课期间
 
 2026 年 8 月 18 日（星期二）10:00 – 8 月 24 日（星期一）16:00
+
+* 第一学期 / 全年课程，8 月 18 日 10:00 开始
+* 第二学期课程，8 月 18 日 10:10 开始
 {% endstep %}
 
 {% step %}
-#### 大一新生选课暂停期
+#### 大一新生选课暂停期间&#xD;
 
 2026 年 8 月 19 日（星期三）12:00 – 8 月 20 日（星期四）14:29
 {% endstep %}
 
 {% step %}
-#### 大一新生选课结束
+#### 大一新生选课结束&#xD;
 
 2026 年 8 月 24 日（星期一）16:00 之后
+
+{% hint style="warning" %}
+此后，直到 Add/Drop Period（加 / 退选期），同学不得修改选课情况。
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -137,12 +144,12 @@ icon: calendar
 #### Assessment Period 考试期
 
 2026 年 12 月 7 日（星期一）– 12 月 23 日（星期三）
-
-{% hint style="info" %}
-上述 Reading Week、授课最后一天、Revision Period、Assessment Period，只适用于**所有非临床专业**。
-{% endhint %}
 {% endstep %}
 {% endstepper %}
+
+{% hint style="info" %}
+阅读周、授课最后一天、复习期、考试期的时间，只适用于**所有非临床专业**。下同。
+{% endhint %}
 
 ### 第二学期 Second Semester
 

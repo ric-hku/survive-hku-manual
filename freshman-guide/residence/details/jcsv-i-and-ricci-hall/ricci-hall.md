@@ -1,12 +1,13 @@
 ---
 description: Ricci Hall
-cover: ../../../.gitbook/assets/ricci-hall.jpg
+cover: ../../../../.gitbook/assets/ricci-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -134,7 +135,7 @@ Ricci Hall 的居住条件可以算是 HKU 宿舍最顶尖的。地理位置方�
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B25 Travis BSc。
 

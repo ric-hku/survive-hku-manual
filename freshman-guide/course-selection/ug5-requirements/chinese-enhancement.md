@@ -4,6 +4,10 @@ description: Chinese Language Enhancement
 
 # 中文增补课程指南
 
+官方网站：[https://www.clep-wix.hku.hk/](https://www.clep-wix.hku.hk/)
+
+{% embed url="https://www.clep-wix.hku.hk/" %}
+
 ## 一、课程选择
 
 中文增补课程一般从以下两个类别中选择：

@@ -1,12 +1,13 @@
 ---
 description: St John's College
-cover: ../../../.gitbook/assets/st-john-s-college.jpg
+cover: ../../../../.gitbook/assets/st-john-s-college.jpg
 coverY: 64.028137365053
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -37,7 +38,7 @@ CEDARS 官方介绍：[St John's College - HKU Cedars - Housing](https://housing
 
 薄扶林道 82 号（82 Pokfulam Road），位于赛马会第二学生舍堂村对面。
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 性别构成
 
@@ -203,7 +204,7 @@ h. 的士：一般为起步价 HKD 24，目的地为 Hall 正门。
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B17 张韵迪；B25 罗予悦 BSocSc；B26 姚潞 BBA；\
 2025 修订作者：B26 胡文青 BBA。

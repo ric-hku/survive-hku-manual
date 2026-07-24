@@ -4,9 +4,11 @@ description: Common Core Courses
 
 # Common Core 指南
 
-## 一、课程内容
+官方网站：[http://commoncore.hku.hk/](http://commoncore.hku.hk/)
 
-官方网站：[HKU Common Core Curriculum](http://commoncore.hku.hk/)
+{% embed url="http://commoncore.hku.hk/" %}
+
+## 一、课程内容
 
 Common Core（CC）是由学生自主选择的跨学科课程，设计目的是让学生 “建立起与自己未来的联系”，理解社会议题、认识文化差异、参与社区建设、锻炼个人能力。
 
@@ -108,7 +110,7 @@ Thematic Cluster（主题领域）有 5 个：
 如果可以满足多于一个 Thematic Cluster（主题领域），可以选择其中一个记录到成绩单。
 {% endhint %}
 
-同时，也会具备申请（Declare）该主题领域对应的 Common Core Transdisciplinary Minor（CCTM）的资格。申请 CCTM 后，可以在选修对应领域的课程时，拥有优先权。
+同时，也会具备申报（Declare）该主题领域对应的 Common Core Transdisciplinary Minor（CCTM）的资格。申报 CCTM 后，可以在选修对应领域的课程时，拥有优先权。
 
 ## 六、GGPA 计算特别规定
 

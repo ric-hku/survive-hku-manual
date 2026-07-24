@@ -15,7 +15,7 @@ description: UG5 Requirements
   * MBBS、BASc、双学位学生一般为 24 学分。
 * Artificial Intelligence Literacy 人工智能素养（6 学分），包括：
   * AILT1001 Artificial Intelligence Literacy I（3 学分）
-  * AILTxxxx（3 学分）
+  * AILT90xx（3 学分）
 
 除此之外，还有一个不占学分的线上课 UG5E1001 Introduction to the Constitution, the Basic Law and the National Security Law（《宪法》、《基本法》和《国安法》导论）。
 

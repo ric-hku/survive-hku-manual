@@ -1,12 +1,13 @@
 ---
 description: Suen Chi Sun Hall
-cover: ../../../.gitbook/assets/suen-chi-sun-hall.jpg
+cover: ../../../../.gitbook/assets/suen-chi-sun-hall.jpg
 coverY: -49.79965153957631
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -145,7 +146,7 @@ c）在港铁上环站坐巴士。71、4、37A、7、90B、3A、4X 都可以。�
 
 注意，由于蒲飞路校区建设工程，二村出入口有更改，Google Map 上显示的出入口无法使用，需要继续往上走一段路通过回转坡道或行人电梯进入。
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ### 九、孙志新堂出发（前往学校）
 
@@ -155,7 +156,7 @@ c）在港铁上环站坐巴士。71、4、37A、7、90B、3A、4X 都可以。�
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者不详。
 

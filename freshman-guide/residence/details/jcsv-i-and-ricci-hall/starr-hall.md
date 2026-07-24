@@ -1,12 +1,13 @@
 ---
 description: Starr Hall
-cover: ../../../.gitbook/assets/starr-hall.jpg
+cover: ../../../../.gitbook/assets/starr-hall.jpg
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -39,7 +40,7 @@ CEDARS 官方介绍：[Starr Hall - HKU Cedars - Housing](https://housing.cedars
 
 下图左侧可看到施德堂位置。
 
-<figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 性别构成 <a href="#id-2-xing-bie-gou-cheng" id="id-2-xing-bie-gou-cheng"></a>
 
@@ -149,7 +150,7 @@ c）搭乘的士前往，花费约 HKD 300 - 400。
 
 ***
 
-想要加入 [RIC](../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+想要加入 [RIC](../../../ric-intro/) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文原作者：B17 夏文玥 BSocSc；B25 罗予悦 BSocSc；B24 陈坜衡 BEng(CompSc)；\
 2025 修订作者：B26 文崔一 BEcon\&Fin；\

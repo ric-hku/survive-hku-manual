@@ -52,6 +52,7 @@
     * [中文增补课程指南](freshman-guide/course-selection/ug5-requirements/chinese-enhancement.md)
     * [Common Core 指南](freshman-guide/course-selection/ug5-requirements/common-core.md)
     * [AILT 课程指南](freshman-guide/course-selection/ug5-requirements/ai-literacy.md)
+  * [部分课程修读要求解读](freshman-guide/course-selection/bu-fen-ke-cheng-xiu-du-yao-qiu-jie-du.md)
 * [来港准备 & 来港生活](freshman-guide/preparation/README.md)
   * [新生来港物品清单](freshman-guide/preparation/packing-list.md)
   * [交通指南](freshman-guide/preparation/transportation.md)

@@ -58,7 +58,7 @@ icon: pencil-line
 
 一般来说，本科四年的专业要求修满 240 学分；本科五年的专业要求修满 300 学分。
 
-一个课程一般为 6 学分；少数学时、Workload 等偏小的课程为 3 或 0 学分；全年课程（Full Year Courses）一般为 12 学分，每学期按 6 学分计算。
+一个课程一般为 6 学分；少数学时、Workload 等偏小的课程为 3 或 0 学分；全年课程（Full Year Courses）一般为 12 学分，每学期按 6 学分计算（如为 6 学分，则每学期 3 学分）。
 
 学校建议一学期修读 24 - 30 学分的课程；一学期最多可以修读 36 学分的课程。
 
@@ -98,7 +98,7 @@ icon: pencil-line
 
 * 大二的第一学期可以开始 Declare 主修、副修；
 * 大三的第一学期必须 Declare 主修、副修；
-* 大四的第一学期（不含）后不能再修改主修、副修。
+* 最后一年的第一学期（不含）后不能再修改主修、副修。
 
 不同学院的具体要求可能有所不同。如有疑问，可咨询所属学院。
 
@@ -156,7 +156,7 @@ Tutorial 一般在开学后选择。由于形式可能有所不同，授课老�
 也可以阅读 RIC 微信公众号的推送 [ADP 法宝小合集](https://mp.weixin.qq.com/s/kr27B06KzBnPgxP89JET9g)，了解更多有关选课工具的信息。
 {% endhint %}
 
-#### (1) Class Schedule Planner
+#### Class Schedule Planner
 
 Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以下功能：&#x20;
 
@@ -168,7 +168,7 @@ Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-#### (2) RIC 选课平台
+#### RIC 选课平台
 
 {% embed url="https://richku.com/courses" %}
 
@@ -179,13 +179,13 @@ RIC 选课平台是 RIC 为同学开发的选课评论交流网站，主要有�
 
 具体使用教程，详见：[RIC 选课平台指南](ric-course-platform.md)。
 
-#### (3) HCSPE
+#### HCSPE
 
 {% embed url="https://chromewebstore.google.com/detail/cmjjmplgcneagjimjldaabmcopikjfhn" %}
 
 HCSPE 是由 RIC 庄友开发的 Chrome 扩展程序，可实现在 Class Schedule Planner 中一键跳转到 RIC 选课平台的功能。
 
-#### (4) RIC Flow
+#### RIC Flow
 
 {% embed url="https://chromewebstore.google.com/detail/bocldbjidbhkofdkcmeofmhjgnhlfpgc" %}
 

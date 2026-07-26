@@ -2,7 +2,7 @@
 description: Enrollment Requirements
 ---
 
-# 部分课程修读要求解读
+# 部分课程修读要求
 
 ## 一、文学院 Faculty of Arts
 
@@ -98,6 +98,6 @@ HKDSE 部分科目、分数与其他考试成绩对照：
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 26 日。
+最后更新于 2026 年 7 月 27 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

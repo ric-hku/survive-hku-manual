@@ -265,6 +265,14 @@ RIC Flow 是由 RIC 庄友开发的 Chrome 扩展程序，主要有以下功能�
 
 本学年 Add/Drop Period 的具体时间，详见：[2026 – 27 校历、假期](../../appendices/2026-27-calendar.md)。
 
+### Q4. 有的课程对 HKDSE 某科目成绩有要求，而我不是通过 HKDSE 入学的。我怎么选这些课程？
+
+这些课程一般是中文学院（中国语言文学）、英文学院（ENGL、DRTP 课程）或理学院的。
+
+如果想选择这些课程，可能需要特殊申请。
+
+有关高考、国际体系考试等如何对应 HKDSE 的考试成绩，详见：[部分课程修读要求](enrollment-requirements.md)。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～

@@ -154,6 +154,8 @@
 可以尝试再次选择 Disapproved 的课程，仍有机会获批。
 {% endhint %}
 
+此外，可以在 HKU Portal 里选择 Course Enrollment > **Enrollment Status**（简体中文：课程记录 > 选课记录），查看课程审核状态。
+
 ## 三、常见问题与解答
 
 ### Q1. 课程地点 TBA 是什么意思？

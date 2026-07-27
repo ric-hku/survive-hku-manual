@@ -11,7 +11,7 @@ icon: user
 
 持有以下证件均视为**本地申请人**：
 
-<table><thead><tr><th width="80"></th><th></th></tr></thead><tbody><tr><td>LS1</td><td>香港永久性居民身份证</td></tr><tr><td>LS2</td><td>由香港特区入境事务处签发享有香港特区的居留权／入境权之证明文件</td></tr><tr><td>LS3</td><td>中华人民共和国前往港澳通行证（单程证）</td></tr><tr><td>LS4</td><td>来港就业入境签证／进入许可证</td></tr><tr><td>LS5</td><td><p>受养人签证／进入许可证（未年满 18 岁的学生） <sup>注</sup></p><p><sup>注</sup> 获香港特区入境事务处<strong>首次</strong>签发受养人签证／进入许可证时未年满 18 岁的学生，均视为本地生。</p></td></tr><tr><td>LS6</td><td>优秀人才入境计划（签证／进入许可证）</td></tr><tr><td>LS7</td><td>资本投资者入境计划（签证／进入许可证）</td></tr><tr><td>LS8</td><td>输入中国籍香港永久性居民第二代计划（签证／进入许可证）</td></tr><tr><td>LS9</td><td>无条件限制逗留（签证）</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="80"></th><th></th></tr></thead><tbody><tr><td>LS1</td><td>香港永久性居民身份证</td></tr><tr><td>LS2</td><td>由香港特区入境事务处签发享有香港特区的居留权／入境权之证明文件</td></tr><tr><td>LS3</td><td>中华人民共和国前往港澳通行证（单程证）</td></tr><tr><td>LS4</td><td>来港就业入境签证／进入许可证</td></tr><tr><td>LS5</td><td><p>受养人签证／进入许可证（未年满 18 岁的学生） <sup>注</sup></p><p><sup>注</sup> 获香港特区入境事务处<strong>首次</strong>签发受养人签证／进入许可证时未年满 18 岁的学生，均视为本地生。</p></td></tr><tr><td>LS6</td><td>优秀人才入境计划（签证／进入许可证）</td></tr><tr><td>LS7</td><td>资本投资者入境计划（签证／进入许可证）</td></tr><tr><td>LS8</td><td>输入中国籍香港永久性居民第二代计划（签证／进入许可证）</td></tr><tr><td>LS9</td><td>无条件限制逗留（签证）</td></tr></tbody></table>
 
 ## 非本地学生的定义
 

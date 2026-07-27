@@ -1,35 +1,10 @@
-# 港大主要教学区中英文对照
+# 校园及地点指南
 
 {% file src="../../.gitbook/assets/8.4 港大主要教学区中英文对照.pdf" %}
 
 ### 本部校园和百周年校园教学楼
 
-| **代号 (Code)** | **英文名称 (English Name)**               | **中文名称 (Chinese Name)** |
-| ------------- | ------------------------------------- | ----------------------- |
-| CYM           | Chong Yuet Ming Amenities Centre      | 庄月明文娱中心                 |
-| CYC           | Chong Yuet Ming Chemistry Building    | 庄月明化学楼                  |
-| CYP           | Chong Yuet Ming Physics Building      | 庄月明物理楼                  |
-| EH            | Eliot Hall                            | 仪礼堂                     |
-| RM            | Rumme Shaw Building                   | 邵仁梅楼                    |
-| HC            | Hoi Oi Chow Science Building          | 许爱周科学馆                  |
-| MW            | Meng Wah Complex                      | 明华综合大楼                  |
-| RR            | Run Run Shaw Building                 | 邵逸夫楼                    |
-| GH            | Graduate House                        | 研究生堂                    |
-| WLGH          | Wang Gungwu Theatre (Graduate House)  | 王赓武讲堂                   |
-| CB            | Chow Yei Ching Building               | 周亦卿楼                    |
-| HW            | Haking Wong Building                  | 黄克竞楼                    |
-| JCT/CJT       | The Jockey Club Tower                 | 赛马会教学楼                  |
-| RRS/CRT       | Run Run Shaw Tower                    | 逸夫教学楼                   |
-| CPD           | Central Podium Levels                 | 百周年校园                   |
-| CCT           | Cheng Yu Tung Tower                   | 郑裕彤教学楼                  |
-| HHY           | Hung Hing Ying Building               | 孔庆荧楼                    |
-| KA/KBSB       | Kadoorie Biological Sciences Building | 嘉道理生物科学大楼               |
-| KB            | Knowles Building                      | 钮鲁诗楼                    |
-| LE            | Library Extension Building            | 香港大学图书馆延伸大楼             |
-| KK            | K.K.Leung Building                    | 梁銶琚楼                    |
-| MB            | Main Building                         | 主楼                      |
-| PSL           | Pao Siu Loong Building                | 包兆龙楼                    |
-| TT/TS         | T.T.Tsui Building                     | 徐展堂楼                    |
+<table data-header-hidden><thead><tr><th width="150.11111450195312"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>代号 (Code)</strong></td><td><strong>英文名称 (English Name)</strong></td><td><strong>中文名称 (Chinese Name)</strong></td></tr><tr><td>CYM</td><td>Chong Yuet Ming Amenities Centre</td><td>庄月明文娱中心</td></tr><tr><td>CYC</td><td>Chong Yuet Ming Chemistry Building</td><td>庄月明化学楼</td></tr><tr><td>CYP</td><td>Chong Yuet Ming Physics Building</td><td>庄月明物理楼</td></tr><tr><td>EH</td><td>Eliot Hall</td><td>仪礼堂</td></tr><tr><td>RM</td><td>Rumme Shaw Building</td><td>邵仁梅楼</td></tr><tr><td>HC</td><td>Hoi Oi Chow Science Building</td><td>许爱周科学馆</td></tr><tr><td>MW</td><td>Meng Wah Complex</td><td>明华综合大楼</td></tr><tr><td>RR</td><td>Run Run Shaw Building</td><td>邵逸夫楼</td></tr><tr><td>GH</td><td>Graduate House</td><td>研究生堂</td></tr><tr><td>WLGH</td><td>Wang Gungwu Theatre (Graduate House)</td><td>王赓武讲堂</td></tr><tr><td>CB</td><td>Chow Yei Ching Building</td><td>周亦卿楼</td></tr><tr><td>HW</td><td>Haking Wong Building</td><td>黄克竞楼</td></tr><tr><td>JCT/CJT</td><td>The Jockey Club Tower</td><td>赛马会教学楼</td></tr><tr><td>RRS/CRT</td><td>Run Run Shaw Tower</td><td>逸夫教学楼</td></tr><tr><td>CPD</td><td>Central Podium Levels</td><td>百周年校园</td></tr><tr><td>CCT</td><td>Cheng Yu Tung Tower</td><td>郑裕彤教学楼</td></tr><tr><td>HHY</td><td>Hung Hing Ying Building</td><td>孔庆荧楼</td></tr><tr><td>KA/KBSB</td><td>Kadoorie Biological Sciences Building</td><td>嘉道理生物科学大楼</td></tr><tr><td>KB</td><td>Knowles Building</td><td>钮鲁诗楼</td></tr><tr><td>LE</td><td>Library Extension Building</td><td>香港大学图书馆延伸大楼</td></tr><tr><td>KK</td><td>K.K.Leung Building</td><td>梁銶琚楼</td></tr><tr><td>MB</td><td>Main Building</td><td>主楼</td></tr><tr><td>PSL</td><td>Pao Siu Loong Building</td><td>包兆龙楼</td></tr><tr><td>TT/TS</td><td>T.T.Tsui Building</td><td>徐展堂楼</td></tr></tbody></table>
 
 > 注意： 本部校园内课间步行十分钟基本可以来往于各教学楼课室。如果拖堂/路上拥挤，可能需要快走或小跑。
 
@@ -63,11 +38,7 @@
 
 * PPDH: Prince Philip Dental Hospital (菲腊牙科医院)
 
-
-
 沙宣道地图：
-
-
 
 <figure><img src="../../.gitbook/assets/42a12f7a8788a9708c3ff7df3819dd5f.png" alt=""><figcaption></figcaption></figure>
 

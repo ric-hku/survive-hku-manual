@@ -4,6 +4,10 @@ description: Enrollment Requirements
 
 # 部分课程修读要求
 
+{% hint style="info" %}
+本文的学院，指**课程所属学院（Offering Department）**。
+{% endhint %}
+
 ## 一、文学院 Faculty of Arts
 
 ### 1. 中文学院 School of Chinese
@@ -85,6 +89,12 @@ HKDSE 部分科目、分数与其他考试成绩对照：
 对于理学院的学生（即 BSc、BSc\&MRes、BSc\&LLB 专业的学生），即便不是以 HKDSE 成绩入读，也可以直接在系统中选择有成绩要求的课程。
 
 对于非理学院的学生，如果不是以 HKDSE 成绩入读，需要通过 [Science Online Application Submission System (OASS)](https://webapp.science.hku.hk/intranet/OnlineFormUG.html) 向课程所属院系等申请批准。申请批准后，需要将该批准信息转发至自己学院，让学院为同学手动添加该课程。
+
+{% hint style="info" %}
+通过**高考**入读的 **BASc(FInTech)** 学生一般可以直接修读 MATH1853，而不需要特别申请。工程学院会单独电邮联系相关学生。
+
+CDS、BEng(AI\&DataSc)、BEng(CompSc)、BASc(AppliedAI) 的学生仍然需要特别申请。
+{% endhint %}
 
 {% hint style="warning" %}
 需要 HKU VPN 或 HKU WiFi 访问理学院 OASS。

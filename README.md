@@ -49,13 +49,19 @@ icon: house-chimney
 
 {% embed url="https://www.bilibili.com/video/BV1n741157r2" %}
 
+{% hint style="info" %}
+《明我以德》是香港大学百周年校庆主题曲，但并不是 “校歌”。
+
+用于各种正式典礼的校歌，是《港大礼赞》（University Anthem）。
+{% endhint %}
+
 > **香港大学百周年校庆主题曲《明我以德》**\
 > \
-> 作曲：许冠杰（BA 1971）\
-> 作词：林夕（BA 1984）\
-> 编曲：周博贤（LLB 1991, PCLL 1992, LLM 1994）\
-> 演唱：谢安琪（BA 2005）\
-> 　　　许廷铿（BDS 2012）\
+> 作曲：许冠杰 Sam Hui（BA 1971）\
+> 作词：林夕 Lin Xi（BA 1984）\
+> 编曲：周博贤 Adrian Chow（LLB 1991, PCLL 1992, LLM 1994）\
+> 演唱：谢安琪 Kay Tse（BA 2005）\
+> 　　　许廷铿 Alfred Hui（BDS 2012）\
 > 　　　”明我以德“ 合唱团（香港大学学生）\
 > \
 > 路　前人踏过　用见识　为我点灯\

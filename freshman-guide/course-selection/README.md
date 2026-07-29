@@ -44,9 +44,9 @@ icon: pencil-line
   * [Common Core (CC)](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/course-selection/ug5-requirements/common-core)
     * 一般为 36 学分。
     * MBBS、BASc、双学位学生一般为 24 学分。
-  * Artificial Intelligence Literacy 人工智能素养（6 学分），包括：
+  * [Artificial Intelligence Literacy](ug5-requirements/ai-literacy.md)（6 学分），包括：
     * AILT1001 Artificial Intelligence Literacy I（3 学分）
-    * AILTxxxx（3 学分）
+    * AILT90xx（3 学分）
 * 其他与自己学院、专业、主修/副修等相关的必修课
 * 以上两类之外，剩余的可供自由选修其他学系、学院课程的学分（Free Electives, Free E）
 
@@ -283,13 +283,24 @@ Tutorial 一般在开学后选择。
 
 因此，考虑选课时不需要考虑 Tutorial。
 
+### Q6. 有什么办法能看到每个课程的选课人数等情况吗？
+
+以下课程可以在对应的网页看到选课情况：
+
+* AILT1001：[https://sweb.hku.hk/ccacad/enrol\_stat/enrol\_stat.html](https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html)
+* CAES1001：[https://sweb.hku.hk/ccacad/eng/enrol\_stat.html](https://sweb.hku.hk/ccacad/eng/enrol_stat.html)
+* Common Core：[https://sweb.hku.hk/ccacad/ccc\_appl/enrol\_stat.html](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)
+* 经管学院提供的课程：[https://ug.hkubs.hku.hk/course-enrolment](https://ug.hkubs.hku.hk/course-enrolment)
+
+此外，Class Schedule Planner 中，在 Class Quota (Utilization) 这一项也可以看到。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 25 日。
+最后更新于 2026 年 7 月 29 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 

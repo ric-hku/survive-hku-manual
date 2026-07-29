@@ -52,7 +52,7 @@ icon: house-chimney
 {% hint style="info" %}
 《明我以德》是香港大学百周年校庆主题曲，但并不是 “校歌”。
 
-用于各种正式典礼的校歌，是《港大礼赞》（University Anthem）。
+用于各种正式典礼的校歌，是[《港大礼赞》（University Anthem）](appendices/university-anthem.md)。
 {% endhint %}
 
 > **香港大学百周年校庆主题曲《明我以德》**\

@@ -1,127 +1,88 @@
 ---
-hidden: true
+description: Artificial Intelligence Literacy
 ---
 
 # AILT 课程指南
 
-
-
-**人工智能素养（Artificial Intelligence Literacy）**
-
 官方网站：[https://ailt.cds.hku.hk/](https://ailt.cds.hku.hk/)
 
-### 一、课程背景
+{% embed url="https://ailt.cds.hku.hk/" %}
 
-人工智能正在重塑每一个领域，而不仅仅是科技行业。理解AI不再是可选项，而是21世纪的新素养。由2025/26学年起，香港大学将“人工智能素养I（AILT1001）”列为全体本科生必修核心课程。课程推出后首个学期约有2,400名学生修读，学生对学习成果的认可度达96%。
+## 一、课程安排
 
-学生完成课程后，不仅能够解释AI原理、有效使用AI工具，更能批判性地评估AI技术及其社会影响。
+对 2027 - 28 年入学的 B29 学生来说，英文增补课程一般包括两个课程：
 
-人工智能素养课程共需修读6学分，包括：
+* AILT1001 Artificial Intelligence Literacy I（3 学分）
+* AILT90xx 后续课程（3 学分）
 
-* **AILT1001 Artificial Intelligence Literacy I（3学分）**
-* **AILTxxxx Artificial Intelligence Literacy II 或其他微证书AI素养课程（3学分）**
+学校强烈鼓励在大一修读 AILT1001，因为这是后续 AILT 的前置课程。
 
-学校强烈鼓励学生在第一年（第1学期或第2学期）修读AILT1001，因为这是修读毕业所需的第二门人工智能素养课程的先决条件。
+## 二、AILT1001 Artificial Intelligence Literacy I
 
-### 二、AILT1001 Artificial Intelligence Literacy I
+### 1. 基本信息
 
-#### 1. 基本信息
+* 官方网站：[AILT1001 | HKU](https://ailt.cds.hku.hk/)
+* 学分：3 学分
+* 形式：线下授课（10 次讲课 + 5 次导修课）
+* 总学时：20 小时（讲课 10 小时 + 导修课 10 小时）
 
-* **课程代码**：AILT1001
-* **学分**：3学分
-* **形式**：线下授课（10次讲座 + 5次导修课）
-* **总学时**：20小时（讲座10小时 + 导修课10小时）
+### 2. 课程内容
 
-#### 2. 课程安排
+主要涵盖 AI 的原理、发展、应用、伦理等方面。
 
-**讲座（Lectures）**
+完成 AILT1001 后，学生将能够：
 
-#### 3. 课程内容
+* 解释 AI 的工作原理（Explain how AI works）
+* 有效与 AI 系统交互（Interact effectively with AI systems）
+* 批判性评估 AI 系统（Critically evaluate AI systems）
 
-**学习成果**
+### 3. 考核方式
 
-完成AILT1001后，学生将能够：
+* 参与度（20%）
+  * 导修课（Tutorial）参与度；
+  * 掌握度考核（Mastery Checks）；
+* 小组作业（40%）
+  * 学生将在所属 Tutorial 组别中随机分组，围绕 AI 相关的自选主题制作海报；
+* 期末测试（40%）
+  * 闭卷形式（含选择题、简答题等）；
 
-1. **解释AI的工作原理**（Explain how AI works）
-2. **有效与AI系统交互**（Interact effectively with AI systems）
-3. **批判性评估AI系统**（Critically evaluate AI systems）
+#### 评分等级
 
-**课程理念**
+* 优异（Distinction, DI）
+  * 总分 ≥ 90%，且在小组作业中表现优异；
+* 及格（Pass, P）
+  * 总分 ≥ 50%，且期末测试和小组作业均获非零分数；
+* 不及格（Fail, F）
+  * 未达到及格要求。
 
-AI素养使你超越单纯的消费者身份，成为**创造者、创新者、批判性思考者**。伦理AI需要多元声音——AI素养帮助你质疑公平性、准确性与社会影响。阅读、写作、数学已不再足够——AI素养是每个人的核心技能。
+{% hint style="info" %}
+成绩以 P/F/DI 评定，不影响 GPA。
+{% endhint %}
 
-#### 4. 评估方式
+#### **期末测试（Final Test）**
 
-| 评估方法 | 类型                                   | 权重  |
-| ---- | ------------------------------------ | --- |
-| 参与度  | 导修参与 + 掌握检查（Mastery Checks）完成        | 20% |
-| 小组作业 | 自拟主题微型项目（Self-proposed Mini Project） | 40% |
-| 期末测试 | 闭卷（选择题、多选、排序选择题、排除型选择题、简答题）          | 40% |
+期末测试在最后一次 Lecture 时进行，覆盖整个课程内容。题型包括：
 
-> 📌 另有资料显示参与度占20%，包括Tutorial参与和在线学习任务。
-
-**评分等级**
-
-| 等级                      | 要求                            |
-| ----------------------- | ----------------------------- |
-| **及格（Pass, P）**         | 总分 ≥ 50/100%，且期末测试和小组作业均获非零分数 |
-| **优异（Distinction, DI）** | 总分 ≥ 90/100%，且在小组作业中表现优异      |
-| **不及格（Fail, F）**        | 未达到及格要求                       |
-
-> ℹ️ 成绩以P/F/DI评定，**不影响GPA**。
-
-**小组作业（Group Assignment）**
-
-学生将在导修子班内随机分组，选择一个与AI相关的自拟主题，**制作教育海报（Educational Poster）**。
-
-**期末测试（Final Test）**
-
-期末测试在讲座时间进行（L-10，11月26日），覆盖整个课程内容。题型包括：
-
-* 闭卷选择题（Closed Book MCQs）
-* 多选选择题（Multiple-Answer Questions）
+* 选择题（MCQs）
+* 多选题（Multiple-Answer Questions）
 * 排序选择题（Ranked Choice Questions）
 * 排除型选择题（Elimination-Type MCQs）
 * 简答题（Short Answer Questions）
 
-#### 5. 政策与规定
+### 4. 课程安排
 
-**如何通过AILT1001？**
+学生可以选择：
 
-* 在期末测试中取得好成绩（L-10）
-* 参加导修课
-* 参与小组项目
+* 在位于香港的本部校园，用一个学期完成 AILT1001 的内容；或者，
+* 在位于上海的教学与研究基地（张江基地）中，用一个星期完成同样的内容。
 
-**病假政策**
+如果选择在上海完成，可以选择下列 Subclass：
 
-如缺席导修课或期末测试：
+* 第一学期阅读周（Reading Week）：1SH
+* 第二学期阅读周（Reading Week）：2SH
+* 暑期（2027 年 7 月 5 – 9 日）：SSH
 
-* 发送邮件至 **ailit@hku.hk**，附上病假证明
-* 证明必须覆盖缺席日期
-* 接受缺席后**1个工作日内**开具的证明
-  * 例：周五测试 → 周一前开具的证明有效
-
-**学术诚信**
-
-* 抄袭（Plagiarism）属严重违纪行为，将面临纪律处分
-* 请查阅大学的抄袭政策
-
-**AI使用政策**
-
-允许使用AI工具，但**必须注明**：
-
-* 所使用的工具名称
-* 版本
-* 使用的提示词（Prompt）
-
-#### 6. 资源与支持
-
-**课程网站**
-
-* 主站：[https://ailt.cds.hku.hk/](https://ailt.cds.hku.hk/)
-* 通过Moodle访问Ed平台
-
-**咨询渠道**
+选择前往上海修读 AILT1001 的学生将获得免费住宿和交通补贴。
 
 | 渠道                    | 说明                                                       |
 | --------------------- | -------------------------------------------------------- |
@@ -141,36 +102,51 @@ AI素养使你超越单纯的消费者身份，成为**创造者、创新者、�
 
 可在导修课上向你的TA（Teaching Assistant）或学生TA提问。
 
-### 三、常见问题
+## 三、常见问题
 
-#### Q1. AILT1001是必修课吗？
+### Q1. AILT1001 是大一的必修课吗？
 
-**是。** 所有由2025/26学年起入学的本科生（两年制兼读自费护理学士课程的学生除外）均须完成AILT1001人工智能素养I，作为毕业要求的一部分。
+学校并没有表示这门课程必须在大一修读。
 
-#### Q2. 我应该在什么时候修读AILT1001？
+然而，学校**强烈鼓励**在大一修读 AILT1001，因为这是后续 AILT 的前置课程。
 
-学校**强烈鼓励学生在第一年（第1学期或第2学期）** 修读AILT1001。这是因为AILT1001是修读第二门人工智能素养课程（AILTxxxx）的**先决条件**。
+### Q2. AILT1001 的成绩会影响GPA吗？
 
-#### Q3. AILT1001有密集授课选项吗？
+不影响。 课程采用**及格（P）/ 不及格（F）/ 优异（DI）**&#x7B49;级评定，不计入 GPA。
 
-**有。** 计算与数据科学学院（CDS）在上海的港大CDS教学与研究基地提供特别密集课程**AILT1001-2S**，在第二学期阅读周（3月9日至14日）进行。讲座和导修内容与其他子班相同，但在**一周内完成**，并提供**免费住宿和机票补贴**。
+### Q3. 通过 AILT1001 后还需要修读其他 AILT 课程吗？
 
-> ⚠️ AILT1001-2S与AILT1001互斥，不可重复修读。
+除了 AILT1001 之外，毕业要求的必修课还有一个后续的 AILT90xx 课程，是针对特定学科领域设计的 AILT 课程。
 
-#### Q4. AILT1001的成绩会影响GPA吗？
+### Q4. 如果有关于 AILT 的问题，我可以联系谁？
 
-**不影响。** 课程采用**及格（P）/ 不及格（F）/ 优异（DI）** 等级评定，不计入GPA。
+* 关于课程内容的问题（首选提问方式）：
+  * 在 Ed（通过 Moodle 访问）这一课程平台上提问；
+* 涉及私人信息的问题（如病假）：
+  * 电邮：[ailit@hku.hk](mailto:ailit@hku.hk)
+* 面对面解决问题：
+  * Help Desk
+    * 地址：MB110, Main Building
+    * 开放时间（第 2 周起开放，假期关闭）：
+      * 周一、周二、周四、周五：10:00 – 18:00
+      * 周三：12:00 – 18:00
+* 在导修课（Tutorial）上：
+  * 询问助教（TA）、学生助教（Student TA）
 
-#### Q5. 通过AILT1001后还需要修读其他AI课程吗？
+但是，不要直接联系课程的工作人员。
 
-**需要。** 人工智能素养毕业要求共需**6学分**：
+### Q5. 能不能看到 AILT1001 每个 Subclass 的选课情况？
 
-* AILT1001（3学分）
-* AILTxxxx人工智能素养II或其他微证书AI素养课程（3学分）
+可以在这里查看：[Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html)。
 
-#### Q6. 我可以在哪里了解更多关于AILT1001的信息？
+{% embed url="https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html" %}
 
-* 课程官方网站：[https://ailt.cds.hku.hk/](https://ailt.cds.hku.hk/)
-* 通过Moodle访问Ed平台
-* 学术咨询与奖学金办公室（AASO）课程结构页面
-* Help Desk @ MB110（面谈咨询）
+***
+
+想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
+
+本文作者：香港大学内地本科生权益保障组（RIC）。
+
+最后更新于 2026 年 7 月 29 日。
+
+本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

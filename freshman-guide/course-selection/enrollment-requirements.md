@@ -76,7 +76,7 @@ HKDSE 部分科目、分数与其他考试成绩对照：
   * GCE：参加了 Mathematics (AL) 科目的考试；
   * SAT II：参加了 Mathematics Level 1 / 2 科目的考试；
   * 高考：参加了数学科目的考试。
-* 数学科（Mathematics）2 分或以上，且选择了延伸部分 M1 或 M2，等同于：
+* 数学科延伸部分 M1 或 M2（Mathematics + M1 / M2）2 分或以上，等同于：
   * IB：参加了 Mathematics: Analysis and Approaches / Applications and Interpretation (HL) 科目的考试；
   * GCE：参加了 Pure Mathematics (AL) / Further Mathematics (AL) 科目的考试；
   * AP：参加了 Calculus AB / BC 科目的考试；

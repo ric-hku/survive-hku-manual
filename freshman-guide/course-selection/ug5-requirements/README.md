@@ -13,7 +13,7 @@ description: UG5 Requirements
 * [Common Core (CC)](common-core.md)
   * 一般为 36 学分。
   * MBBS、BASc、双学位学生一般为 24 学分。
-* Artificial Intelligence Literacy 人工智能素养（6 学分），包括：
+* [Artificial Intelligence Literacy](ai-literacy.md)（6 学分），包括：
   * AILT1001 Artificial Intelligence Literacy I（3 学分）
   * AILT90xx（3 学分）
 
@@ -25,6 +25,6 @@ description: UG5 Requirements
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 14 日。
+最后更新于 2026 年 7 月 29 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -76,7 +76,7 @@ icon: pencil-line
 
 一个主修（Major）一般包含 72 - 96 学分；一个副修（Minor）一般包含 36 - 48 学分。
 
-#### 第一主修 1st Major
+#### 1.1. 第一主修 1st Major
 
 有些专业，如 BA、BSc、BSocSc 等，只会限定第一主修需要来自所属学院，而并不会限定具体的第一主修。对于这些学生，可以阅读 Syllabus 了解可以选择的第一主修。
 
@@ -84,15 +84,17 @@ icon: pencil-line
 
 一个主修中会包含一个总结性学习体验（Capstone Experience），相当于毕业项目。
 
-#### 第二主修和副修 2nd Major & Minors
+#### 1.2. 第二主修和副修 2nd Major & Minors
 
 除了第一主修，同学还可以利用自己的自由选修学分（Free Electives）修读第二主修或副修。
+
+可以修读的第二主修或副修及具体要求，见下文 “1.4. 主修、副修列表及介绍”。
 
 {% hint style="info" %}
 主修、副修只会显示在毕业后发出的成绩单上，而不会显示在毕业证明、学位证书上。
 {% endhint %}
 
-#### 主修、副修的申报 Declare Major/Minor
+#### 1.3. 主修、副修的申报 Declare Major/Minor
 
 一般来说：
 
@@ -112,7 +114,7 @@ icon: pencil-line
 * 选课期间；
 * Add/Drop Period。
 
-#### 主修、副修列表及介绍
+#### 1.4. 主修、副修列表及介绍
 
 主修 Majors：[https://aas.hku.hk/list-of-major/](https://aas.hku.hk/list-of-major/)
 
@@ -134,6 +136,14 @@ icon: pencil-line
 
 即一般的授课。同学在系统中排课时，看到的一般都是 Lecture 的时间。
 
+#### 1.1. Subclass
+
+部分课程为容纳更多同学，会提供多个 Subclass 供大家选择。
+
+每个 Subclass 的时间、地点和授课教师有可能不同。
+
+可以根据自己的排课时间、教师偏好等进行选择。
+
 ### 2. Tutorial 导修课
 
 一种配合大班 Lecture 的小班辅导与讨论课；一般由助教（Teaching Assistant, TA）进行。
@@ -141,6 +151,15 @@ icon: pencil-line
 Tutorial 一般在开学后选择。由于形式可能有所不同，授课老师会在课上介绍选择 Tutorial 的方法及开始时间。
 
 为了适应不同同学的课表，Tutorial 一般有比较多的时间段可供选择。因此，考虑选课时不需要考虑 Tutorial。
+
+{% hint style="info" %}
+并不是每个课程都会有 Tutorial。
+
+* 有的课程本身是小班课，因此不需要设置 Tutorial；
+* 有的课程则会直接选择 Lecture 的一段时间来进行 Tutorial。
+
+对于上述情况的课程，不需要选择 Tutorial。
+{% endhint %}
 
 ## 五、选课方式与工具
 
@@ -156,7 +175,7 @@ Tutorial 一般在开学后选择。由于形式可能有所不同，授课老�
 也可以阅读 RIC 微信公众号的推送 [ADP 法宝小合集](https://mp.weixin.qq.com/s/kr27B06KzBnPgxP89JET9g)，了解更多有关选课工具的信息。
 {% endhint %}
 
-#### Class Schedule Planner
+#### 2.1 Class Schedule Planner
 
 Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以下功能：&#x20;
 
@@ -168,7 +187,7 @@ Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以
 
 <figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-#### RIC 选课平台
+#### 2.2 RIC 选课平台
 
 {% embed url="https://richku.com/courses" %}
 
@@ -179,13 +198,13 @@ RIC 选课平台是 RIC 为同学开发的选课评论交流网站，主要有�
 
 具体使用教程，详见：[RIC 选课平台指南](ric-course-platform.md)。
 
-#### HCSPE
+#### 2.3 HCSPE
 
 {% embed url="https://chromewebstore.google.com/detail/cmjjmplgcneagjimjldaabmcopikjfhn" %}
 
 HCSPE 是由 RIC 庄友开发的 Chrome 扩展程序，可实现在 Class Schedule Planner 中一键跳转到 RIC 选课平台的功能。
 
-#### RIC Flow
+#### 2.4 RIC Flow
 
 {% embed url="https://chromewebstore.google.com/detail/bocldbjidbhkofdkcmeofmhjgnhlfpgc" %}
 
@@ -294,13 +313,46 @@ Tutorial 一般在开学后选择。
 
 此外，Class Schedule Planner 中，在 Class Quota (Utilization) 这一项也可以看到。
 
+### Q7. 课程编号和 Subclass 编号有什么含义？
+
+以 ACCT1101-1A 为例：
+
+* ACCT1101 是课程编号：
+  * ACCT 表示学科 / 领域：Accounting 会计学；
+  * 1101 是学科 / 领域中的课程编号。
+  * 部分课程会标注 “FY”，如 ITAL1003FY，表示是持续一年两个学期的全年课程。
+
+{% hint style="info" %}
+一般来说，首位数字整体上遵循下列规律：
+
+* 1 表示某个大类 / 学科中的基础课程，也可作为该领域的体验性课程；
+* 2 表示某个学科中的基础课程，作为继续在该学科学习的基础；
+* 3 表示某个学科中更为进阶的课程；
+* 4 表示某个学科中最为进阶的课程，通常是毕业年份修读的总结性学习体验（Capstone Experience）。
+
+也有的学科 / 领域首位数字只采用 1 – 3；这时，3 表示最为进阶的课程。
+
+不过，每个学院 / 学系都会有自己的安排方式。因此，上述规律仅供参考。
+
+此外，首位数字 6 – 8 表示为研究生开设的课程（部分也会开放予本科生修读）。
+
+另外，CAES 课程、中文增补课程、Common Core 课程、AILT 课程等有自己的编码规律。
+{% endhint %}
+
+* 1A 是 Subclass 编号：
+  * 首位字符表示 Subclass 开设的时间：
+    * 1 表示第一学期；
+    * 2 表示第二学期；
+    * S 表示夏季学期；
+    * F 表示全年。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 29 日。
+最后更新于 2026 年 7 月 30 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 

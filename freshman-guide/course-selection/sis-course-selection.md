@@ -47,9 +47,9 @@
 
 如果 Sem 2 想选的课程需要 Sem 1 的课程作为前置课程，须等到 Sem 2 的 Add/Drop Period 再选。
 
-有些课程要求在 HKDSE 或其他同类型考试中，某科达到一定成绩。例如，中文学院的部分专业课程要求 HKDSE 语文成绩达 Level 5 或以上；高考生则须达到指定的高考语文成绩。
+有些课程要求在 HKDSE 或其他同类型考试中，某科达到一定成绩。关于这些要求，详见：[部分课程修读要求](enrollment-requirements.md)。
 
-有些课程会写明只向某一个或几个年级的同学开放。例如，CLIT1008 只向 Year 1 的同学开放。这需要同学们提前规划，避免错过想修读的课程。
+有些课程会写明只向某一个或几个年级的同学开放。这需要同学们提前规划，避免错过想修读的课程。
 
 <img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/d323fc6466262f5dda812b5b2318cb6317f7ad8e6e9a2c41156be1251ff86b6a.png" alt="" width="563">
 
@@ -67,18 +67,22 @@
    * No Exam 表示没有大型考试。
 
 {% hint style="info" %}
-请注意，此项标注的考试并非课程考核的唯一内容。课程考核也可能包括小组 / 个人作业（Group / Individual Project）、论文（Essay）、课堂小测（Test）等。
+此项标注的考试并非课程考核的唯一内容。课程考核也可能包括小组 / 个人作业（Group / Individual Project）、论文（Essay）、课堂小测（Test）等。
+
+有部分课程不会设置期末考试（Final Exam），但会设置期末测试 / 考核（Final Test / Assessment）。这类测试一般在期末的考试期间（Examination Period）之前就进行（如最后一周上课时），并且不由考试事务处（Examinations Office）管理。
 {% endhint %}
 
 3. **是否可作为自由选修 Free electives**
-   * Yes 表示非本专业的同学也可以选择 STAT3600 这门课，作为自由选修（Free Elective）；
+   * Yes 表示非本专业的同学也可以选择这门课，作为自由选修（Free Elective）；
    * No 表示只有本专业的同学可以选择这门课。
 
 #### 课程 Subclass
 
 下面是课程的 Subclass 信息。
 
-部分课程为容纳更多同学，会提供多个 Subclass 供大家选择。每个 Subclass 的时间一般不同，地点和授课教师也有可能不同。可以根据自己的排课时间等进行选择。
+部分课程为容纳更多同学，会提供多个 Subclass 供大家选择。
+
+每个 Subclass 的时间、地点和授课教师可能不同。可以根据自己的排课时间等进行选择。
 
 {% hint style="info" %}
 排课时可以先排 Subclass 较少的课程，再排 Subclass 较多的课程，以免出现时间冲突（Time Clash）。
@@ -192,6 +196,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 7 月 26 日。
+最后更新于 2026 年 7 月 30 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

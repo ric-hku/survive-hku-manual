@@ -135,11 +135,9 @@ description: Artificial Intelligence Literacy
 
 但是，不要直接联系课程的工作人员。
 
-### Q5. 能不能看到 AILT1001 每个 Subclass 的选课情况？
+### Q5. 能不能看到 AILT 课程每个 Subclass 的选课情况？
 
 可以在这里查看：[Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html)。
-
-{% embed url="https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html" %}
 
 ***
 
@@ -147,6 +145,6 @@ description: Artificial Intelligence Literacy
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 29 日。
+最后更新于 2026 年 7 月 30 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

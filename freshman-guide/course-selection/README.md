@@ -7,7 +7,9 @@ icon: pencil-line
 {% hint style="info" %}
 本文尽可能选用 [HKU Standard Terminology / 香港大學校內用辭匯編](https://cpao24.hku.hk/cpao/terminology) 中的官方中译。
 
-然而，Programme 和 Curriculum 的中译都是 “课程”。为避免混乱，同时考虑内地用语习惯，本文**称 Programme 为 “专业”**。
+然而，Programme 和 Curriculum 的中译都是 “课程”。为避免混乱，同时考虑到内地用语习惯，本文**称 Programme 为 “专业”**。
+
+此外，Course 的中译是 “科目”。考虑到内地用语习惯，本文译为 “课程”。
 {% endhint %}
 
 ## 一、课程结构
@@ -306,9 +308,9 @@ Tutorial 一般在开学后选择。
 
 以下课程可以在对应的网页看到选课情况：
 
-* AILT1001：[https://sweb.hku.hk/ccacad/enrol\_stat/enrol\_stat.html](https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html)
+* AILT 课程：[https://sweb.hku.hk/ccacad/enrol\_stat/enrol\_stat.html](https://sweb.hku.hk/ccacad/enrol_stat/enrol_stat.html)
 * CAES1001：[https://sweb.hku.hk/ccacad/eng/enrol\_stat.html](https://sweb.hku.hk/ccacad/eng/enrol_stat.html)
-* Common Core：[https://sweb.hku.hk/ccacad/ccc\_appl/enrol\_stat.html](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)
+* Common Core 课程：[https://sweb.hku.hk/ccacad/ccc\_appl/enrol\_stat.html](https://sweb.hku.hk/ccacad/ccc_appl/enrol_stat.html)
 * 经管学院提供的课程：[https://ug.hkubs.hku.hk/course-enrolment](https://ug.hkubs.hku.hk/course-enrolment)
 
 此外，Class Schedule Planner 中，在 Class Quota (Utilization) 这一项也可以看到。
@@ -345,6 +347,10 @@ Tutorial 一般在开学后选择。
     * 2 表示第二学期；
     * S 表示夏季学期；
     * F 表示全年。
+
+### Q8. GPA 是如何计算的？
+
+请参阅 [GPA 与荣誉学位等级](gpa-and-honours.md) 一文。
 
 ***
 

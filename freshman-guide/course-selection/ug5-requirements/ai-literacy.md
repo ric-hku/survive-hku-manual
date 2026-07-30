@@ -50,10 +50,10 @@ description: Artificial Intelligence Literacy
 
 * 优异（Distinction, DI）
   * 总分 ≥ 90%，且在小组作业中表现优异；
-* 及格（Pass, P）
+* 合格（Pass, P）
   * 总分 ≥ 50%，且期末测试和小组作业均获非零分数；
-* 不及格（Fail, F）
-  * 未达到及格要求。
+* 不合格（Fail, F）
+  * 未达到合格要求。
 
 {% hint style="info" %}
 成绩以 P/F/DI 评定，不影响 GPA。
@@ -84,24 +84,6 @@ description: Artificial Intelligence Literacy
 
 选择前往上海修读 AILT1001 的学生将获得免费住宿和交通补贴。
 
-| 渠道                    | 说明                                                       |
-| --------------------- | -------------------------------------------------------- |
-| **课程网站**              | 首先查阅 [https://ailt.cds.hku.hk](https://ailt.cds.hku.hk/) |
-| **Ed（通过Moodle访问）**    | 首选提问渠道（可用匿名模式）                                           |
-| **ailit@hku.hk**      | 仅用于涉及私人信息的问题，**请勿邮件联系课程职员**                              |
-| **Help Desk @ MB110** | 面谈咨询                                                     |
-
-**Help Desk 信息**
-
-* **地点**：Main Building MB110
-* **开放时间**（第2周起，学期假期关闭）：
-  * 周一、周二、周四、周五：10:00 – 18:00
-  * 周三：12:00 – 18:00
-
-**导修课咨询**
-
-可在导修课上向你的TA（Teaching Assistant）或学生TA提问。
-
 ## 三、常见问题
 
 ### Q1. AILT1001 是大一的必修课吗？
@@ -112,7 +94,7 @@ description: Artificial Intelligence Literacy
 
 ### Q2. AILT1001 的成绩会影响GPA吗？
 
-不影响。 课程采用**及格（P）/ 不及格（F）/ 优异（DI）**&#x7B49;级评定，不计入 GPA。
+不影响。 课程采用**合格（P）/ 不合格（F）/ 优异（DI）**&#x7B49;评定，不计入 GPA。
 
 ### Q3. 通过 AILT1001 后还需要修读其他 AILT 课程吗？
 
@@ -145,6 +127,6 @@ description: Artificial Intelligence Literacy
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 30 日。
+最后更新于 2026 年 7 月 31 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

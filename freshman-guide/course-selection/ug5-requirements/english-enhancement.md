@@ -84,8 +84,8 @@ description: English Language Enhancement
 
 同时，有**部分学院**对雅思、托福成绩的取得时间有要求。比如：
 
-* 有学院要求 “须为 2 年前的 8 月 1 日之后、获港大录取之前取得”；或者，
-* 有学院要求 “须为 2 年以内、获港大录取当年的 8 月 1 日之前取得”；
+* 有学院（如商学院）要求 “须为 2 年前的 8 月 1 日之后、获港大录取之前取得”；或者，
+* 有学院（如计算与数据科学学院）要求 “须为 2 年以内、获港大录取当年的 8 月 1 日之前取得”；
 
 具体标准请参考学院规定，或联系学院确认。
 {% endhint %}
@@ -113,13 +113,19 @@ description: English Language Enhancement
 
 所有大一的学生（除了免修的学生）都必须修读 CAES1001。
 
-选课时拒录通常是因为该 Subclass 已满（班型：18 人 / 班）。可以**选择其他 Subclass 重试**。
+选课时拒录通常是因为该 Subclass 已满（班型：18 - 20 人 / 班）。可以**选择其他 Subclass 重试**。
 
 可以在这里看到所有 Subclass 的选课人数情况：[Academic Communication in English Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/eng/enrol_stat.html)。
 
 如果在 8 月 30 日前未有成功注册 CAES1001，且不具备免修资格，则**系统会自动分配**。
 
-### Q5. 学校有提供其他提高英文水平的资源吗？
+### Q5. CAES 课程的成绩会影响GPA吗？
+
+CAES1001 课程采用合格（P）/ 不合格（F）/ 优异（DI）等评定，不计入 GPA。
+
+但是，CAES9xxx 课程并非采用这样的评定方式，而是给出计入 GPA 的字母等级（Letter Grades）。
+
+### Q6. 学校有提供其他提高英文水平的资源吗？
 
 提供 CAES 课程的应用英语中心（Centre for Applied English Studies，CAES）提供了Centre for Applied English Studies（CSS）服务，包括 Writing Centre 和 Speaking Studio 等资源，有一对一写作 / 对话咨询等服务。
 

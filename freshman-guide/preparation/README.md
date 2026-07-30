@@ -6,13 +6,13 @@ icon: suitcase
 
 本部分内容包括：
 
-* 新生来港物品指南
-* 交通指南
-* 银行卡、信用卡指南
-* 电话卡指南
-* 出入境检查指南
-* 在港兼职、工作指南
-* 网络、科学上网指南
+* [新生来港物品指南](packing-list.md)
+* [交通指南](transportation.md)
+* [银行卡、信用卡指南](credit-card.md)
+* [电话卡指南](sim-card.md)
+* [出入境检查指南](immigration.md)
+* [在港兼职、工作指南](working.md)
+* [网络、科学上网指南](internet-access.md)
 
 ***
 

@@ -53,7 +53,7 @@ MBBS、BASc（如 Design+、AppliedAI 等）、双学位（如 BA\&LLB、BBA(Law
 ### 3. 微证书课程 Microcredential Courses, CCMCs
 
 * 3 学分
-* 编号 CCXX50xx
+* 编号 CCXX60xx
 
 是教学形式非常紧凑的一种课程，在夏季学期（Summer Semester）提供。
 

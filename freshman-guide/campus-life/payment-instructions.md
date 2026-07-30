@@ -32,38 +32,21 @@ description: 如何优雅地交学费 / 住宿费～
 
 {% stepper %}
 {% step %}
-#### 进入学生支付平台
+#### 进入支付平台
 
-使用**手机内相机**或**二维码阅读器**扫描以下二维码：
+在 HKU Portal 里选择 Financial Services > Invoice Payment，打开支付平台。
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt="" width="98"><figcaption></figcaption></figure>
+进入后，根据指示输入支付金额，并点击 WeChat Pay / AlipayHK / Alipay 生成二维码。
 
-或浏览网页 [https://studentpay.hku.hk/](https://studentpay.hku.hk/)。
+可以选择**微信支付**、**支付宝**或**支付宝香港**进行支付。
 
-{% hint style="warning" %}
-**注意**：出于安全理由，**不能使用微信、支付宝等 App 中的扫描二维码功能**。
+{% hint style="info" %}
+* 建议使用桌面端（如电脑）登录 HKU Portal、生成二维码，然后使用移动端（如手机）应用程序扫描该二维码。
+* Outstanding Amount（未缴金额）一栏的数据可能未及时更新。可以等待一段时间后再查看。
+* 支付成功后，该交易可能需要 3 - 4 个工作日显示在系统中。
+* 每个二维码仅适用于一次交易，不能重复使用。
+* 若缴费总金额超过账户交易限额，则需把缴费额拆分数次支付。
 {% endhint %}
-{% endstep %}
-
-{% step %}
-#### 填写资料
-
-输入**账单类别**、**14 位账单户口号码**及**金额**。
-
-{% hint style="warning" %}
-请确保输入**正确 14 位账单户口号码**。
-{% endhint %}
-{% endstep %}
-
-{% step %}
-#### 选择付款方式
-
-可以选择**微信支付（内地或香港钱包）**、**支付宝**或**支付宝香港**。
-
-付款时，可以选择钱包零钱或银行卡付款：
-
-1. 使用钱包零钱付款，请确保钱包账户内有足够零钱。
-2. 使用银行卡付款，请付款前留意银行卡单笔/单日付款限额，若缴费总金额超过账户单笔/单日限额，则需把缴费额拆分数次支付。
 {% endstep %}
 
 {% step %}
@@ -121,9 +104,19 @@ description: 如何优雅地交学费 / 住宿费～
 
 {% stepper %}
 {% step %}
-#### 进入 FPS 缴费界面
+#### 进入支付平台
 
-进入 **HKU Portal**，在左侧菜单栏点击 **Financial Services > FPS Payment**
+在 HKU Portal 里选择 Financial Services > Invoice Payment，打开支付平台。
+
+进入后，根据指示输入支付金额，并点击 FPS Payment 生成二维码。
+
+{% hint style="info" %}
+* 建议使用桌面端（如电脑）登录 HKU Portal、生成二维码，然后使用移动端（如手机）应用程序扫描该二维码。
+* Outstanding Amount（未缴金额）一栏的数据可能未及时更新。可以等待一段时间后再查看。
+* 支付成功后，该交易可能需要 3 - 4 个工作日显示在系统中。
+* 每个二维码仅适用于一次交易，不能重复使用。
+* 若缴费总金额超过账户交易限额，则需把缴费额拆分数次支付。
+{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -426,6 +419,6 @@ description: 如何优雅地交学费 / 住宿费～
 2025 修订作者：B27 李卓芸 BSc\&LLB；\
 2026 修订作者：B28 诸杰安 CDS/BEng(CompSc)；B27 孙皋 BA。
 
-最后更新于 2026 年 5 月 24 日。
+最后更新于 2026 年 7 月 30 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

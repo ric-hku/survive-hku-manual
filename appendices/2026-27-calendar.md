@@ -13,6 +13,17 @@ icon: calendar
 
 官方网页：[Important Academic Dates 2026-27](https://aas.hku.hk/important-academic-dates/)
 
+{% hint style="warning" %}
+此处所示时间节点不适用于下列课程的学生：
+
+* 牙医学院：BDS；
+* 教育学院：BSc(IM)；
+* 李嘉诚医学院：BBiomedSc、BChinMed、BNurs、BASc(GHD)、BPharm、BSc(Nurs)、MBBS；
+* 创新学院：BSc(I\&T)。
+
+请参考学院规定。
+{% endhint %}
+
 ### 第一学期 First Semester
 
 {% stepper %}
@@ -146,10 +157,6 @@ icon: calendar
 2026 年 12 月 7 日（星期一）– 12 月 23 日（星期三）
 {% endstep %}
 {% endstepper %}
-
-{% hint style="info" %}
-阅读周、授课最后一天、复习期、考试期的时间，只适用于**所有非临床专业**。下同。
-{% endhint %}
 
 ### 第二学期 Second Semester
 

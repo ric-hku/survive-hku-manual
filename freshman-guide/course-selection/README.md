@@ -93,7 +93,7 @@ icon: pencil-line
 可以修读的第二主修或副修及具体要求，见下文 “1.4. 主修、副修列表及介绍”。
 
 {% hint style="info" %}
-主修、副修只会显示在毕业后发出的成绩单上，而不会显示在毕业证明、学位证书上。
+主修、副修只会显示在毕业后发出的成绩单、Academic Attainment Profile (AAP) 上，而不会显示在毕业证明、学位证书上。
 {% endhint %}
 
 #### 1.3. 主修、副修的申报 Declare Major/Minor
@@ -351,6 +351,23 @@ Tutorial 一般在开学后选择。
 ### Q8. GPA 是如何计算的？
 
 请参阅 [GPA 与荣誉学位等级](gpa-and-honours.md) 一文。
+
+### Q9. 双主修（Double Major）与双学位（Double Degree）有何区别？
+
+修读双主修（Double Major）的同学，是利用自己的自由选修学分（Free Electives）修读第二主修。
+
+可以修读的第二主修列表：[List of Majors by Faculties/Subjects](https://aas.hku.hk/list-of-major/)。
+
+所修读的主修只会显示在毕业后发出的成绩单、Academic Attainment Profile (AAP) 上，而不会显示在毕业证明、学位证书上。
+
+修读双学位（Double Degree）的同学，是在入学时专业（Programme）为双学位项目的同学。
+
+以单一学位项目入学的同学，非经转专业（Internal Transfer），不能获得第二个学位。
+
+有关转专业，详见：
+
+* [Academic Support and Examinations Section, The Registry](https://ase.hku.hk/)（Internal Transfer of Studies 部分）
+* RIC 微信公众号推文：[2026｜如何优雅地转专业](https://mp.weixin.qq.com/s/I90XD8ZLIK80TD13aKLJqg)
 
 ***
 

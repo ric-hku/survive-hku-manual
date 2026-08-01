@@ -364,10 +364,14 @@ Tutorial 一般在开学后选择。
 
 以单一学位项目入学的同学，非经转专业（Internal Transfer），不能获得第二个学位。
 
-有关转专业，详见：
+### Q10. 如何转专业（Internal Transfer）？
+
+有关转专业（Internal Transfer），详见：
 
 * [Academic Support and Examinations Section, The Registry](https://ase.hku.hk/)（Internal Transfer of Studies 部分）
 * RIC 微信公众号推文：[2026｜如何优雅地转专业](https://mp.weixin.qq.com/s/I90XD8ZLIK80TD13aKLJqg)
+
+一般来说，转专业的时间在每年第二学期的下半学期。
 
 ***
 
@@ -375,7 +379,7 @@ Tutorial 一般在开学后选择。
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 30 日。
+最后更新于 2026 年 8 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 

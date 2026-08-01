@@ -4,7 +4,9 @@
 
 ### 1. 登录 RIC 选课平台
 
-RIC 杂货铺官网：[https://richku.com/courses](https://richku.com/courses)
+RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
+
+{% embed url="https://richku.com/courses" %}
 
 点击右上角 “登录/注册”，使用 **@connect.hku.hk 结尾的港大邮箱** 进行注册。
 
@@ -60,6 +62,6 @@ RIC 杂货铺官网：[https://richku.com/courses](https://richku.com/courses)
 
 本文基于原新生群文件《6.2 RIC选课平台指南》编写而成。
 
-最后更新于 2026 年 7 月 21 日。
+最后更新于 2026 年 8 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

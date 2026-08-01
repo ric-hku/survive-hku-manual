@@ -16,7 +16,7 @@ icon: signs-post
 ### 6 月末 – 7 月
 
 * 在系统中**接受 Offer**，并缴纳**留位费（Admission Deposit）**；
-  * 高考生（含联考）：[2026 年香港大学内地本科生入学计划 回复录取通知书指引](https://admissions.hku.hk/sites/default/files/2024-06/Procedures.pdf)
+  * 高考生（含港澳台联考）：[2026 年香港大学内地本科生入学计划 回复录取通知书指引](https://admissions.hku.hk/sites/default/files/2024-06/Procedures.pdf)
   * 国际生：[How to Respond to Your HKU Offer of Admission](https://0ea19992-1e51-4ec5-bcea-01a7628a8588.filesusr.com/ugd/83c572_1ffe3bdc5cbd484485f999e21c504163.pdf)
 * 申请[**签证（入境许可）**](visa/)；
   * 由于申请程序用时可能较长，建议**尽早**开始申请。
@@ -34,7 +34,9 @@ icon: signs-post
   * （完成 Master Registration 后）[**上传学生证所需文件**](student-card.md)；
   * **（本地生）**[**选择、申请宿舍**](residence/)**。**
 * [**了解课程要求，初步安排课表**](course-selection/)；
-* （收到入境许可后）办理[**港澳通行证和/或逗留（D）签注**](visa/exit-entry-permit.md)；
+* 收到签证 / 入境许可后：
+  * 办理[**港澳通行证和/或逗留（D）签注**](visa/exit-entry-permit.md)；
+  * 预约申领[**香港居民身份证（HKID）**](hkid-application.md)。
 {% endstep %}
 
 {% step %}
@@ -47,7 +49,6 @@ icon: signs-post
 {% step %}
 ### 8 月末 – 9 月初
 
-* 申请、办理[**香港居民身份证（HKID）**](hkid-application.md)；
 * 领取**学生证**；
 * 办理八达通、电话卡、银行卡等。
 {% endstep %}
@@ -78,6 +79,6 @@ icon: signs-post
 
 本文由原新生群文件《1.4拿到正式offer后要做什么》《1.5入学重要事项办理时间表》编写而成。
 
-最后更新于 2026 年 4 月 3 日。
+最后更新于 2026 年 8 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -37,12 +37,12 @@ RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
-点击网站右下角的![](<../../.gitbook/assets/image (16).png>)悬浮按钮，即可打开 Timetable。\
+点击网站右下角的<img src="../../.gitbook/assets/image (16).png" alt="" data-size="original">悬浮按钮，即可打开 Timetable。\
 在这里你可以看到所有你添加的课程，并检查是否有冲突的课程，帮助你更直观地安排和调整课程。
 
 <figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
-此外，你还可以在 **课程详细信息面板** 的右上角点击 ![](<../../.gitbook/assets/image (17).png>) 为已选择 Subclass 的课程手动添加 Tutorial 的时间和位置信息，并展示在 Timetable 中。
+此外，你还可以在 **课程详细信息面板** 的右上角点击 <img src="../../.gitbook/assets/image (17).png" alt="" data-size="original"> 为已选择 Subclass 的课程手动添加 Tutorial 的时间和位置信息，并展示在 Timetable 中。
 
 {% hint style="warning" %}
 排课表功能旨在为同学们提供便利，在排课表中添加的课程**并不代表**真正在 HKU Portal 上选择了该课程。请同学们排课后及时在 SIS 上同步添加课程。

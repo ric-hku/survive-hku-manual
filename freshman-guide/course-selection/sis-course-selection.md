@@ -10,7 +10,7 @@
 
 或者，选择 Student Information System (SIS) 打开学生资讯系统后，选择 SIS Menu > Enrollment > Enrollment Add Classes（见下图红框）。
 
-<img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/4eee762966d4861665e604ad2cd72dad5be430fb800729b59e9526dbe2f6a8b3.png" alt="" width="563">
+<img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/4eee762966d4861665e604ad2cd72dad5be430fb800729b59e9526dbe2f6a8b3.png" alt="" width="375">
 
 ### 2. 选择学期
 
@@ -36,35 +36,48 @@
 
 <img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/f3a1ca257e4dace47825febd3ab93a60c42895e011ed3270e0bb158c66507f94.png" alt="" width="563">
 
-### 4. 课程详细信息
+### 4. 课程详细信息 Course Detail
 
 点击蓝色的课程名称，即可进入课程详细信息界面。一些课程设有要求，如：需通过前置课程（Prerequisite），或课程与其他课程互斥（Mutually Exclusive）。
 
-以图中的 COMP3251 为例：
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
-* 需要 COMP2119 作为前置课程；
-* 修读过 COMP3250 或 COMP3252 后，不能再修读这门课。
+#### 4.1. 选修信息 Enrollment Information
 
+以图中的 COMP3230 为例，有以下信息：
+
+Typically Offered 一般开设时间：
+
+* 只能用作参考，需以实际开设时间为准。
+
+Enrollment Requirement 选修要求：
+
+* 可能包括前置课程（Prerequisite）、互斥课程（Mutually Exclusive）等。
+* 需要以下课程作为前置课程（Prerequisite）：
+  * COMP2113、COMP2123 或 ENGG1340 中的一门；以及
+  * COMP2120 或 ELEC2441 中的一门。
+* 修读过 / 已选修 ELEC3541 后，不能再修读这门课。
+
+{% hint style="info" %}
 如果 Sem 2 想选的课程需要 Sem 1 的课程作为前置课程，须等到 Sem 2 的 Add/Drop Period 再选。
 
 有些课程要求在 HKDSE 或其他同类型考试中，某科达到一定成绩。关于这些要求，详见：[部分课程修读要求](enrollment-requirements.md)。
 
 有些课程会写明只向某一个或几个年级的同学开放。这需要同学们提前规划，避免错过想修读的课程。
+{% endhint %}
 
-<img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/d323fc6466262f5dda812b5b2318cb6317f7ad8e6e9a2c41156be1251ff86b6a.png" alt="" width="563">
+Course Attribute 课程属性：
 
-#### 课程属性说明
-
-1. **批准方式 Approval Nature**\
-   指选择课程后，须经过的批准流程。
-   * Course-Based Approval 指提交后须经学院审核等流程才可成功选上；
-   * Approval Not Required 表示不须经过学院审核等其他流程（一般为先到先得）。
-2. **考试设置 Examination**\
-   指课程考核方式（是否包括期中及期末考试）。
-   * Both 表示既有期中考试，也有期末考试；
-   * Mid-Term 表示仅有期中考试；
-   * Final 表示仅有期末考试；
-   * No Exam 表示没有大型考试。
+* Approval Nature 批准方式：指选择课程后，须经过的批准流程。
+  * Course-Based Approval 指提交后须经学院审核等流程才可成功选上；
+  * Approval Not Required 表示不须经过学院审核等其他流程（一般为先到先得）。
+* Communication-intensive Course&#x20;
+* Examination 考试设&#x7F6E;**：**&#x6307;课程考核方式（是否包括期中及期末考试）。
+  * Both 表示既有期中考试，也有期末考试；
+  * Mid-Term 表示仅有期中考试；
+  * Final 表示仅有期末考试；
+  * No Exam 表示没有大型考试；
+  * 有的课程也会直接写出考试时间，如 December。
 
 {% hint style="info" %}
 此项标注的考试并非课程考核的唯一内容。课程考核也可能包括小组 / 个人作业（Group / Individual Project）、论文（Essay）、课堂小测（Test）等。
@@ -72,11 +85,11 @@
 有部分课程不会设置期末考试（Final Exam），但会设置期末测试 / 考核（Final Test / Assessment）。这类测试一般在期末的考试期间（Examination Period）之前就进行（如最后一周上课时），并且不由考试事务处（Examinations Office）管理。
 {% endhint %}
 
-3. **是否可作为自由选修 Free electives**
-   * Yes 表示非本专业的同学也可以选择这门课，作为自由选修（Free Elective）；
-   * No 表示只有本专业的同学可以选择这门课。
+* Free electives 是否可作为自由选修
+  * Yes 表示非本专业的同学也可以选择这门课，作为自由选修（Free Elective）；
+  * No 表示只有本专业的同学可以选择这门课。
 
-#### 课程 Subclass
+#### 4.2. 课程 Subclass 信息
 
 下面是课程的 Subclass 信息。
 
@@ -196,6 +209,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 7 月 30 日。
+最后更新于 2026 年 8 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

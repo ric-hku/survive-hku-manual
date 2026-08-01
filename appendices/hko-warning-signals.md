@@ -27,7 +27,7 @@ icon: hurricane
 
 此外，在发出八号信号生效前约 2 小时，天文台会发出 **“预警八号特别告示”**，用以提醒市民准备及时回家。
 
-<figure><img src="../.gitbook/assets/image (120).png" alt="" width="375"><figcaption><p>2026 年 7 月，因台红霞吹袭香港发出的 “预警八号特别告示”。图源：香港天文台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt="" width="375"><figcaption><p>2026 年 7 月，因台风红霞吹袭香港发出的 “预警八号特别告示”。图源：香港天文台</p></figcaption></figure>
 
 ## 二、暴雨警告信号
 
@@ -211,4 +211,4 @@ icon: hurricane
 * [熱帶氣旋襲港期間巴士服務特別安排 | 香港巴士大典 | Fandom](https://hkbus.fandom.com/wiki/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%A5%B2%E6%B8%AF%E6%9C%9F%E9%96%93%E5%B7%B4%E5%A3%AB%E6%9C%8D%E5%8B%99%E7%89%B9%E5%88%A5%E5%AE%89%E6%8E%92)
 * 其他文中提到的官方网页
 
-最后更新于 2026 年 7 月 26 日。
+最后更新于 2026 年 7 月 31 日。

@@ -12,7 +12,7 @@ icon: suitcase
 * [电话卡指南](sim-card.md)
 * [出入境检查指南](immigration.md)
 * [在港兼职、工作指南](working.md)
-* [网络、科学上网指南](internet-access.md)
+* [网络、科学上网指南](../campus-life/internet-access.md)
 
 ***
 

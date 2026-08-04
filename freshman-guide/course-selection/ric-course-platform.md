@@ -2,6 +2,8 @@
 
 **RIC 选课平台**，是 RIC 为同学开发的选课评论交流网站。大家可以在该平台上查看课程详细信息和同学们的课程评价，并进行提前排课，是同学们快速了解港大课程的不二之选！
 
+## 一、使用方式
+
 ### 1. 登录 RIC 选课平台
 
 RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
@@ -53,6 +55,14 @@ RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
 {% hint style="info" %}
 有关更多 RIC 选课平台的实用教程，敬请关注 “港大 RIC 锐克” 微信公众号相关推送。
 {% endhint %}
+
+## 二、常见问题与解答
+
+### Q1. 为什么有的课在 RIC 选课平台上的时间与 HKU SIS、Course Schedule Planner 上不同？
+
+由于学校更新 SIS 数据和更新 [公开予学生下载的数据](https://intraweb.hku.hk/reserved_1/sis_student/sis/SIS-class-timetable.html) 之间会有时间差，RIC 选课平台上的数据不可避免地会与最新的 SIS 数据有细小的差异。
+
+如果想避免这个问题，可以使用学校 SIS 提供的 Class Schedule Planner 进行排课。配合 Chrome 插件 HCSPE 可方便查看 RIC 选课平台上的评论。
 
 ***
 

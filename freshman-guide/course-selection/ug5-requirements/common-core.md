@@ -71,9 +71,11 @@ MBBS、BASc（如 Design+、AppliedAI 等）、双学位（如 BA\&LLB、BBA(Law
 ### 2. 选课要求
 
 * **一个学年**的第一、第二学期所选的 CC 课程，总共**不得超过 24 学分**；
-* 不能选择 **多于 2 个** 同一 AoI 的课程；
+* 含已选但暂未批准的课程在内，不能超出 5 个 AoI 各 12、6、6、6、6 学分的限制；
+  * 如只需修读 24 学分 CC，则为任意 4 个 AoI 各 6 学分；
 * 不能同时选择 [Non-Permissible Combinations](https://commoncore.hku.hk/non-permissible-combinations/) 列出的相冲突的课程；
 * 不能有时间冲突（Time Clash）；
+* 线上课程累计不能超过 **12 学分**；
 * 标有 “X” 的 Subclass（如 CCST9003-1A**X**）是预留给交换学生的，本校学生不能选择。
 
 ## 四、课程审批
@@ -100,7 +102,7 @@ Thematic Cluster（主题领域）有 5 个：
 * The Quest for a Meaningful Life (UQM) 对有意义生活的追求
 * Creative Arts (CA) 创意艺术
 * The Human Lifespan (HL) 人类生命周期
-* Gender, Sexuality, and Diversity (GSD) 性别、性、多样性
+* Gender, Sexuality, and Diversity (GSD) 性别、性倾向与多样性
 
 各主题领域的具体课程列表，详见：[Common Core Thematic Clusters | HKU Common Core](https://commoncore.hku.hk/thematic-clusters/)
 
@@ -181,6 +183,6 @@ GGPA 取较高的结果。这一特别规定旨在鼓励同学勇于承担风险
 
 本文基于原新生群文件《6.3 CCC选课指南》编写而成。
 
-最后更新于 2026 年 7 月 30 日。
+最后更新于 2026 年 8 月 4 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

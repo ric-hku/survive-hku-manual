@@ -140,7 +140,7 @@ description: Chinese Language Enhancement
 {% hint style="info" %}
 **粤拼（Jyutping）**，全称 “香港语言学学会粤语拼音方案”，目前应用比较广泛，网上资源较多，粤语输入法也大多采用粤拼。
 
-**广州话拼音方案**，拼法较接近适用于普通话的汉语拼音方案，一般多见于内地出版物。
+**广州话拼音方案**，拼法较接近于普通话汉语拼音方案，一般多见于内地出版物。
 {% endhint %}
 
 * 授课方式：CUND9001 和 CUND9003 都是小班课，但：
@@ -166,12 +166,16 @@ description: Chinese Language Enhancement
 
 除非特殊要求，编号 CUND900x 的中文增补课程**并不是大一的必修课**。毕业前任一学期修读即可。
 
+### Q6. 我想提高选上中文增补课程的可能性。能不能在选课时同时提交两个不同的中文增补课程？
+
+不能。这样有可能会被系统直接拒绝。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 21 日。
+最后更新于 2026 年 8 月 4 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

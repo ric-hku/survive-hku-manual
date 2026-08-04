@@ -135,12 +135,17 @@ Course Attribute 课程属性：
 此外，如有下列情况，则有关课程会被系统直接不批准（Disapproved）：
 
 * 未满足前置条件（Prerequisite）；
-* 与将要选择、已经选择或已经完成的课程互斥（Mutually Exclusive）；
-* 存在时间冲突（Time Clash）；
+* 与已有的课程互斥（Mutually Exclusive）；
+* 与已有的课程存在时间冲突（Time Clash）；
+* 选择了同一课程的不同 Subclass；
+* 中文增补课程累计超过 2 个；
 * 不符合其他选课要求，如 Common Core 课程要求：
-  * 两学期一共不得超过 24 学分；
-  * 同一 AoI 累计不得超过 2 个；
-  * 本校学生不得选择为交换生预留的以 “X” 结尾的 Subclass 等。
+  * **一个学年**的第一、第二学期所选的 CC 课程，总共不得超过 24 学分；
+  * 含已选但暂未批准的课程在内，不能超出 5 个 AoI 各 12、6、6、6、6 学分的限制；
+    * 如只需修读 24 学分 CC，则为任意 4 个 AoI 各 6 学分；
+  * 不能同时选择 [Non-Permissible Combinations](https://commoncore.hku.hk/non-permissible-combinations/) 列出的相冲突的课程；
+  * 线上课程累计不能超过 12 学分；
+  * 标有 “X” 的 Subclass 是预留给交换学生的，本校学生不能选择。
 
 向临时课表中加入课程时，系统并不会检查是否存在上述情况；只有在点击 “Proceed to Step 2 of 3” 时才会检查。
 
@@ -195,7 +200,7 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 建议先把课程加入临时课表。选课开放后，立即进行 “Proceed To Step 2 Of 3”。这样更有把握选到想修读的课程。
 
-### Q5. 能不能为了选上我想选的课，在一个学期选多于 36 学分的课 / 时间冲突的课？
+### Q5. 能不能为了选上我想选的课，在一个学期选多于 36 学分的课 / 时间冲突的课 / 同一个课的不同 Subclass？
 
 不能。相关课程无法获得批准。
 
@@ -209,6 +214,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 8 月 1 日。
+最后更新于 2026 年 8 月 4 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

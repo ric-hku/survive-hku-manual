@@ -236,7 +236,7 @@ metaLinks: {}
 ### 计算与数据科学学院 School of Computing and Data Science
 
 * 6200 计算与数据科学（港沪科技菁英）Computing and Data Science (Delta+), CDS(Delta+)
-  * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng (CompSc)
+  * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng(CompSc)
   * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science BEng(AI\&DataSc)
 * 6224 文理学士（应用人工智能）Bachelor of Arts and Sciences in Applied Artificial Intelligence, BASc(AppliedAI)
 * 6248 文理学士（金融科技）Bachelor of Arts and Sciences in Financial Technology, BASc(FinTech)

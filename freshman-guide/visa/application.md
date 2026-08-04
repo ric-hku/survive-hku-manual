@@ -382,7 +382,7 @@ AO 接收签证后，系统会发送标题为 **HKU Student Visa - Visa Permit C
 * Letter(1) XXXX-0000000-00.pdf
   * 这封信意在告知：签证申请已获批准，需要办理往来港澳通行证、逗留签注（D 签）。
   * 这封信主要是告知必要信息，实际用处不大。
-* Letter(2)  XXXX-0000000-00.pdf
+* Letter(2) XXXX-0000000-00.pdf
   * 这封信是 **“不反对通知书”（No Objection Letter，NOL）**。是同学以后**在港兼职、实习等的必要文件，用于证明在港工作的资格**。因此，建议保管好这份文件。
   * 其名称来自于其中的 "Notwithstanding the above, the Director of Immigration has **no objection** to ..."（尽管有上述规定，入境事务处处长**不反对**……）
 
@@ -417,6 +417,6 @@ AO 接收签证后，系统会发送标题为 **HKU Student Visa - Visa Permit C
 
 本文基于原新生群文件《2.3 Online Visa Application的正确打开方式》编写而成。
 
-最后更新于 2026 年 6 月 14 日。
+最后更新于 2026 年 8 月 4 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

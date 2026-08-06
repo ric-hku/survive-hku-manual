@@ -27,7 +27,7 @@
 
 ### 拍拖篇
 
-* **出 Pool**（出噢）：找到男／女朋友，更为形象的说法为"离开单身狗的小池塘"。<br>
+* **出 Pool**（出噗）：找到男／女朋友，更为形象的说法为"离开单身狗的小池塘"。<br>
 * **Status**: 恋爱状态。
   * A 代表 Available for a relationship, 即单身;
   * O 表示 occupied, 即已经出 pool；
@@ -61,8 +61,8 @@
 
 本文原作者不详；\
 2025 修订作者：B27 李卓芸 BSc\&LLB；\
-2026 修订作者：B28 程泓澈 BEng(CE/EE/ElecE)；B27 孙皋 BA。
+2026 修订作者：B28 程泓澈 BEng(CE/EE/ElecE)。
 
-最后更新于 2026 年 5 月 24 日。
+最后更新于 2026 年 8 月 6 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

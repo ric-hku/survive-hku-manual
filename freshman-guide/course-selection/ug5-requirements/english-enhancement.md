@@ -94,10 +94,10 @@ description: English Language Enhancement
 * **托福网考（TOEFL iBT）**&#x603B;分 94 分或以上，且写作不低于 24 分、口语不低于 20 分、听力不低于 20 分、阅读不低于 19 分；
 * **International Baccalaureate (IB)**
   * HL English Language A: Language    &#x20;and Literature / HL English Language A: Literature / HL English Language (B    &#x20;Syllabus) / HL English Language (A1 or A2 Syllabus) 获得 4 分或以上；或
-  * SL    &#x20;English Language A: Language and Literature / SL English Language A: Literature    &#x20;/ SL English Language (B Syllabus) / SL English Language (A1 or A2 Syllabus) 获得 5 分或以上；
+  * SL    &#x20;English Language A: Language and Literature / SL English Language A: Literature&#x20;    / SL English Language (B Syllabus) / SL English Language (A1 or A2 Syllabus) 获得 5 分或以上；
 * **Advanced Placement (AP)** English Language / English  &#x20;Language and Composition / English Literature and Composition Test 获得 4 分或以上；
 * **新版 Scholastic  &#x20;Aptitude Test (SAT)** 同一次考试中阅读、写作部分单项 630 分或以上；
-* **IGCSE** English - First Language / English as a Second Language、**GCE AS / AL** English Language 或 English Literature 获得 A 或以上；等。
+* **IGCSE** English - First Language / English as a Second Language、**GCE** AS / AL English Language 或 English Literature 获得 A 或以上；等。
 
 如果没有可以用于免修 CAES1001 的考试成绩，也可以选择参加 CAES 组织的 Academic Speaking and Writing Test。同学可以向所属学院申请；同时需要提供并非以上述考试成绩入读港大的证明（**如高考成绩**）。该测试一般在 **8 月**，以**线下**形式进行，并只安排一次（**不安排补测**）。
 

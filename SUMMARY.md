@@ -69,7 +69,7 @@
   * [HKUESS 举办的 O-Camp](freshman-guide/freshmen-activities/hkuess.md)
   * [动漫联盟举办的 O-Camp](freshman-guide/freshmen-activities/aca.md)
   * [陆人计划 × 太平嘻院 O-Camp](freshman-guide/freshmen-activities/landman-plan-and-hiphopera.md)
-  * [HKU AI Society 举办的 O-Camp](freshman-guide/freshmen-activities/hku-ai-society-ju-ban-de-ocamp.md)
+  * [HKU AI Society 举办的 O-Camp](freshman-guide/freshmen-activities/hkuais.md)
 * [校园生活](freshman-guide/campus-life/README.md)
   * [校园及地点指南](freshman-guide/campus-life/campus-and-locations.md)
   * [主要部门和学院指南](freshman-guide/campus-life/offices-and-faculties.md)

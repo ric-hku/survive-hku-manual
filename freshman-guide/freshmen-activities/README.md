@@ -13,6 +13,7 @@ icon: ferris-wheel
 * [香港大学民族研究学会（HKUESS）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/hkuess)
 * [香港大学动漫联盟（ACA）举办的 O-Camp](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/freshmen-activities/aca)
 * [陆人计划、太平嘻院联合举办的 O-Camp](landman-plan-and-hiphopera.md)
+* [香港大学人工智能学会（AI Society）举办的 O-Camp](hkuais.md)
 
 ***
 

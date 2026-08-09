@@ -115,20 +115,11 @@ Course Attribute 课程属性：
 
 <img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/86a51c48ad0e0cc2f418605a2aeed25471a253b2b1750e6cbf88e121cb9f8355.png" alt="" width="563">
 
-### 6. 确定选课
+### 6. 确认选课方案是否合规
 
-选课系统开放后，点击 Proceed to Step 2 of 3 完成选课。
+#### 6.1. 不合规的选课
 
-## 二、注意事项
-
-### 1. Proceed to Step 2 of 3
-
-此步骤须在选课开放后进行，即确认选课。
-
-在这之前的操作只是把课程加入临时课表。若未进行 “Proceed to Step 2 of 3” 确认，临时课表中的课程选择是无效的。
-
-{% hint style="warning" %}
-如有下列情况，将不能够成功 “Proceed to Step 2 of 3”：
+如有下列情况，将不能够成功提交：
 
 * 该学期总学分超过 36 学分（除非已获得 Overload 批准）；
 
@@ -139,7 +130,7 @@ Course Attribute 课程属性：
 * 与已有的课程存在时间冲突（Time Clash）；
 * 选择了同一课程的不同 Subclass；
 * 中文增补课程累计超过 2 个；
-* 不符合其他选课要求，如 Common Core 课程要求：
+* 不符合其他选课要求（Requisites），如 Common Core 课程要求：
   * **一个学年**的第一、第二学期所选的 CC 课程，总共不得超过 24 学分；
   * 含已选但暂未批准的课程在内，不能超出 5 个 AoI 各 12、6、6、6、6 学分的限制；
     * 如只需修读 24 学分 CC，则为任意 4 个 AoI 各 6 学分；
@@ -147,10 +138,29 @@ Course Attribute 课程属性：
   * 线上课程累计不能超过 12 学分；
   * 标有 “X” 的 Subclass 是预留给交换学生的，本校学生不能选择。
 
-向临时课表中加入课程时，系统并不会检查是否存在上述情况；只有在点击 “Proceed to Step 2 of 3” 时才会检查。
-
-因此，选课前建议自行确认是否有以上情况，以免影响选课。
+{% hint style="warning" %}
+向临时课表中加入课程时，系统并不会检查是否存在上述情况；只有在正式提交选课时才会检查。
 {% endhint %}
+
+#### 6.2. 确认是否合规
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+如图所示，在 Enrollment Add Classes 的界面，切换到 Plan 选项卡，就能看到临时课表。
+
+此时，勾选所有想要确认有效的课程，然后点击 Validate，就能查看结果。
+
+### 7. 确定选课
+
+选课系统开放后，点击 Proceed to Step 2 of 3 完成选课。
+
+## 二、注意事项
+
+### 1. Proceed to Step 2 of 3
+
+此步骤须在选课开放后进行，即确认选课。
+
+在这之前的操作只是把课程加入临时课表。若未进行 Proceed to Step 2 of 3 提交，临时课表中的课程选择是无效的。
 
 ### 2. Open、Closed 和 Wait List
 
@@ -214,6 +224,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 8 月 4 日。
+最后更新于 2026 年 8 月 9 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

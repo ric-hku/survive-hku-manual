@@ -12,13 +12,32 @@ description: Enrollment Requirements
 
 ### 1. 中文学院 School of Chinese
 
-所有中国语言文学（Chinese Language and Literature）的入门课程要求在 HKDSE 中国语文或中国文学科目中获得 **5 分或以上**。
+{% hint style="info" %}
+有关中文增补课程（CUND 等）的有关问题，需联系：
 
-如果不通过 HKDSE 入学，需要用其他考试成绩向中文学院申请。
+* 电邮：[clep@hku.hk](mailto:clep@hku.hk)
+* 电话：852 3917 8476
+{% endhint %}
 
-中文学院电邮地址：[chinese@hku.hk](mailto:chinese@hku.hk)
+官网：[Enrollment of Chinese Language and Literature (CLL) Prerequisite Courses in 2026-27](https://web.chinese.hku.hk/zh-hant/general_information/events_detail/558)
+
+所有中国语言文学（Chinese Language and Literature）的入门课程（CHIN1116、CHIN1117、CHIN1123、CHIN1127、CHIN1103、CHIN1118、CHIN1119、CHIN1121 和 CHIN1126）要求在 HKDSE 中国语文或中国文学科目中获得 **5 分或以上**。
+
+通过非 JUPAS 招生入学的大一学生，如欲修读上述课程，请通过以下问卷在线提交申请，并上传支持文件（如 IB、高考或其他公开考试成绩）以供中文学院考虑：
+
+{% embed url="https://hku.au1.qualtrics.com/jfe/form/SV_77BbpCIXZixX97o" %}
+
+申请时间为大一学生的选课期间（Course Selection Period）：2026 年 8 月 18 日 10:00 - 8 月 24 日 16:00。
+
+更多要求详见：[中文学院课程手册 2026-2027](https://web.chinese.hku.hk/upload/page/23/self/sochandbook.pdf)。
+
+{% embed url="https://web.chinese.hku.hk/upload/page/23/self/sochandbook.pdf" %}
 
 ### 2. 英文学院 School of English
+
+{% hint style="info" %}
+CAES 课程是由应用英语中心（Centre for Applied English Studies）提供，而非英文学院。
+{% endhint %}
 
 官网：[English Proficiency Pre-requisite for ENGL and DRTP Courses](https://english.hku.hk/Undergraduate/Curriculum/English_proficiency_pre-requisite_for_ENGL_and_DRTP_courses)
 
@@ -53,7 +72,7 @@ description: Enrollment Requirements
 欲修读 ENGL 和 DRTP 课程的学生，必须及时参加上述考试。
 {% endhint %}
 
-不通过 HKDSE 入读港大的学生，须在**正式选课期间结束前 2 周**，将相应成绩证明提交给英文学院：[HKU School of English: English Proficiency Test Submission](https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC)
+不通过 HKDSE 入读港大的学生，如欲修读 ENGL 和 DRTP 的初级课程，须在**正式选课期间结束前 2 周**，将相应成绩证明提交给英文学院：[HKU School of English: English Proficiency Test Submission](https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC)
 
 {% embed url="https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC" %}
 
@@ -89,6 +108,8 @@ HKDSE 部分科目、分数与其他考试成绩对照：
 对于理学院的学生（即 BSc、BSc\&MRes、BSc\&LLB 专业的学生），即便不是以 HKDSE 成绩入读，也可以直接在系统中选择有成绩要求的课程。
 
 对于非理学院的学生，如果不是以 HKDSE 成绩入读，需要通过 [Science Online Application Submission System (OASS)](https://webapp.science.hku.hk/intranet/OnlineFormUG.html) 向课程所属院系等申请批准。申请批准后，需要将该批准信息转发至自己学院，让学院为同学手动添加该课程。
+
+系统开放时间为对应年级学生的选课期间（Course Selection Period）及 Add/Drop Period 期间。
 
 {% hint style="info" %}
 通过**高考**入读的 **BASc(FInTech)** 学生一般可以直接修读 MATH1853，而不需要特别申请。工程学院会单独电邮联系相关学生。

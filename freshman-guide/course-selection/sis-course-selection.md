@@ -226,6 +226,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 8 月 9 日。
+最后更新于 2026 年 8 月 14 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

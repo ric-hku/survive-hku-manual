@@ -115,40 +115,11 @@ Course Attribute 课程属性：
 
 <img src="https://cdn-mineru.openxlab.org.cn/result/2026-07-21/695e10ce-5ce8-4585-809e-550ccf320096/86a51c48ad0e0cc2f418605a2aeed25471a253b2b1750e6cbf88e121cb9f8355.png" alt="" width="563">
 
-### 6. 确认选课方案是否合规
-
-#### 6.1. 不合规的选课
-
-如有下列情况，将不能够成功提交：
-
-* 该学期总学分超过 36 学分（除非已获得 Overload 批准）；
-
-此外，如有下列情况，则有关课程会被系统直接不批准（Disapproved）：
-
-* 未满足前置条件（Prerequisite）；
-* 与已有的课程互斥（Mutually Exclusive）；
-* 与已有的课程存在时间冲突（Time Clash）；
-* 选择了同一课程的不同 Subclass；
-* 中文增补课程累计超过 2 个；
-* 不符合其他选课要求（Requisites），如 Common Core 课程要求：
-  * **一个学年**的第一、第二学期所选的 CC 课程，总共不得超过 24 学分；
-  * 含已选但暂未批准的课程在内，不能超出 5 个 AoI 各 12、6、6、6、6 学分的限制；
-    * 如只需修读 24 学分 CC，则为任意 4 个 AoI 各 6 学分；
-  * 不能同时选择 [Non-Permissible Combinations](https://commoncore.hku.hk/non-permissible-combinations/) 列出的相冲突的课程；
-  * 线上课程累计不能超过 12 学分；
-  * 标有 “X” 的 Subclass 是预留给交换学生的，本校学生不能选择。
-
 {% hint style="warning" %}
-向临时课表中加入课程时，系统并不会检查是否存在上述情况；只有在正式提交选课时才会检查。
+向临时课表中加入课程时，系统并不会检查是否存在不合规的选课情况；只有在正式提交选课时才会检查。
+
+因此，请在正式选课前，对照下文 [“二、注意事项 - 4. 不合规的选课”](sis-course-selection.md#id-4.-bu-he-gui-de-xuan-ke) 部分确认无不合规的选课情况。
 {% endhint %}
-
-#### 6.2. 确认是否合规
-
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
-
-如图所示，在 Enrollment Add Classes 的界面，切换到 Plan 选项卡，就能看到临时课表。
-
-此时，勾选所有想要确认有效的课程，然后点击 Validate，就能查看结果。
 
 ### 7. 确定选课
 
@@ -188,6 +159,31 @@ Course Attribute 课程属性：
 
 此外，可以在 HKU Portal 里选择 Course Enrollment > **Enrollment Status**（简体中文：课程记录 > 选课记录），查看课程审核状态。
 
+### 4. 不合规的选课
+
+如有下列情况，将不能够成功提交：
+
+* 该学期总学分超过 36 学分（除非已获得 Overload 批准）；
+
+此外，如有下列情况，则有关课程会被系统直接不批准（Disapproved）：
+
+* 未满足前置条件（Prerequisite）；
+* 与已有的课程互斥（Mutually Exclusive）；
+* 与已有的课程存在时间冲突（Time Clash）；
+* 选择了同一课程的不同 Subclass；
+* 中文增补课程累计超过 2 个；
+* 不符合其他选课要求（Requisites），如 Common Core 课程要求：
+  * **一个学年**的第一、第二学期所选的 CC 课程，总共不得超过 24 学分；
+  * 含已选但暂未批准的课程在内，不能超出 5 个 AoI 各 12、6、6、6、6 学分的限制；
+    * 如只需修读 24 学分 CC，则为任意 4 个 AoI 各 6 学分；
+  * 不能同时选择 [Non-Permissible Combinations](https://commoncore.hku.hk/non-permissible-combinations/) 列出的相冲突的课程；
+  * 线上课程累计不能超过 12 学分；
+  * 标有 “X” 的 Subclass 是预留给交换学生的，本校学生不能选择。
+
+{% hint style="warning" %}
+向临时课表中加入课程时，系统并不会检查是否存在上述情况；只有在正式提交选课时才会检查。
+{% endhint %}
+
 ## 三、常见问题与解答
 
 ### Q1. 课程地点 TBA 是什么意思？
@@ -215,6 +211,12 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 不能。相关课程无法获得批准。
 
 其他限制可见上文。
+
+### Q6. 为什么 Proceed to Step 2 of 3 时部分 / 全部课程报错了？
+
+请先参考上文 [“二、注意事项 - 4. 不合规的选课”](sis-course-selection.md#id-4.-bu-he-gui-de-xuan-ke) 部分，确认有无不合规的选课情况。
+
+如怀疑为系统问题，请参考 [主要部门和学院指南](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/campus-life/offices-and-faculties) 联系所属学院。
 
 ***
 

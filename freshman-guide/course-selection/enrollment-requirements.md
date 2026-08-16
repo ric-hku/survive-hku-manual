@@ -72,7 +72,7 @@ CAES 课程是由应用英语中心（Centre for Applied English Studies）提�
 欲修读 ENGL 和 DRTP 课程的学生，必须及时参加上述考试。
 {% endhint %}
 
-不通过 HKDSE 入读港大的学生，如欲修读 ENGL 和 DRTP 的初级课程，须在**正式选课期间结束前 2 周**，将相应成绩证明提交给英文学院：[HKU School of English: English Proficiency Test Submission](https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC)
+不通过 HKDSE 入读港大的学生，如欲修读 ENGL 和 DRTP 的初级课程，须在**正式选课期间前 2 周**，将相应成绩证明提交给英文学院：[HKU School of English: English Proficiency Test Submission](https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC)
 
 {% embed url="https://hku.au1.qualtrics.com/jfe/form/SV_aYpc9YyvM2uqBaC" %}
 

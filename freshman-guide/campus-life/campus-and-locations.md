@@ -1,8 +1,33 @@
+---
+cover: ../../.gitbook/assets/Red Wall 02.jpg
+coverY: -92.40997620516436
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 校园及地点指南
 
-{% file src="../../.gitbook/assets/8.4 港大主要教学区中英文对照.pdf" %}
-
-### 本部校园和百周年校园教学楼
+## 一、本部校园和百周年校园 Main Camus & Centennial Campus
 
 <table data-header-hidden><thead><tr><th width="150.11111450195312"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>代号 (Code)</strong></td><td><strong>英文名称 (English Name)</strong></td><td><strong>中文名称 (Chinese Name)</strong></td></tr><tr><td>CYM</td><td>Chong Yuet Ming Amenities Centre</td><td>庄月明文娱中心</td></tr><tr><td>CYC</td><td>Chong Yuet Ming Chemistry Building</td><td>庄月明化学楼</td></tr><tr><td>CYP</td><td>Chong Yuet Ming Physics Building</td><td>庄月明物理楼</td></tr><tr><td>EH</td><td>Eliot Hall</td><td>仪礼堂</td></tr><tr><td>RM</td><td>Rumme Shaw Building</td><td>邵仁梅楼</td></tr><tr><td>HC</td><td>Hoi Oi Chow Science Building</td><td>许爱周科学馆</td></tr><tr><td>MW</td><td>Meng Wah Complex</td><td>明华综合大楼</td></tr><tr><td>RR</td><td>Run Run Shaw Building</td><td>邵逸夫楼</td></tr><tr><td>GH</td><td>Graduate House</td><td>研究生堂</td></tr><tr><td>WLGH</td><td>Wang Gungwu Theatre (Graduate House)</td><td>王赓武讲堂</td></tr><tr><td>CB</td><td>Chow Yei Ching Building</td><td>周亦卿楼</td></tr><tr><td>HW</td><td>Haking Wong Building</td><td>黄克竞楼</td></tr><tr><td>JCT/CJT</td><td>The Jockey Club Tower</td><td>赛马会教学楼</td></tr><tr><td>RRS/CRT</td><td>Run Run Shaw Tower</td><td>逸夫教学楼</td></tr><tr><td>CPD</td><td>Central Podium Levels</td><td>百周年校园</td></tr><tr><td>CCT</td><td>Cheng Yu Tung Tower</td><td>郑裕彤教学楼</td></tr><tr><td>HHY</td><td>Hung Hing Ying Building</td><td>孔庆荧楼</td></tr><tr><td>KA/KBSB</td><td>Kadoorie Biological Sciences Building</td><td>嘉道理生物科学大楼</td></tr><tr><td>KB</td><td>Knowles Building</td><td>钮鲁诗楼</td></tr><tr><td>LE</td><td>Library Extension Building</td><td>香港大学图书馆延伸大楼</td></tr><tr><td>KK</td><td>K.K.Leung Building</td><td>梁銶琚楼</td></tr><tr><td>MB</td><td>Main Building</td><td>主楼</td></tr><tr><td>PSL</td><td>Pao Siu Loong Building</td><td>包兆龙楼</td></tr><tr><td>TT/TS</td><td>T.T.Tsui Building</td><td>徐展堂楼</td></tr></tbody></table>
 

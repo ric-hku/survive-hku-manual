@@ -125,7 +125,7 @@ CEDARS 下属多个部门（其联系方式可在官网找到），包括：
 
 * 学生支持和包容 Student Support and Inclusion\
   （原：校园生活 Campus Life）
-  * 含多元与包容 Diversity and Inclusion\
+  * 多元与包容 Diversity and Inclusion\
     （原：特殊教育需求支持 SEN Support）
 * 心理健康 Mind and Wellbeing\
   （原：辅导及心理培育组 Counselling and Person Enrichment, CoPE）

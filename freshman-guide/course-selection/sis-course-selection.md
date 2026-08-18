@@ -218,6 +218,14 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 如怀疑为系统问题，请参考 [主要部门和学院指南](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/campus-life/offices-and-faculties) 联系所属学院。
 
+### Q7. 选课后我看到对勾 / 在 My Weekly Timetable 上看到了，是不是表示选课成功了？
+
+不是。此时的对勾 / My Weekly Timetable 上的显示，只表示该课已提交审核。
+
+这些课程可能是 Pending（待定）或 Approved（通过审核）等状态。
+
+可以在 HKU Portal 里选择 Course Enrollment > **Enrollment Status**（简体中文：课程记录 > 选课记录），查看课程审核状态。
+
 ***
 
 想要加入 [RIC](https://ric-hku.gitbook.io/survive-hku-manual/freshman-guide/ric-intro) 来一同为内地本科生维权益，谋福利吗？快快关注我们的微信公众号 **港大 RIC 锐克** 吧！我们将在九月发布招新信息哦～
@@ -226,6 +234,6 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 本文基于原新生群文件《6.1 选课系统使用指南》编写而成。
 
-最后更新于 2026 年 8 月 14 日。
+最后更新于 2026 年 8 月 18 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

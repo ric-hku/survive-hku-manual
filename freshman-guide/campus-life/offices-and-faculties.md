@@ -399,7 +399,10 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://www.hkubs.hku.hk/](https://www.hkubs.hku.hk/)
 * 地址：Room 401, 4/F, K.K. Leung Building
 * 电话：3917 5343
-* 电邮：[fbe.ugenquiry@hku.hk](mailto:fbe.ugenquiry@hku.hk)（本科课程行政）
+* 电邮：
+  * 一般查询：[fbeinfo@hku.hk](mailto:fbeinfo@hku.hk)
+  * 本科课程收生：[fbe.ugenquiry@hku.hk](mailto:fbe.ugenquiry@hku.hk)
+  * 本科课程行政：[fbe.undergrad@hku.hk](mailto:fbe.undergrad@hku.hk)
 
 ### 牙医学院 Faculty of Dentistry
 
@@ -433,7 +436,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
   * 本科学生支持：Room G01A, G/F, Haking Wong Building
 * 电话：3917 2803
 * 电邮：
-  * 一般咨询：[enggfac@hku.hk](mailto:enggfac@hku.hk)
+  * 一般查询：[enggfac@hku.hk](mailto:enggfac@hku.hk)
   * 本科学生行政：[enggugtl@hku.hk](mailto:enggugtl@hku.hk)
   * 本科学生交换：[enggex@hku.hk](mailto:enggex@hku.hk)
 
@@ -468,7 +471,11 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://www.scifac.hku.hk/](https://www.scifac.hku.hk/)
 * 地址：G/F, Chong Yuet Ming Physics Building
 * 电话：3917 2683
-* 电邮：[science@hku.hk](mailto:science@hku.hk)
+* 电邮：
+  * 一般查询：[science@hku.hk](mailto:science@hku.hk)
+  * 本科课程收生：[sci.ug.admission@hku.hk](mailto:sci.ug.admission@hku.hk)
+  * 本科学术相关（选课、考试、学术指导等）：[sci.ug.enquiry@hku.hk](mailto:sci.ug.enquiry@hku.hk)
+  * 本科体验式学习相关（交换、实习、SRF、ORF、URFP、YSS 等）：[sci.ug.el@hku.hk](mailto:sci.ug.el@hku.hk)
 
 ### 社会科学学院 Faculty of Social Sciences
 
@@ -479,7 +486,11 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://web.socsc.hku.hk/](https://web.socsc.hku.hk/)
 * 地址：11/F, The Jockey Club Tower, Centennial Campus
 * 电话：3917 1212
-* 电邮：[socscug@hku.hk](mailto:socscug@hku.hk)
+* 电邮：
+  * 学院办公室：[socsc@hku.hk](mailto:socsc@hku.hk)
+  * 本科课程：[socscug@hku.hk](mailto:socscug@hku.hk)
+  * 本科体验式学习：[socii@hku.hk](mailto:socii@hku.hk)
+  * 本科入学查询：[socugadmissions@hku.hk](mailto:socugadmissions@hku.hk)
 
 ### 生物医学工程学院 School of Biomedical Engineering
 
@@ -501,7 +512,8 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 电话：3917 2180
 * 电邮：
   * 总办公室：[askcds@hku.hk](mailto:askcds@hku.hk)
-  * 本科生学术事务咨询：[cdsug@hku.hk](mailto:cdsug@hku.hk)
+  * 本科招生：[cds.admission@hku.hk](mailto:cds.admission@hku.hk)
+  * 本科学术事务咨询：[cdsug@hku.hk](mailto:cdsug@hku.hk)
 
 #### 人工智能与数据科学系 Department of AI & Data Science
 
@@ -523,18 +535,25 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://www.cs.hku.hk/](https://www.cs.hku.hk/)
 * 地址：Room 207, Chow Yei Ching Building
 * 电话：3917 3146
-* 电邮：[csenq@hku.hk](mailto:csenq@hku.hk)
+* 电邮：
+  * 系办公室：[csenq@hku.hk](mailto:csenq@hku.hk)
+  * CDS（大一）、BEng(CompSc)：[cs6999@hku.hk](mailto:cs6999@hku.hk)
+  * BASc(FinTech)：[fin6248@hku.hk](mailto:fin6248@hku.hk)
 
 #### 统计及精算学系 Department of Statistics and Actuarial Science
 
-原属理学院，管理 BSc(ActuarSc)、SDS。
+原属理学院，管理 BSc(ActuarSc)、BStat/SDS。
 
 {% embed url="https://saasweb.hku.hk/" %}
 
 * 官网：[https://saasweb.hku.hk/](https://saasweb.hku.hk/)
 * 地址：Room 303, 3/F, Run Run Shaw Building
 * 电话：3917 2466
-* 电邮：[saas@hku.hk](mailto:saas@hku.hk)
+* 电邮：
+  * 一般咨询：[saas@hku.hk](mailto:saas@hku.hk)
+  * 本科招生：[saasadm@hku.hk](mailto:saasadm@hku.hk)
+  * 本科学术事务相关：[ugenq@hku.hk](mailto:ugenq@hku.hk)
+  * 学生实习：[intenjob@hku.hk](mailto:intenjob@hku.hk)
 
 ### 未来媒体学院 School of Future Media
 
@@ -545,7 +564,11 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://hkums.hku.hk/](https://hkums.hku.hk/)
 * 地址：Room 121, Eliot Hall
 * 电话：3917 1155
-* 电邮：[schofm@hku.hk](mailto:schofm@hku.hk)
+* 电邮：
+  * 一般咨询：[schofm@hku.hk](mailto:schofm@hku.hk) / [hkums@hku.hk](mailto:jmsc@hku.hk)
+  * 本科招生：[bjmsc.info@hku.hk](mailto:bjmsc.info@hku.hk)
+  * 实习、校友咨询：[stephanie.chow@hku.hk](mailto:stephanie.chow@hku.hk)
+  * 设备咨询：[jmsctech@gmail.com](mailto:jmsctech@gmail.com)
 
 ### 创新学院 School of Innovation
 
@@ -566,6 +589,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 
-最后更新于 2026 年 8 月 16 日。
+最后更新于 2026 年 8 月 18 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

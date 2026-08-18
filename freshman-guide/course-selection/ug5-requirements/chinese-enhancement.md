@@ -19,6 +19,10 @@ description: Chinese Language Enhancement
 
 来自内地（或其他地方）、**惯常使用普通话**或**接受普通话教育**的同学，一般会从 **CUND9001 - 9004** 中选择课程。
 
+{% hint style="info" %}
+中文增补课程的课程编码（前四位）包括：CARC、CART、CBBA、CDDL、CDEN、CEDU、CENG、CEMD、CEUC、CSCI、CSSC、CUND。
+{% endhint %}
+
 ## 二、课程内容
 
 ### CUND9001 基础广东话拼音与会话
@@ -111,7 +115,7 @@ description: Chinese Language Enhancement
 通过 HKDSE 入学的同学，如不能正常在系统中选修 CUND 编号的科目，可以与学院联系。
 {% endhint %}
 
-此外，对学生身份、出生地、居住地、成长经历所在地等均无要求。
+此外，对学生身份、出生地、居住地、成长经历所在地、入学所用的考试等**均无要求**。
 
 此外，CUND9001 设置了申请表和摸底考，广东话水平过高而被认为不适合修读该科目的学生可能会被拒录。
 
@@ -176,6 +180,6 @@ description: Chinese Language Enhancement
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 8 月 4 日。
+最后更新于 2026 年 8 月 18 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

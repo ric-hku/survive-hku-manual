@@ -71,7 +71,7 @@ Course Attribute 课程属性：
 * Approval Nature 批准方式：指选择课程后，须经过的批准流程。
   * Course-Based Approval 指提交后须经学院审核等流程才可成功选上；
   * Approval Not Required 表示不须经过学院审核等其他流程（一般为先到先得）。
-* Communication-intensive Course&#x20;
+* Communication-intensive Course：表示是否为 Communication-intensive Course（沟通技巧强化课程）。详见：[Communication-Intensive Courses](https://cics.hku.hk/)。
 * Examination 考试设&#x7F6E;**：**&#x6307;课程考核方式（是否包括期中及期末考试）。
   * Both 表示既有期中考试，也有期末考试；
   * Mid-Term 表示仅有期中考试；
@@ -186,9 +186,13 @@ Course Attribute 课程属性：
 
 ## 三、常见问题与解答
 
-### Q1. 课程地点 TBA 是什么意思？
+### Q1. 课程时间 / 地点 TBA 是什么意思？
 
-TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息将在确认后更新。
+TBA 是 To Be Announced 的缩写，指具体上课时间 / 地点尚未确认。信息将在确认后更新。
+
+{% hint style="info" %}
+部分课程（如 ECON1210），设有无固定时间的线上课程。这类课程的时间 / 地点也可能显示为 TBA。
+{% endhint %}
 
 ### Q2. 我选的两门课课间只有 10 分钟。会不会来不及？
 
@@ -204,7 +208,7 @@ TBA 是 To Be Announced 的缩写，指具体上课地点尚未确认。信息�
 
 ### Q4. 如何尽可能保证我选到想上的课？
 
-建议先把课程加入临时课表。选课开放后，立即进行 “Proceed To Step 2 Of 3”。这样更有把握选到想修读的课程。
+建议先把课程加入临时课表。选课开放后，立即进行 “Proceed To Step 2 of 3”。这样更有把握选到想修读的课程。
 
 ### Q5. 能不能为了选上我想选的课，在一个学期选多于 36 学分的课 / 时间冲突的课 / 同一个课的不同 Subclass？
 

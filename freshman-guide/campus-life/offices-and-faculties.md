@@ -524,7 +524,10 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 官网：[https://www.ai.hku.hk/](https://www.ai.hku.hk/)
 * 地址：Room 207, Chow Yei Ching Building
 * 电话：3917 2180
-* 电邮：[aienq@hku.hk](mailto:aienq@hku.hk)
+* 电邮：
+  * 系办公室：[aienq@hku.hk](mailto:aienq@hku.hk)
+  * CDS（大一）、BEng(AI\&DataSc)：[ai6999@hku.hk](mailto:cs6999@hku.hk)
+  * BASc(AppliedAI)：[app6224@hku.hk](mailto:fin6248@hku.hk)
 
 #### 计算机科学系 Department of Computer Science
 
@@ -589,6 +592,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 
-最后更新于 2026 年 8 月 18 日。
+最后更新于 2026 年 8 月 19 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

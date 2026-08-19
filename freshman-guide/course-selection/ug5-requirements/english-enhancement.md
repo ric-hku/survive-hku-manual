@@ -82,7 +82,9 @@ description: English Language Enhancement
 {% hint style="warning" %}
 雅思、托福网考成绩要求所有单项在同一次考试中取得。
 
-同时，有**部分学院**对雅思、托福成绩的取得时间有要求：如商学院、计算与数据科学学院要求 “须为 2 年以内、获港大录取当年的 8 月 1 日之前取得”。
+同时，部分学院（如商学院、理学院、工程学院、计算与数据科学学院等）要求 “须为 2 年以内、获港大录取当年的 8 月 1 日之前取得”。
+
+此外，雅思、托福网考以外的考试成绩（如 SAT 等）须在获港大录取当年取得。
 
 具体标准请参考学院规定，或联系学院确认。
 {% endhint %}
@@ -96,7 +98,11 @@ description: English Language Enhancement
 * **新版 Scholastic  &#x20;Aptitude Test (SAT)** 同一次考试中阅读、写作部分单项 630 分或以上；
 * **IGCSE** English - First Language / English as a Second Language、**GCE** AS / AL English Language 或 English Literature 获得 A 或以上；等。
 
-如果没有可以用于免修 CAES1001 的考试成绩，也可以选择参加 CAES 组织的 Academic Speaking and Writing Test。同学可以向所属学院申请；同时需要提供并非以上述考试成绩入读港大的证明（**如高考成绩**）。该测试一般在 **8 月**，以**线下**形式进行，并只安排一次（**不安排补测**）。
+如果 **不持有** 可以用于免修 CAES1001 的考试成绩，也可以选择参加 CAES 组织的 Academic Speaking and Writing Test。同学可以向所属学院申请；同时需要提供并非以上述考试成绩入读港大的证明（**如高考成绩**）。该测试一般在 **8 月**，以**线下**形式进行，并只安排一次（**不安排补测**）。
+
+{% hint style="warning" %}
+只有**不持有**上述考试成绩（包括不能达到要求或已过期的成绩）的学生才能参加上述测试。
+{% endhint %}
 
 **CAES1001 不占学分**。因此，免修 CAES1001 后，不需要用其他课补上学分。
 
@@ -134,6 +140,6 @@ CAES1001 课程采用合格（P）/ 不合格（F）/ 优异（DI）等评定，
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 8 月 9 日。
+最后更新于 2026 年 8 月 19 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

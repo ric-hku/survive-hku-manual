@@ -103,7 +103,53 @@ description: Chinese Language Enhancement
 * 研习主题
 * 写作及个人演说
 
-## 三、常见问题
+## 三、网上申请 CUND9001 或 CUND9004
+
+根据官网说明，为确保课程安排符合学生语言背景，请严格遵循以下流程并提交[《中国语言能力声明书》](https://www.clep-wix.hku.hk/zh/_files/ugd/9d9f44_e5a267a594bc47c582e3d141652764e3.pdf)：
+
+{% stepper %}
+{% step %}
+### 系统登记
+
+尽早透过学生资讯系统（SIS）提交选课申请，申请时间先后将影响录取优先顺序。
+{% endstep %}
+
+{% step %}
+### 课堂出席要求
+
+即使申请状态为 “待审核”（Pending），仍须出席首两周课程。第一二节课出席率将纳入录取考虑。
+{% endstep %}
+
+{% step %}
+### 提交语言声明书
+
+填妥并签署[《中国语言能力声明书》](https://www.clep-wix.hku.hk/zh/_files/ugd/9d9f44_e5a267a594bc47c582e3d141652764e3.pdf)，并于首节课堂将纸本提交予授课教师。
+{% endstep %}
+
+{% step %}
+### 录取结果
+
+审核将于 8 月 18 日说明会后开始。若第一二节课前系统仍显示 “待审核”（Pending），请照常出席课堂并于课后向任课老师查询。
+{% endstep %}
+{% endstepper %}
+
+{% hint style="warning" %}
+重要事项：
+
+学生需具备简体或繁体中文书写能力。
+
+未完整履行上述程序者，申请将不予受理。
+
+所有提交资料仅用于课程录取审核。若提供虚假、不完整或误导性资讯，将取消修课资格。
+
+恕不接受针对审核结果、拒录原因或覆核请求之个别查询。
+{% endhint %}
+
+关于 CUND9001 课程说明会等详细内容，请见：[網上申請：CUND9001或CUND9004 | HKU CLEP](https://www.clep-wix.hku.hk/zh/courseapplication)。
+
+如有任何问题，请电邮联系：[clep@hku.hk](mailto:clep@hku.hk)。
+
+## 四、常见问题
 
 ### Q1. 我是会广东话的内地人 / 不会广东话的本地生。我还能选修 CUND900x 课程吗？
 
@@ -180,6 +226,6 @@ description: Chinese Language Enhancement
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 8 月 18 日。
+最后更新于 2026 年 8 月 19 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

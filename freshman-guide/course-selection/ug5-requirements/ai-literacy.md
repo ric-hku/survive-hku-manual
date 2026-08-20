@@ -10,7 +10,7 @@ description: Artificial Intelligence Literacy
 
 ## 一、课程安排
 
-对 2027 - 28 年入学的 B29 学生来说，英文增补课程一般包括两个课程：
+对 2027 - 28 年入学的 B29 学生来说，AILT 课程一般包括两个课程：
 
 * AILT1001 Artificial Intelligence Literacy I（3 学分）
 * AILT90xx 后续课程（3 学分）
@@ -127,6 +127,6 @@ description: Artificial Intelligence Literacy
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 31 日。
+最后更新于 2026 年 8 月 20 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

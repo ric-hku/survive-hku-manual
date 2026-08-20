@@ -150,7 +150,7 @@ description: English Language Enhancement
 
 可以在这里看到所有 Subclass 的选课人数情况：[Academic Communication in English Enrollment Statistics for Students](https://sweb.hku.hk/ccacad/eng/enrol_stat.html)。
 
-如果在 8 月 30 日前未有成功注册 CAES1001，且不具备免修资格，则**系统会自动分配**。
+如果不具备免修资格，且没有自己注册 CAES1001，则**系统会自动分配**。
 
 ### Q4. CAES 课程的成绩会影响GPA吗？
 
@@ -170,6 +170,6 @@ CAES1001 课程采用合格（P）/ 不合格（F）/ 优异（DI）等评定，
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 8 月 19 日。
+最后更新于 2026 年 8 月 20 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -47,7 +47,11 @@ icon: bed-front
   * 第二学院 College 2
   * 蔡加赞学院 Karson Choi College
   * 陈廷骅学院 D. H. Chen College
-* 西高山学生宿舍 High West Student Village
+* High West Student Village
+  * College A
+  * College B
+  * College C
+  * College D
 
 #### 研究生住宿 Postgraduate Residences
 
@@ -57,7 +61,7 @@ icon: bed-front
 
 #### 其他大学住宿 Other University-Admin Housing
 
-* 学生公寓 Student Flats
+* Student Flats
 
 {% hint style="info" %}
 **“赛马会第一 / 二 / 三舍堂 / 学生村”** 常简称为 “**一 / 二 / 三村**”。
@@ -322,6 +326,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 8 月 21 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

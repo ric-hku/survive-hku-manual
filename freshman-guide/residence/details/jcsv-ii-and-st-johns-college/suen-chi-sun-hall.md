@@ -146,7 +146,7 @@ c）在港铁上环站坐巴士。71、4、37A、7、90B、3A、4X 都可以。�
 
 注意，由于蒲飞路校区建设工程，二村出入口有更改，Google Map 上显示的出入口无法使用，需要继续往上走一段路通过回转坡道或行人电梯进入。
 
-<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 ### 九、孙志新堂出发（前往学校）
 

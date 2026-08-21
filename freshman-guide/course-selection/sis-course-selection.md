@@ -40,7 +40,7 @@
 
 点击蓝色的课程名称，即可进入课程详细信息界面。一些课程设有要求，如：需通过前置课程（Prerequisite），或课程与其他课程互斥（Mutually Exclusive）。
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 #### 4.1. 选修信息 Enrollment Information
 

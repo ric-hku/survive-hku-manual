@@ -49,7 +49,7 @@
 
 点击 Register 后，邮箱中会收到标题为 **HKU Student Visa - Account Registration** 的邮件。
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="424"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="424"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 如果收件箱中没有相关邮件，可以查看**垃圾邮件**。
@@ -69,7 +69,7 @@
 注意**选择正确的选项，后续不可修改**。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -148,8 +148,6 @@ Step 3: Submit the Required Application Documents
 * **Emergency Contact - Relationship to Applicant**
 
 紧急联系人与申请人关系，填写 Father、Mother 等即可。
-
-
 {% endstep %}
 
 {% step %}
@@ -175,11 +173,9 @@ Offer Type 处，注意选择正确的类型。
 通过国际考试（A-Level、AP、IB 等）录取的同学，请查看自己收到的 Offer 类型。若目前拿到的是 有条件录取（Conditional Offer），可以先申请签证，但**在拿到新的 Firm Offer 后也需要在系统中及时上传**。
 {% endhint %}
 
-
-
 * **Student Information**
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 新生 HKU Student UID 一项留空即可。
 
@@ -229,7 +225,7 @@ Offer Type 处，注意选择正确的类型。
 
 可使用的支付方式：
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt="" width="281"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 付款成功后，建议通过截图等方式**保存付款凭证**。
@@ -240,8 +236,6 @@ Offer Type 处，注意选择正确的类型。
 
 AO 联系方式：[https://www.studentvisa.hku.hk/contact-us](https://www.studentvisa.hku.hk/contact-us)
 {% endhint %}
-
-
 
 ### STEP 3. 提交文件 Applicant Documents
 
@@ -306,8 +300,6 @@ AO 联系方式：[https://www.studentvisa.hku.hk/contact-us](https://www.studen
 
 确认提交后，将收到标题为 **HKU Student Visa - Online Application Documents Submitted** 的邮件。耐心等待 AO 审核电子版文件即可。
 
-
-
 ### STEP 4. 入学事务部处理文件 Processing by Admissions Office
 
 如果入学事务部（Admissions Office，AO）发现上一步中的文件有**缺失**、**遗漏**的部分，会发送标题为 **HKU Student Visa - Missing/Incorrect Application Document(s)** 的邮件。此时请进入系统查看审核意见，并**重新上传**、点击 Submit 提交文件。
@@ -326,8 +318,6 @@ AO 将会直接把签证文件递交至香港入境事务处（ImmD）。
 
 一段时间后，待 AO 将文件**递交至香港入境事务处（ImmD）**&#x65F6;，系统会发送标题为 **HKU Student Visa - Application Submitted to HK Immigration Department** 的邮件。
 
-
-
 ### STEP 5. 香港入境事务处处理申请 Processing by Immigration Department
 
 **香港入境事务处（ImmD）**&#x7684;处理时间通常为 **6 - 8 星期**。在夏季高峰期可能更长。
@@ -335,8 +325,6 @@ AO 将会直接把签证文件递交至香港入境事务处（ImmD）。
 {% hint style="info" %}
 如果同学持有的是**有条件录取（Conditional Offer）**，此时可以**尽快将正式录取通知书（Firm Offer）上传至系统 STEP 6 位置**。
 {% endhint %}
-
-
 
 ### STEP 6. 正式录取通知书提交 Firm Admissions Offer Submission
 
@@ -349,8 +337,6 @@ AO 将会直接把签证文件递交至香港入境事务处（ImmD）。
 {% hint style="warning" %}
 必须提供**正式录取通知书（Firm Offer）**&#x624D;能获得签证。
 {% endhint %}
-
-
 
 ### STEP 7. 获得签证 Visa Permit
 
@@ -393,8 +379,6 @@ AO 接收签证后，系统会发送标题为 **HKU Student Visa - Visa Permit C
 {% endhint %}
 
 同时，也可以开始预约办理香港身份证了。具体请见：[香港身份证办理指南](../hkid-application.md)。
-
-
 
 ### STEP 8. 入学信息 Enrollment Details
 

@@ -12,13 +12,13 @@ RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
 
 点击右上角 “登录/注册”，使用 **@connect.hku.hk 结尾的港大邮箱** 进行注册。
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 课程搜寻
 
 登录成功后，可以转到 **“选课平台”** 页面。在这里，同学们可以从下方课程列表中点击课程查看详细信息，也可以通过上方搜索栏搜索指定的课程。
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 课程详情
 
@@ -31,18 +31,18 @@ RIC 选课平台：[https://richku.com/courses](https://richku.com/courses)
 课程评价为同学们个人提交，不代表 RIC 的观点或立场。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. 排课表
 
 在排课表中选择一个 Subclass 后，即将该 Subclass 添加到了 Timetable 中。
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 点击网站右下角的<img src="../../.gitbook/assets/image (16).png" alt="" data-size="original">悬浮按钮，即可打开 Timetable。\
 在这里你可以看到所有你添加的课程，并检查是否有冲突的课程，帮助你更直观地安排和调整课程。
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 此外，你还可以在 **课程详细信息面板** 的右上角点击 <img src="../../.gitbook/assets/image (17).png" alt="" data-size="original"> 为已选择 Subclass 的课程手动添加 Tutorial 的时间和位置信息，并展示在 Timetable 中。
 

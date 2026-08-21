@@ -33,9 +33,9 @@ icon: pen-to-square
 {% hint style="info" %}
 Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Duration）是四年**，而是表示 “学制”。
 
-2012 - 13 学年开始，香港的大学本科教育由传承自英国的三年制（3-Year Curriculum）改制成与世界其他地区一致的四年制（4-Year Curriculum）。为了区分不同学制的课程和项目，引入了这个标识：(3) 表示学生就读的项目是三年制；(4) 表示四年制。&#x20;
+2012 - 13 学年开始，香港的大学本科教育由传承自英国的三年制（3-Year Curriculum）改制成与世界其他地区一致的四年制（4-Year Curriculum）。为了区分不同学制的课程和项目，引入了这个标识：(3) 表示学生就读的项目是三年制；(4) 表示四年制。
 
-（此处的 “学制” 不代表实际修业时长。例如：MBBS 在三年制下需读 5 年，而四年制下为 6 年。）&#x20;
+（此处的 “学制” 不代表实际修业时长。例如：MBBS 在三年制下需读 5 年，而四年制下为 6 年。）
 
 因此，现在所有本科生项目此处一般都是 (4)。
 
@@ -49,7 +49,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
   * 默认为 u3xxxxxx（数字部分即 University Number 的第 3 - 9 位）。
 
 {% hint style="warning" %}
-自 2025 年 8 月 7 日起，UID **不能更改**（无论是否在完成 Master Registration 后七天内）。&#x20;
+自 2025 年 8 月 7 日起，UID **不能更改**（无论是否在完成 Master Registration 后七天内）。
 {% endhint %}
 
 {% hint style="info" %}
@@ -108,7 +108,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 
 HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.html)
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 在首次登录时，需要按指示**修改初始密码**。
@@ -123,8 +123,6 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 或者，在 HKU Portal 里选择 Student Information System (SIS) 打开学生资讯系统后，在左侧菜单栏中，选择 SIS Menu > Self Services > **Master Registration**。
 
 <figure><img src="../.gitbook/assets/SIS.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### 3. 填写相关信息
 
@@ -169,22 +167,22 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 {% hint style="info" %}
 关于女性称谓：
 
-* Miss 小姐，适用于未婚女性、年轻女孩或女学生；
+* Miss 小姐，适用于未婚女性、年轻女孩或女学生；
 * Mrs. 夫人 / 太太，适用于已婚女性，通常跟着丈夫的姓；
 * Ms. 女士，适用于不愿意强调婚姻情况（或不清楚）的女性。
 
-（其他称谓：Dr. 博士；Hon. 阁下；Ir. 注册工程师；Lady 女勋爵；Lord 勋爵；Prof. 教授；Rev. 牧师；Sir 爵士；Ven. 尊者；等）
+（其他称谓：Dr. 博士 ；Hon. 阁下；Ir. 注册工程师；Lady 女勋爵 ；Lord 勋爵；Prof. 教授；Rev. 牧师；Sir 爵士；Ven. 尊者；等）
 {% endhint %}
 
 3. **CC Codes and Chinese Name** 中文姓名电码
    * 如果没有香港身份证，此项留空即可。
    * 如果有香港身份证，此项填写上面的中文姓名电码（见下图）。输入之后，点击 Display Chinese Name，确认实际汉字。
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 #### 第 2 页
 
-<figure><img src="../.gitbook/assets/02 - 副本 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 - 副本.png" alt=""><figcaption></figcaption></figure>
 
 1. **HKID Number** 香港身份证号码
    * 如果没有香港身份证，此项留空，并填写下方的护照信息、身份证 / 港澳通行证信息（选择其一填写）
@@ -234,7 +232,7 @@ HKU Portal：[http://hkuportal.hku.hk/login.html](http://hkuportal.hku.hk/login.
 
 #### 第 3 页
 
-<figure><img src="../.gitbook/assets/03 - 副本 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03 - 副本.png" alt=""><figcaption></figcaption></figure>
 
 1. **Contact Address (in English)** 联系地址（英文）：需为香港地址。
    * 如暂无且本项不能留空，可以先任意填写；获得香港地址后，需要再在系统中补上。

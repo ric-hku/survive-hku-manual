@@ -99,7 +99,7 @@ description: 最重要的一张表格。
 
 样表：
 
-<figure><img src="../../.gitbook/assets/ID 995A sample form Chin.Ver__页面_2 - 副本 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ID 995A sample form Chin.Ver__页面_2 - 副本 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 申请来港居留的随行受养人 Accompanying Dependants
 
@@ -200,8 +200,8 @@ description: 最重要的一张表格。
 {% hint style="info" %}
 拥有学位颁授权的香港高等教育院校，是指：
 
-* 8 所**教资会资助大学**，包括香港城市大学  、香港浸会大学  、岭南大学  、香港中文大学  、香港教育大学  、香港理工大学  、香港科技大学  、香港大学；以及
-* 14 所其他高等教育院校，包括香港珠海学院  、香港都会大学、香港树仁大学、香港恒生大学等。
+* 8 所**教资会资助大学**，包括香港城市大学 、香港浸会大学 、岭南大学 、香港中文大学 、香港教育大学 、香港理工大学 、香港科技大学 、香港大学；以及
+* 14 所其他高等教育院校，包括香港珠海学院 、香港都会大学、香港树仁大学、香港恒生大学等。
 
 详见：[院校 - 教育局](https://www.edb.gov.hk/sc/edu-system/postsecondary/local-higher-edu/institutions/index.html)。
 {% endhint %}
@@ -274,4 +274,3 @@ description: 最重要的一张表格。
 最后更新于 2026 年 6 月 19 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
-

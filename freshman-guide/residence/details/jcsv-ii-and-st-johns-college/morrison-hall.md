@@ -131,7 +131,7 @@ Readmission 评分分为楼层评分、Hall 内评分、Hall Song 考核和面�
 
 ### 九、重要告示
 
-<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 ### 十、从马礼逊出发
 

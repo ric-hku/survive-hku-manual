@@ -15,7 +15,7 @@ icon: hurricane
 西北太平洋的热带气旋，就是我们平常所说的 **“台风”**。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (76).png" alt="" width="373"><figcaption><p>图源：香港天文台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt="" width="373"><figcaption><p>图源：香港天文台</p></figcaption></figure>
 
 信号意义：
 
@@ -27,11 +27,11 @@ icon: hurricane
 
 此外，在发出八号信号生效前约 2 小时，天文台会发出 **“预警八号特别告示”**，用以提醒市民准备及时回家。
 
-<figure><img src="../.gitbook/assets/image (120).png" alt="" width="375"><figcaption><p>2026 年 7 月，因台风红霞吹袭香港发出的 “预警八号特别告示”。图源：香港天文台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt="" width="375"><figcaption><p>2026 年 7 月，因台风红霞吹袭香港发出的 “预警八号特别告示”。图源：香港天文台</p></figcaption></figure>
 
 ## 二、暴雨警告信号
 
-<figure><img src="../.gitbook/assets/image (83).png" alt="" width="375"><figcaption><p>图源：香港天文台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt="" width="375"><figcaption><p>图源：香港天文台</p></figcaption></figure>
 
 信号意义：表示香港广泛地区已录得或预料会有每小时雨量 ——
 
@@ -148,7 +148,7 @@ icon: hurricane
   （仍行驶中的列车会尽可能在安全情况下行驶至原定的终点站，或邻近车站方便乘客暂避）
 * 隧道段列车：维持有限度服务，班次较疏，行车时间亦较长。
 
-<figure><img src="../.gitbook/assets/image (77).png" alt="" width="375"><figcaption><p>图源：港铁</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (66).png" alt="" width="375"><figcaption><p>图源：港铁</p></figcaption></figure>
 
 ### 2. 巴士
 
@@ -205,7 +205,7 @@ icon: hurricane
 
 ***
 
-&#x20;本文整理自以下网页：
+本文整理自以下网页：
 
 * [香港天文台](https://www.hko.gov.hk/sc/)
 * [熱帶氣旋襲港期間巴士服務特別安排 | 香港巴士大典 | Fandom](https://hkbus.fandom.com/wiki/%E7%86%B1%E5%B8%B6%E6%B0%A3%E6%97%8B%E8%A5%B2%E6%B8%AF%E6%9C%9F%E9%96%93%E5%B7%B4%E5%A3%AB%E6%9C%8D%E5%8B%99%E7%89%B9%E5%88%A5%E5%AE%89%E6%8E%92)

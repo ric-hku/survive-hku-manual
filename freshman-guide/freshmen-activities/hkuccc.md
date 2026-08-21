@@ -29,7 +29,7 @@ layout:
 
 # HKUCCC 举办的 O-Camp
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,11 +43,11 @@ HKUCCC以弘扬中华优秀传统文化、促进文化交流为宗旨，不断�
 
 社团公众号二维码：
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt="" width="233"><figcaption></figcaption></figure>
 
 社团标志：
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

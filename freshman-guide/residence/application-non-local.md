@@ -18,13 +18,13 @@
 
 ## 二、注册账户 Register
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 进入系统后，新生需要先点击上方的 **Register** 注册新账户。
 
 ### 1. 个人信息 Personal Particulars
 
-<figure><img src="../../.gitbook/assets/image (97).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt="" width="343"><figcaption></figcaption></figure>
 
 * **Title** 头衔 / 称呼：男性选择 Mr.；女性选择 Miss 或 Ms. 即可。非必填。
 * **First Name / Last Name IN ENGLISH** 名 / 姓（英文）：按官方文件（港澳通行证、护照等）填写即可。注意 **First Name 是名**，**Last Name 是姓**。
@@ -50,7 +50,7 @@
 
 ### 2. 学习信息 Study Info
 
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 * **Programme Application Number** (7 or 10 digits) 申请编号：按实际填写即可；高考生一般以 150 开头，国际生以该年年份（202x）开头。
 * **Faculty** 所属学院：跨学科学院按下列 “行政学院” 填写即可。
@@ -69,7 +69,7 @@
 
 ### 3. 联系方式 Contact Details
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt="" width="288"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt="" width="288"><figcaption></figcaption></figure>
 
 * **Home Address** (Line 1, Line 2, City, State/Province) 家庭住址：按实际填写即可。
 * **Zip Postcode** 邮政编码：按实际填写即可。
@@ -78,7 +78,7 @@
 
 ### 4. 创建登录凭证 Create Credentials
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt="" width="272"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt="" width="272"><figcaption></figcaption></figure>
 
 按要求填写一个邮箱地址，并设置密码即可。
 
@@ -86,7 +86,7 @@
 
 ### 5. 上传文件 Document Upload
 
-**For new non-local full-degree undergraduate students**: Please submit a copy of your offer letter or offer email, showing your full name as in your passport and the 10-digit application number starting with 20xxxxxxxx.&#x20;
+**For new non-local full-degree undergraduate students**: Please submit a copy of your offer letter or offer email, showing your full name as in your passport and the 10-digit application number starting with 20xxxxxxxx.
 
 此处上传自己的 Offer Letter 即可。
 

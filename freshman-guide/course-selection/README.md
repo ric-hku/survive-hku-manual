@@ -175,7 +175,7 @@ Tutorial 一般在开学后选择。由于形式可能有所不同，授课老�
 
 #### 2.1 Class Schedule Planner
 
-Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以下功能：&#x20;
+Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以下功能：
 
 * 添加课程（Add Subclasses）：查看自己专业允许选择的课程、搜索并添加 Subclass；
 * 查看时间表（View Calendar）：查看已选 Subclass 的时间表、导出 ICS 文件（可导入日历软件）；
@@ -183,7 +183,7 @@ Class Schedule Planner 是学校官方提供的排课辅助工具，主要有以
 
 在 HKU Portal 里选择 Course Enrollment > **Class Schedule Planner**（简体中文：课程记录 > 课程计划表），打开这一工具。
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 #### 2.2 RIC 选课平台
 
@@ -227,7 +227,7 @@ RIC Flow 是由 RIC 庄友开发的 Chrome 扩展程序，主要有以下功能�
 {% endstep %}
 
 {% step %}
-#### 正式选课期间&#xD;
+#### 正式选课期间
 
 2026 年 8 月 18 日（星期二）10:00 – 8 月 24 日（星期一）16:00
 
@@ -378,4 +378,3 @@ Tutorial 一般在开学后选择。
 最后更新于 2026 年 8 月 1 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
-

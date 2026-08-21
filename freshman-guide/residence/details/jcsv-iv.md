@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -43,7 +44,7 @@ CEDARS 官方介绍：[Residence options - University Accommodation - HKU Cedars
 
 Police School Road 4, Wong Chuk Hang, Hong Kong，即香港黄竹坑警校道 4 号。
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 快递 / 外卖地址可填写：
 

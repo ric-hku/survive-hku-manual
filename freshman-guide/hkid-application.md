@@ -18,7 +18,7 @@ icon: id-card
 根据 [使用香港政府一站通网上服务的系统需求](https://www.gov.hk/sc/about/helpdesk/softwarerequirement/onlineservice.htm)，可以使用 Windows、macOS、Linux、iOS、Android 等常用操作系统和 Microsoft Edge、Safari、Mozilla Firefox、Google Chrome 等常用浏览器。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (84).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt="" width="563"><figcaption></figcaption></figure>
 
 在打开的网页里，点击 **网上预约申领香港身份证(包括其后更改,取消或查询预约)及预填表格** 按钮，进入网上预约系统。
 
@@ -31,11 +31,11 @@ icon: id-card
 * 签证 / 进入许可申请档案编号：在发放的电子版签证 / 进入许可上，格式如 AAAA-1234567-89(0)。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (85).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 二、在线填写预约信息
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
 网上预约共有 5 个步骤。
 
@@ -45,7 +45,7 @@ icon: id-card
 
 在申请类别选择中依次选择 **首次登记身份证（持单程证人士除外）**、**持有效签证／进入许可的新来港人士（就读）**。
 
-<figure><img src="../.gitbook/assets/image (86).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 乙部分：申请人资料
 
@@ -63,7 +63,7 @@ icon: id-card
 
 出生日期（日-月-年）（只需输入出生日及出生年份）
 
-<figure><img src="../.gitbook/assets/image (88).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 丙部分：查询代码
 
@@ -100,7 +100,7 @@ icon: id-card
 以上各办事处的地址、办公时间、电话号码：[人事登记办事处 | 入境事务处](https://www.immd.gov.hk/hks/contactus/person-registration.html)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤 3：选择办理时间
 
@@ -110,15 +110,15 @@ icon: id-card
 可以点击 **位置地图** 查看办事处具体位置。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt="" width="563"><figcaption></figcaption></figure>
 
 选定日期后，选择办理时间。
 
-<figure><img src="../.gitbook/assets/image (94).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt="" width="563"><figcaption></figcaption></figure>
 
 选择办理时间后，可以选择填入一个自己常用且方便查看的**电邮地址**，方便接收**确认通知**和**预约提示**。
 
-<figure><img src="../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 步骤 4：确认
 
@@ -148,7 +148,7 @@ icon: id-card
 
 如果不是在预约后直接开始填写登记表格，也可以直接在 [GovHK 香港政府一站通：网上预约申领身份证(人事登记办事处)](https://www.gov.hk/sc/residents/immigration/idcard/hkic/bookregidcard.htm) 中选择 **预填表格** 进行填写。
 
-<figure><img src="../.gitbook/assets/image (84).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 步骤 1：输入预约资料
 
@@ -160,7 +160,7 @@ icon: id-card
 * 旅行证件号码：预约时填写的证件号码的**最后六个数字**。
 * 查询代码：预约时填写的一组自己选择的 4 位数字代码。
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 ### 步骤 2：选择申请人
 
@@ -202,7 +202,7 @@ icon: id-card
 * 单位：可选择 “室”，然后填入编号。
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (108).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (95).png" alt="" width="563"><figcaption></figcaption></figure>
 
 如果没有香港住址，也可以在通讯地址处填写内地住址。
 
@@ -212,14 +212,14 @@ icon: id-card
 * 教育程度：中学及以下（中学）。
 * 婚姻状况：单身。
 
-#### &#x20;乙部（只供没有香港居留权的申请人填写）
+#### 乙部（只供没有香港居留权的申请人填写）
 
-<figure><img src="../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * 在港逗留条件：学生。
 * 获准在港逗留至（如适用）：可参考入境标签（俗称 “小白条”，如下图）。注意格式为 “日-月-年”。
 
-<figure><img src="../.gitbook/assets/image (110).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt="" width="250"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 入境标签是在**入境香港时**获得的。
@@ -352,7 +352,7 @@ icon: id-card
     3. 行政长官藉宪报刊登的命令而为此目的授权的任何人或任何界别的人，
 
     惟上述人员须穿着制服，或在被要求下出示获正式发给的证明文件，以证明他是警务人员、入境事务主任、入境事务助理员或是根据 (c) 段获授权的人。
-3. 任何人如未能按规定出示身分证明文件以供查阅，即属犯罪，经定罪后，可处第 2 级罚款（$5,000）。   \
+3. 任何人如未能按规定出示身分证明文件以供查阅，即属犯罪，经定罪后，可处第 2 级罚款（$5,000）。\
    但在就本款所订罪行而进行的法律程序中，被控人如能够就未能出示身分证明文件一事提出合理辩解，即可作为免责辩护。
 
 {% hint style="info" %}
@@ -415,7 +415,7 @@ icon: id-card
 
 正面信息：
 
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

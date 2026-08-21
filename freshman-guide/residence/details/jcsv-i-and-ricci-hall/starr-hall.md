@@ -40,7 +40,7 @@ CEDARS 官方介绍：[Starr Hall - HKU Cedars - Housing](https://housing.cedars
 
 下图左侧可看到施德堂位置。
 
-<figure><img src="../../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 性别构成 <a href="#id-2-xing-bie-gou-cheng" id="id-2-xing-bie-gou-cheng"></a>
 

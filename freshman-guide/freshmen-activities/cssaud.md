@@ -4,8 +4,6 @@ description: 香港大学内地本科生联合会
 
 # CSSAUD 举办的新生系列活动
 
-
-
 {% hint style="info" %}
 CSSAUD 是**香港大学内地本科生联合会**的简称。
 
@@ -22,7 +20,7 @@ CSSAUD 与学校合作，举办面向新生的 Buddy Program（“挚友计划�
 
 活动报名方式：详情请见 “港大CSSAUD” 公众号
 
-<div><figure><img src="../../.gitbook/assets/image (49).png" alt="" width="302"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (50).png" alt="" width="288"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (44).png" alt="" width="302"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (45).png" alt="" width="288"><figcaption></figcaption></figure></div>
 
 ## 二．新生城市见面会
 
@@ -43,9 +41,9 @@ CSSAUD 与学校合作，举办面向新生的 Buddy Program（“挚友计划�
 
 活动报名方式：详情请见 “港大CSSAUD” 公众号
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ## 三．O-Camp
 
@@ -57,9 +55,9 @@ CSSAUD 与学校合作，举办面向新生的 Buddy Program（“挚友计划�
 
 活动报名方式：详情请见 “港大CSSAUD” 公众号
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt="" width="467"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="467"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 四．新生学长姐交流分享会
 

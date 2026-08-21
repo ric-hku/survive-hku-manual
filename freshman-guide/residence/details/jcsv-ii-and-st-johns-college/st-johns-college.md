@@ -38,7 +38,7 @@ CEDARS 官方介绍：[St John's College - HKU Cedars - Housing](https://housing
 
 薄扶林道 82 号（82 Pokfulam Road），位于赛马会第二学生舍堂村对面。
 
-<figure><img src="../../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 性别构成
 

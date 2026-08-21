@@ -66,7 +66,7 @@ icon: user-graduate
 1. 学生签证（入境许可）
 2. 入境标签（俗称 “小白条”，如下图）
 
-<figure><img src="../.gitbook/assets/image (73).png" alt="" width="250"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt="" width="250"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 入境标签是在**入境香港时**获得的。

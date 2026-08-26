@@ -53,7 +53,7 @@ icon: user-graduate
 
 ### 1. 官方指导
 
-* [Online Submission of Visa, Landing slip and Visa expiry date](https://ase.hku.hk/mr2026/) (PDF)
+* [Online Submission of Visa, Landing slip and Visa expiry date](https://ase.hku.hk/mr2026/sr/63_426_VisaDocSub.pdf) (PDF)
 
 ### 2. 上传位置
 
@@ -146,6 +146,6 @@ icon: user-graduate
 
 本文作者：B27 孙皋 BA。
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 8 月 26 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

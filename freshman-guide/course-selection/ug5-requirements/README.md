@@ -17,7 +17,7 @@ description: UG5 Requirements
   * AILT1001 Artificial Intelligence Literacy I（3 学分）
   * AILT90xx（3 学分）
 
-除此之外，还有一个不占学分的线上课 UG5E1001 Introduction to the Constitution, the Basic Law and the National Security Law（《宪法》、《基本法》和《国安法》导论）。
+除此之外，还有一个不占学分的线上课 [UGRE1001 Introduction to the Constitution, the Basic Law and the National Security Law](https://www.cedars.hku.hk/ugre1001)（宪法、基本法和国安法入门）。
 
 ***
 
@@ -25,6 +25,6 @@ description: UG5 Requirements
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 7 月 29 日。
+最后更新于 2026 年 8 月 26 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

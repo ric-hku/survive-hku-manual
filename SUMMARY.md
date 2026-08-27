@@ -96,5 +96,5 @@
 * [2026 – 27 本科课程一览](appendices/2026-27-ug-programmes.md)
 * [内地、香港地址格式参考](appendices/address-format.md)
 * [2026 – 27 校历、假期](appendices/2026-27-calendar.md)
-* [恶劣天气时的特别安排](appendices/hko-warning-signals.md)
+* [恶劣天气时的特别安排](appendices/bad-weather.md)
 * [香港大学校歌《港大礼赞》](appendices/university-anthem.md)

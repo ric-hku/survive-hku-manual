@@ -373,7 +373,7 @@ icon: id-card
 
 ### Q2. 我预约办理 / 领取香港身份证的时间遇恶劣天气（台风、暴雨等）。怎么办？
 
-详见：[恶劣天气时的特别安排](../appendices/hko-warning-signals.md)。
+详见：[恶劣天气时的特别安排](../appendices/bad-weather.md)。
 
 恢复服务：
 

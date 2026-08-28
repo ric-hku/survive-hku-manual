@@ -88,13 +88,11 @@ icon: user-graduate
 
 完成上述步骤后，会在 **8 月底至 9 月**收到标题为 Notice for collection of Student Registration Card 的邮件。
 
+或者，可以在 HKU Portal 里选择 New Students > Collection of Card (1st Year)（简体中文：新注册学生 > 领取学生证），查看有关通知。
+
 ### 1. 打印学生证领取通知
 
-从邮件或 HKU Portal 的下述位置下载通知：
-
-在 HKU Portal 里选择 New Students > Collection of Card (1st Year)（简体中文：新注册学生 > 领取学生证）
-
-然后打印。
+从邮件或 HKU Portal 找到通知，然后打印。
 
 {% hint style="info" %}
 可以选择智华馆、图书馆里的打印机，方法：[2026｜如何优雅地打印/复印](https://mp.weixin.qq.com/s/WirpsyxL7akpTeWsm4Qj6Q)；
@@ -146,6 +144,6 @@ icon: user-graduate
 
 本文作者：B27 孙皋 BA。
 
-最后更新于 2026 年 8 月 26 日。
+最后更新于 2026 年 8 月 28 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

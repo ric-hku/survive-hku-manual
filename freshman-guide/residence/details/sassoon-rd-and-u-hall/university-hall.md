@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息
 
-大学堂官方网站：[University Hall - The University of Hong Kong | University Hall - HKU](https://uhall.hku.hk/)
+{% embed url="https://uhall.hku.hk/" %}
 
-CEDARS 官方介绍：[University Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/university-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/university-hall" %}
 
 #### 1. 位置
 

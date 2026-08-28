@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -29,7 +30,7 @@ layout:
 
 写在前面：青莲台并不属于港大传统意义上的 “Residential Hall”，更多作为港大 PhD 学生的短期住宿之用。由于港大从 2017 年开始扩招，导致传统舍堂的宿位不足，因此一部分申请 Hall 的本科同学会被分到青莲台住宿，但分配的具体标准目前尚不清楚。
 
-CEDARS 官方介绍：[Ching Lin Terrace Residence - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/ching-lin-terrace-residence)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/ching-lin-terrace-residence" %}
 
 ### 一、基本信息
 

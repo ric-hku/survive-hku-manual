@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息
 
-伟伦堂官方网站：[Wei Lun Hall, The University of Hong Kong](https://www.weilun.hku.hk/)
+{% embed url="https://www.weilun.hku.hk/" %}
 
-CEDARS 官方介绍：[Wei Lun Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/wei-lun-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/wei-lun-hall" %}
 
 #### 1. 位置
 

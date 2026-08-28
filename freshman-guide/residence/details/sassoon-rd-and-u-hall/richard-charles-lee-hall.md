@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息
 
-利铭泽堂官方网站：[R. C. Lee Hall](https://rclhall.hku.hk/)
+{% embed url="https://rclhall.hku.hk/" %}
 
-CEDARS 官方介绍：[Richard Charles Lee Hall (RC Lee Hall) - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/richard-charles-lee-hall-r-c-lee-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/richard-charles-lee-hall-r-c-lee-hall" %}
 
 #### 1. 位置
 

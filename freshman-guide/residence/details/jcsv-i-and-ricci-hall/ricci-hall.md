@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息
 
-利玛窦宿舍官方网站：[Home | Ricci Hall The University of Hong Kong](https://www.riccihall.com/)
+{% embed url="https://www.riccihall.com/" %}
 
-CEDARS 官方介绍：[Ricci Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/ricci-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/ricci-hall" %}
 
 #### 1. 位置
 

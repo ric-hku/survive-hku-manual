@@ -91,7 +91,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 除了官方介绍，也可以看我们的 [各宿舍详细介绍](details/)，了解各个宿舍的细节和入住体验！
 
-<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260706.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260828.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -326,6 +326,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
 
-最后更新于 2026 年 8 月 21 日。
+最后更新于 2026 年 8 月 28 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

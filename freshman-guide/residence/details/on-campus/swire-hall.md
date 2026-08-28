@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息 <a href="#a-ji-ben-xin-xi" id="a-ji-ben-xin-xi"></a>
 
-太古堂官方网站：[Swire Hall, The University of Hong Kong](https://www.swire.hku.hk/)
+{% embed url="https://www.swire.hku.hk/" %}
 
-CEDARS 官方介绍：[Swire Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/swire-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/swire-hall" %}
 
 #### 1. 位置 <a href="#id-1-wei-zhi" id="id-1-wei-zhi"></a>
 

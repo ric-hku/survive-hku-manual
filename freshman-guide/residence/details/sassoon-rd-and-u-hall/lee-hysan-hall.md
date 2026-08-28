@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息
 
-利希慎堂官方网站：[Lee Hysan Hall, HKU](https://www.leehysan.hku.hk/)
+{% embed url="https://www.leehysan.hku.hk/" %}
 
-CEDARS 官方介绍：[Lee Hysan Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/lee-hysan-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/lee-hysan-hall" %}
 
 #### 1. 位置
 

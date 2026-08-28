@@ -30,6 +30,10 @@ layout:
 
 ### A 基本信息（位置&性别&室友）
 
+{% embed url="https://hkulskh.wixsite.com/lskh" %}
+
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/lee-shau-kee-hall" %}
+
 #### 1. 位置
 
 赛马会第二学生舍堂村（地址：薄扶林道 109 号）

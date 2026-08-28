@@ -28,6 +28,10 @@ layout:
 
 # 何东夫人纪念堂入住指南
 
+{% embed url="https://www.lhth.hku.hk/" %}
+
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/lady-ho-tung-hall" %}
+
 ### A. 基本信息（位置&性别&室友）
 
 #### 1. 位置

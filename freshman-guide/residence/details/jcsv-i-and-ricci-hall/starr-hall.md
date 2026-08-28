@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息（位置、性别、室友）
 
-施德堂官方网站：[HKU | Starr Hall Official Website – since 2001](https://www.starr.hku.hk/)
+{% embed url="https://www.starr.hku.hk/" %}
 
-CEDARS 官方介绍：[Starr Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/starr-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/starr-hall" %}
 
 #### 1. 位置
 

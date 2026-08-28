@@ -30,9 +30,9 @@ layout:
 
 ## 一、基本信息 <a href="#a-ji-ben-xin-xi" id="a-ji-ben-xin-xi"></a>
 
-李国贤堂官方网站：[Home | skyhall](https://skylee.hku.hk/)
+{% embed url="https://skylee.hku.hk/" %}
 
-CEDARS 官方介绍：[Simon K. Y. Lee Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/simon-k-y-lee-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/simon-k-y-lee-hall" %}
 
 ### 1. 位置 <a href="#id-1-wei-zhi" id="id-1-wei-zhi"></a>
 
@@ -46,8 +46,8 @@ CEDARS 官方介绍：[Simon K. Y. Lee Hall - HKU Cedars - Housing](https://hous
 
 男女皆有。
 
-* 男生层：1/F, 5/F Long Wing, 6/F Long Wing, 7/F, and 8/F;&#x20;
-* 女生层：2/F, 3/F, 4/F, 5/F Short Wing, and 6/F Short Wing.&#x20;
+* 男生层：1/F, 5/F Long Wing, 6/F Long Wing, 7/F, and 8/F;
+* 女生层：2/F, 3/F, 4/F, 5/F Short Wing, and 6/F Short Wing.
 
 ### 3. 室友背景 <a href="#id-3-shi-you-bei-jing" id="id-3-shi-you-bei-jing"></a>
 

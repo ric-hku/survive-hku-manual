@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息（位置、性别、室友）
 
-圣约翰学院官方网站：[Home - St. John's College, The University of Hong Kong](https://www.stjohns.hk/)
+{% embed url="https://www.stjohns.hk/" %}
 
-CEDARS 官方介绍：[St John's College - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/st-john-s-college)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/st-john-s-college" %}
 
 #### 1. 位置
 

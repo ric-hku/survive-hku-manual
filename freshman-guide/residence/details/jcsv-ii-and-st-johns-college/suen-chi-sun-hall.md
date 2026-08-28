@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息（位置、性别、室友）
 
-孙志新堂官方网站：[About | suenchisunhall](https://suenchisunhall.wixsite.com/suenchisunhall)
+{% embed url="https://suenchisunhall.wixsite.com/suenchisunhall" %}
 
-CEDARS 官方介绍：[Suen Chi Sun Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/suen-chi-sun-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/suen-chi-sun-hall" %}
 
 #### 1. 位置
 

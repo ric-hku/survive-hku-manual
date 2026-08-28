@@ -30,9 +30,9 @@ layout:
 
 ### 一、基本信息（位置、性别、室友）
 
-马礼逊堂官方网站：[ABOUT MORRISON HALL | morrison hall](https://morrison.hku.hk/)
+{% embed url="https://morrison.hku.hk/" %}
 
-CEDARS 官方介绍：[Morrison Hall - HKU Cedars - Housing](https://housing.cedars.hku.hk/university-accommodation/residence-options/morrison-hall)
+{% embed url="https://housing.cedars.hku.hk/university-accommodation/residence-options/morrison-hall" %}
 
 #### 1. 位置
 

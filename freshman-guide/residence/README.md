@@ -47,11 +47,11 @@ icon: bed-front
   * 第二学院 College 2
   * 蔡加赞学院 Karson Choi College
   * 陈廷骅学院 D. H. Chen College
-* High West Student Village
-  * College A
-  * College B
-  * College C
-  * College D
+* 西高山学生宿舍 High West Student Village
+  * 学院 A College A
+  * 学院 B College B
+  * 学院 C College C
+  * 学院 D College D
 
 #### 研究生住宿 Postgraduate Residences
 
@@ -61,7 +61,7 @@ icon: bed-front
 
 #### 其他大学住宿 Other University-Admin Housing
 
-* Student Flats
+* 学生公寓 Student Flats
 
 {% hint style="info" %}
 **“赛马会第一 / 二 / 三舍堂 / 学生村”** 常简称为 “**一 / 二 / 三村**”。
@@ -80,7 +80,7 @@ icon: bed-front
 
 * **住宿舍堂**（Residential Halls）：一般本地生、非本地生数量相近，且有舍堂文化（Hall Culture）；
 * **住宿学院**（Residential Colleges）：一般非本地生占大多数，无舍堂文化（Hall Culture）；
-* **研究生住宿**（Postgraduate Residences）：一般以研究生为主，本科生极少；本科生一般并不会申请，但由于宿位有限，可能被**调剂**到**青莲台学生宿舍**等；
+* **研究生住宿**（Postgraduate Residences）：一般以研究生为主，本科生极少；本科生一般并不会申请，但由于宿位有限，可能被**调剂**到 **青莲台学生宿舍** 等；
 * **其他大学住宿**（Other University-Admin Housing）：同样由大学管理，但不采用住宿舍堂 / 学院的模式，而采用公寓模式。本科生一般并不会申请，但由于宿位有限，可能被**调剂**到这些住宿。
 
 关于**住宿舍堂和住宿学院的区别**，更多细节可阅读官方网页：[Frequently Asked Question](https://housing.cedars.hku.hk/resources/frequently-asked-questions)（“Choosing your residence option” 部分）。
@@ -91,9 +91,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 除了官方介绍，也可以看我们的 [各宿舍详细介绍](details/)，了解各个宿舍的细节和入住体验！
 
-<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260828.png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260829.png" alt=""><figcaption></figcaption></figure>
 
 ## 二、找到最适合自己的舍堂
 
@@ -120,8 +118,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 有关其具体定义，请参照：[本地及非本地学生的定义](../../appendices/local-definition.md)。
 {% endhint %}
-
-***
 
 ### 2. 对宿舍离学校的远近、通勤方式等有什么偏好？
 
@@ -170,8 +166,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 **李嘉诚医学院** 位于 **沙宣道校园**（Sassoon Road Campus），离本部校园和百周年校园约 2.5 公里，行车时间约 15 分钟。如果是医学院（如 MBBS 课程）的学生，则可以选择离自己上课的地方最近的**沙宣道各舍堂（利铭泽堂、伟伦堂、利希慎堂）**。
 {% endhint %}
 
-***
-
 ### 3. 其他需要考虑的方面
 
 * (1) **性别**：有的宿舍是**单一性别**的。
@@ -207,9 +201,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 * (5) **学生身份（Status）。**
 
-**本地身份的学生**（Local Students）**大一不能申请三村**；非本地身份的学生没有这样的限制。<br>
-
-***
+**本地身份的学生**（Local Students）**大一不能申请三村**；非本地身份的学生没有这样的限制。
 
 ## 三、常见问题与解答
 
@@ -326,6 +318,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
 
-最后更新于 2026 年 8 月 28 日。
+最后更新于 2026 年 8 月 29 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

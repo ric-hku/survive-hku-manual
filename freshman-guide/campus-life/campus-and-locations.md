@@ -156,7 +156,7 @@ layout:
 
 梁銶琚楼大堂 K. K. Leung Building Concourse：梁銶琚楼 K. K. Leung Building G/F 的大堂。
 
-## 二、沙宣道校园及其他地方 Sassoon Road Campus and Others
+## 二、沙宣道校园及其他地方 Sassoon Road Campus & Others
 
 <figure><img src="../../.gitbook/assets/HKU SR Campus Map SimonSunCHN 20260825.png" alt=""><figcaption></figcaption></figure>
 
@@ -292,6 +292,6 @@ layout:
 
 本文基于原新生群文件《8.4 港大主要教学区中英文对照》编写而成。
 
-最后更新于 2026 年 8 月 26 日。
+最后更新于 2026 年 8 月 29 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

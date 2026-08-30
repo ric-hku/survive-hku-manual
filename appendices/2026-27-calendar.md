@@ -89,13 +89,13 @@ icon: calendar
 {% endstep %}
 
 {% step %}
-#### 大一新生选课暂停期间 Suspension Period&#xD;
+#### 大一新生选课暂停期间 Suspension Period
 
 2026 年 8 月 19 日（星期三）12:00 – 8 月 20 日（星期四）14:29
 {% endstep %}
 
 {% step %}
-#### 大一新生选课结束&#xD;
+#### 大一新生选课结束
 
 2026 年 8 月 24 日（星期一）16:00 之后
 
@@ -112,6 +112,10 @@ icon: calendar
 
 {% step %}
 #### Add/Drop Period（加 / 退选期）
+
+{% hint style="info" %}
+此时可调整第一学期、第二学期两个学期的课程。
+{% endhint %}
 
 2026 年 9 月 1 日（星期二）10:00 – 9 月 15 日（星期二）16:00
 
@@ -169,6 +173,10 @@ icon: calendar
 
 {% step %}
 #### Add/Drop Period（加 / 退选期）
+
+{% hint style="info" %}
+此时可调整第二学期、夏季学期（非必须）两个学期的课程。
+{% endhint %}
 
 2027 年 1 月 18 日（星期一）10:00 – 2 月 1 日（星期一）16:00
 
@@ -314,9 +322,9 @@ icon: calendar
 
 ***
 
-&#x20;本文整理自以下网页：
+本文整理自以下网页：
 
 * [Important Academic Dates 2026-27](https://aas.hku.hk/important-academic-dates/)
 * [GovHK 香港政府一站通：2023 – 2027年的公众假期](https://www.gov.hk/sc/about/abouthk/holiday/)
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 8 月 30 日。

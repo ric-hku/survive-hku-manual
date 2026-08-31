@@ -27,7 +27,7 @@ description: Chinese Language Enhancement
 
 ### CUND9001 基础广东话拼音与会话
 
-教学形式：25 人 / 组上课，不设 Tutorial（导修课）。
+教学形式：25 人 / 组上课。
 
 #### 1. 课程简介
 
@@ -90,7 +90,7 @@ description: Chinese Language Enhancement
 
 ### CUND9004 标准汉语应用写作与演说
 
-教学形式：25 人 / 组上课，不设 Tutorial（导修课）。
+教学形式：25 人 / 组上课。
 
 #### 1. 课程简介
 
@@ -226,6 +226,6 @@ description: Chinese Language Enhancement
 
 本文作者：香港大学内地本科生权益保障组（RIC）。
 
-最后更新于 2026 年 8 月 19 日。
+最后更新于 2026 年 8 月 31 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -83,7 +83,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
 
 * **Email Alias**：上述邮箱的**别名**（第二个地址），也可以用来收发邮件。
   * 可以选择修改成与自己的姓名等信息相关的，方便识别和记忆。
-  * 如需修改，可在 HKU Portal 里选择 New Student > Change of Email Alias（简体中文：新注册学生 > 更改电子邮件别名）。
+  * 可在 [Email & Contact Information Management](https://hkuesd.hku.hk/uservice/servlet/AccountManagement) 修改。
   * 修改时注意限制：9 - 32 字符；必须以字母开始；可包含大/小写字母、数字、点（.）、短横线（-）、下划线（\_）。
 
 {% hint style="info" %}
@@ -94,7 +94,7 @@ Curriculum 处标的 (4) **不表示学生的修业时长（Programme/Course Dur
   * 默认为邮箱地址，格式 u3xxxxxx@connect.hku.hk。
   * 如果修改过 Email Alias，会自动变更为 \[EmailAlias]@connect.hku.hk。
   * 可以选择修改成与自己的姓名等，方便识别。
-  * 如需修改，可在 HKU Portal 里选择 IT Support > Name/Email Address Registration in Mail（简体中文：资讯科技服务 > 注册电邮名字/地址）。
+  * 可在 [Email & Contact Information Management](https://hkuesd.hku.hk/uservice/servlet/AccountManagement) 修改。
 
 ## 三、Master Registration 步骤
 
@@ -337,6 +337,6 @@ Address 1 - Address 3 这三行用来填写**一个地址**，而非一行填写
 
 本文基于原新生群文件《5.2 Master Registration指南》编写而成。
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 9 月 3 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

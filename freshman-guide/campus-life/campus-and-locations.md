@@ -35,10 +35,10 @@ layout:
 
 #### 1.1. 本部校园 Main Campus
 
-<table data-header-hidden="false" data-header-sticky><thead><tr><th>缩写 Abbr.</th><th>中文 Chinese</th><th>英文 English</th></tr></thead><tbody><tr><td>GH</td><td>研究生堂</td><td>Graduate House</td></tr><tr><td>MW</td><td>明华综合大楼</td><td>Meng Wah Complex</td></tr><tr><td>MH</td><td>梅堂</td><td>May Hall</td></tr><tr><td>EH</td><td>仪礼堂</td><td>Eliot Hall</td></tr><tr><td>CYC</td><td>庄月明化学楼</td><td>Chong Yuet Ming Chemistry Building</td></tr><tr><td>CYP</td><td>庄月明物理楼</td><td>Chong Yuet Ming Physics Building</td></tr><tr><td>TC</td><td>邓志昂楼</td><td>Tang Chi Ngong Building</td></tr><tr><td>TT</td><td>徐展堂楼</td><td>T.T. Tsui Building</td></tr><tr><td>FP</td><td>冯平山楼</td><td>Fung Ping Shan Building</td></tr><tr><td>KK</td><td>梁銶琚楼</td><td>K.K. Leung Building</td></tr><tr><td>JL</td><td>厉树雄科学馆</td><td>James Hsioung Lee Science Building</td></tr><tr><td>HC</td><td>许爱周科学馆</td><td>Hui Oi Chow Science Building</td></tr><tr><td>RR</td><td>邵逸夫楼</td><td>Run Run Shaw Building</td></tr><tr><td>RM</td><td>邵仁枚楼</td><td>Runme Shaw Building</td></tr><tr><td>KB</td><td>钮鲁诗楼</td><td>Knowles Building</td></tr><tr><td>LE</td><td>图书馆延伸大楼</td><td>Library Extension Building</td></tr><tr><td>MB</td><td>本部大楼</td><td>Main Building</td></tr><tr><td>HH</td><td>孔庆荧楼</td><td>Hung Hing Ying Building</td></tr><tr><td>PS</td><td>包兆龙楼</td><td>Pao Siu Loong Building</td></tr><tr><td>KA (KBSB)</td><td>嘉道理生物科学大楼</td><td>Kadoorie Biological Sciences Building</td></tr><tr><td>HW</td><td>黄克竞楼</td><td>Haking Wong Building</td></tr><tr><td>COB</td><td>综合大楼</td><td>Composite Building</td></tr><tr><td>CB</td><td>周亦卿楼</td><td>Chow Yei Ching Building</td></tr></tbody></table>
+<table data-header-hidden="false" data-header-sticky><thead><tr><th>缩写 Abbr.</th><th>中文 Chinese</th><th>英文 English</th></tr></thead><tbody><tr><td>GH</td><td>研究生堂</td><td>Graduate House</td></tr><tr><td>MW</td><td>明华综合大楼</td><td>Meng Wah Complex</td></tr><tr><td>MH</td><td>梅堂</td><td>May Hall</td></tr><tr><td>EH</td><td>仪礼堂</td><td>Eliot Hall</td></tr><tr><td>CYC</td><td>庄月明化学楼</td><td>Chong Yuet Ming Chemistry Building</td></tr><tr><td>CYP</td><td>庄月明物理楼</td><td>Chong Yuet Ming Physics Building</td></tr><tr><td>TC</td><td>邓志昂楼</td><td>Tang Chi Ngong Building</td></tr><tr><td>TT</td><td>徐展堂楼</td><td>T.T. Tsui Building</td></tr><tr><td>FP</td><td>冯平山楼</td><td>Fung Ping Shan Building</td></tr><tr><td>KK</td><td>梁𨱇琚楼</td><td>K.K. Leung Building</td></tr><tr><td>JL</td><td>厉树雄科学馆</td><td>James Hsioung Lee Science Building</td></tr><tr><td>HC</td><td>许爱周科学馆</td><td>Hui Oi Chow Science Building</td></tr><tr><td>RR</td><td>邵逸夫楼</td><td>Run Run Shaw Building</td></tr><tr><td>RM</td><td>邵仁枚楼</td><td>Runme Shaw Building</td></tr><tr><td>KB</td><td>钮鲁诗楼</td><td>Knowles Building</td></tr><tr><td>LE</td><td>图书馆延伸大楼</td><td>Library Extension Building</td></tr><tr><td>MB</td><td>本部大楼</td><td>Main Building</td></tr><tr><td>HH</td><td>孔庆荧楼</td><td>Hung Hing Ying Building</td></tr><tr><td>PS</td><td>包兆龙楼</td><td>Pao Siu Loong Building</td></tr><tr><td>KA (KBSB)</td><td>嘉道理生物科学大楼</td><td>Kadoorie Biological Sciences Building</td></tr><tr><td>HW</td><td>黄克竞楼</td><td>Haking Wong Building</td></tr><tr><td>COB</td><td>综合大楼</td><td>Composite Building</td></tr><tr><td>CB</td><td>周亦卿楼</td><td>Chow Yei Ching Building</td></tr></tbody></table>
 
 {% hint style="info" %}
-梁銶琚楼：銶，音 qiú 求，粤音 kau4 求；琚，音 jū 居，粤音 geoi1 居。
+梁𨱇琚楼：𨱇，音 qiú 求，粤音 kau4 求；琚，音 jū 居，粤音 geoi1 居。
 {% endhint %}
 
 #### 1.2. 百周年校园 Centennial Campus
@@ -211,6 +211,10 @@ layout:
 * 田家炳教育图书馆 Tin Ka Ping Education Library：图书馆大楼（旧翼）Library Building (Old Wing) 3/F
 * 高黄慧贞电子艺术图书馆 Ko Wong Wai Ching Wendy Fine Arts Digital Library：图书馆大楼（旧翼）Library Building (Old Wing) 3/F
 
+图书馆大楼 Library Building 内部各层平面图：
+
+{% embed url="https://lib.hku.hk/mainlib/floorplan.html" %}
+
 #### 1.2. 百周年校园
 
 * 吕志和法律图书馆 Lui Che Woo Law Library：郑裕彤教学楼 Cheng Yu Tung Tower 1 - 2/F
@@ -224,7 +228,13 @@ layout:
 
 * 牙医图书馆 Dental Library：菲腊牙科医院 Prince Philip Dental Hospital 5 - 6/F
 
-### 2. 餐饮设施
+### 2. 智华馆 Chi Wah Learning Commons
+
+官方内部平面图：
+
+<figure><img src="../../.gitbook/assets/Chi Wah Learning Commons (1).png" alt=""><figcaption></figcaption></figure>
+
+### 3. 餐饮设施
 
 各餐饮设施开放时间：
 
@@ -292,6 +302,6 @@ layout:
 
 本文基于原新生群文件《8.4 港大主要教学区中英文对照》编写而成。
 
-最后更新于 2026 年 8 月 29 日。
+最后更新于 2026 年 9 月 7 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

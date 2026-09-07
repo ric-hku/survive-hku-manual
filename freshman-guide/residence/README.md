@@ -47,7 +47,7 @@ icon: bed-front
   * 第二学院 College 2
   * 蔡加赞学院 Karson Choi College
   * 陈廷骅学院 D. H. Chen College
-* 西高山学生宿舍 High West Student Village
+* 西高山学生村 High West Student Village
   * 学院 A College A
   * 学院 B College B
   * 学院 C College C
@@ -61,7 +61,7 @@ icon: bed-front
 
 #### 其他大学住宿 Other University-Admin Housing
 
-* 学生公寓 Student Flats
+* 学生公寓 Student Flats（中文名非官方）
 
 {% hint style="info" %}
 **“赛马会第一 / 二 / 三舍堂 / 学生村”** 常简称为 “**一 / 二 / 三村**”。
@@ -72,7 +72,7 @@ icon: bed-front
 {% endhint %}
 
 {% hint style="warning" %}
-在《HKU 生存手册》中，我们采用 **“一村”、“二村”、“三村”、“沙宣道”、“四村（黄竹坑）”** 的名称。
+在《HKU 生存手册》中，我们采用 **“一村”、“二村”、“三村”、“沙宣道”、“四村（黄竹坑）”、“西高山”** 的名称。
 {% endhint %}
 
 {% hint style="info" %}
@@ -91,7 +91,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 除了官方介绍，也可以看我们的 [各宿舍详细介绍](details/)，了解各个宿舍的细节和入住体验！
 
-<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260829.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/住宿交通地图 - 港岛 20260908.png" alt=""><figcaption></figcaption></figure>
 
 ## 二、找到最适合自己的舍堂
 
@@ -110,7 +110,7 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 * C. 我不想有室友，希望能住在**单人间**。
 
-→ **利玛窦宿舍；圣约翰学院；四村（黄竹坑）。**\
+→ **利玛窦宿舍；圣约翰学院；四村（黄竹坑）；西高山。**\
 这些宿舍**只有单人间**。
 
 {% hint style="warning" %}
@@ -294,7 +294,11 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 ### Q7. 申请宿舍后需要面试吗？
 
-**圣约翰学院**基本会有**线上面试**，需要提前做好准备。**其他宿舍通常不需要。**
+**圣约翰学院**基本会有**线上面试**，需要提前做好准备；三村也有部分学院需要面试。
+
+对于非本地身份的学生，其他宿舍通常不需要面&#x8BD5;**。**
+
+对于本地身份的学生，申请舍堂时有一定可能要求面试。
 
 ### Q8. 什么时候能住在宿舍？
 
@@ -318,6 +322,6 @@ CEDARS 对各宿舍的**官方介绍**：[Residence options - University Accommo
 
 本文基于原新生群文件《3.1 选Hall综合指南》编写而成。
 
-最后更新于 2026 年 8 月 29 日。
+最后更新于 2026 年 9 月 8 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

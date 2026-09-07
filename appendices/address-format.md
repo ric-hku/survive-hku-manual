@@ -43,7 +43,7 @@ Zhejiang Prov. 311708, P. R. China
 中国上海市静安区余姚路 180 弄新丰小区 8 号 101 室（邮编：200040）
 
 Rm. 101, No. 8, Xinfeng Community\
-Lane 180, Yuyao Rd., Jing'an Dist. \
+Lane 180, Yuyao Rd., Jing'an Dist.\
 Shanghai 200040, P. R. China
 
 {% hint style="info" %}
@@ -68,9 +68,9 @@ Shanghai 200040, P. R. China
 
 中文：
 
-香港、九龙或新界\
-乡村、市镇或地区名称\
-街道名称及门牌号数\
+香港、九龙或新界\
+乡村、市镇或地区名称\
+街道名称及门牌号数\
 建筑物名称、楼层、单位 / 室
 
 英文：
@@ -134,7 +134,7 @@ HONG KONG
     Wei Lun Hall, 6D Sassoon Road
   * 利希慎堂 Lee Hysan Hall\
     Lee Hysan Hall, 6B Sassoon Road
-* 西高山学生宿舍 High West Student Village\
+* 西高山学生村 High West Student Village\
   High West Student Village, 142 Pokfulam Road, Hong Kong
 * 大学堂 University Hall (U-Hall)\
   University Hall, 144 Pokfulam Road, Hong Kong
@@ -144,7 +144,7 @@ HONG KONG
   \[College Name], HKU Jockey Club Student Village IV, 4 Police School Road, Wong Chuk Hang
 * 青莲台宿舍 Ching Lin Terrace Residence\
   Ching Lin Terrace Residence, 10 Ching Lin Terrace, Kennedy Town, Hong Kong
-* 学生公寓 Student Flats\
+* 学生公寓 Student Flats（中文名非官方）\
   Student Flats, 6 Sassoon Road, Hong Kong
 
 ***
@@ -155,4 +155,4 @@ HONG KONG
 * [Postal addressing system - Hongkong, China - UPU](https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hkgEn.pdf)
 * [香港邮政 - 正确地址](https://www.hongkongpost.hk/sc/about_us/tips/correct_address/index.html)
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 9 月 8 日。

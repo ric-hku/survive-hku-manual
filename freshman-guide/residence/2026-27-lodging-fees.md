@@ -53,7 +53,7 @@ description: 是的，每个宿舍的费用是不一样的。
   * 第一期：HKD 9,946
   * 第二期：HKD 10,831
 
-### 西高山学生宿舍 High West Student Village
+### 西高山学生村 High West Student Village
 
 * 单人间：HKD 75,200 / 年
   * 第一期：HKD 36,000
@@ -101,4 +101,4 @@ description: 是的，每个宿舍的费用是不一样的。
 本文基于 CEDARS 文件\
 [Lodging Fees for Students Residing in Residential Halls, Residential Colleges and Student Residences Year 2026\~2027](https://www.cedars.hku.hk/sections/Accommodation/files/hallcharges.pdf) （英文）的内容编写而成。
 
-最后更新于 2026 年 6 月 28 日。
+最后更新于 2026 年 9 月 8 日。

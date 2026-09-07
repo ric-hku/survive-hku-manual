@@ -32,11 +32,12 @@
   * 第二学院 College 2
   * 蔡加赞学院 Karson Choi College
   * 陈廷骅学院 D. H. Chen College
-* 西高山学生宿舍 High West Student Village
+* 西高山学生村 High West Student Village
 
 #### 其他 Others
 
 * [青莲台宿舍 Ching Lin Terrace Residence](ching-lin-terrace-residence.md)
+* 学生公寓 Student Flats（中文名非官方）
 
 ***
 
@@ -44,6 +45,6 @@
 
 本部分文章基于原新生群文件《part 4 各Hall详细介绍》编写而成。
 
-最后更新于 2025 年 9 月 1 日。
+最后更新于 2026 年 9 月 8 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

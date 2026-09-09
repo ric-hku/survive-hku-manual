@@ -1,10 +1,8 @@
 ---
-hidden: true
 icon: graduation-cap
-metaLinks: {}
 ---
 
-# 2026 – 27 本科课程一览
+# 2027 – 28 本科课程一览
 
 {% hint style="info" %}
 说明：
@@ -12,7 +10,7 @@ metaLinks: {}
 1. “课程” 是对英文 “**Programme**” 的翻译；
 2. 格式：**课程编号 中文名称 英文名称及简称 \[学制，默认4年]**；
 3. 由多个学院管理的课程，在每个所属学院下方均列出；
-4. 本表仅列出 **2026-27 学年** 招生的课程（不包括海内外合作本科课程），按课程编号排列；
+4. 本表仅列出 **2026-27 学年** 招生的课程，按课程编号排列；
 5. 对于需要进一步确定主修科目或学习方向的课程，可供选择的主修科目或学习方向列在课程下方，按名称排列。
 {% endhint %}
 
@@ -43,10 +41,12 @@ metaLinks: {}
   * 哲学 Philosophy
   * 翻译 Translation
 * 6066 文学士及教育学士（语文教育）– 英文教育 Bachelor of Arts and Bachelor of Education in Language Education - English, BA\&BEd(LangEd)-Eng \[5年]
-* 6080 文学士及教育学士（语文教育）– 中文教育 Bachelor of Arts and Bachelor of Education in Language Education - Chinese, BA\&BEd(LangEd)-Chin \[5年]
 * 6078 文学士及法学士 Bachelor of Arts and Bachelor of Laws, BA\&LLB \[5年]
+* 6080 文学士及教育学士（语文教育）– 中文教育 Bachelor of Arts and Bachelor of Education in Language Education - Chinese, BA\&BEd(LangEd)-Chin \[5年]
 * 6286 文学士（人文及数码科技）Bachelor of Arts in Humanities and Digital Technologies, BA(HDT)
 * 6298 文学士及工学学士（人工智能及数据科学）Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science, BA\&BEng(AI\&DataSc) \[5年]
+* N/A 香港大学－巴黎政治大学联合双学位课程 HKU-Sciences Po Dual Degree Programme \[巴黎2年 + 香港2年]
+* N/A 香港大学－加州大学伯克利分校联合双学位课程 HKU-UC Berkeley Dual Degree Programme \[香港2年 + 加州2年]
 
 ### 经济及工商管理学院 Faculty of Business and Economics（港大经管学院 HKU Business School）
 
@@ -85,7 +85,10 @@ metaLinks: {}
       * 人力资源管理 Human Resource Management
       * 资讯系统及分析 Information Systems and Analytics
       * 市场学 Marketing
-* N/A 创领未来学士（自资课程）Bachelor of Global Leadership, Innovation and Society (Self-financed Programme), BGLIS
+* N/A 港大经管学院－北大光华双学位课程 HKU (Bachelor of Economics and Finance)-PKU “Future Leaders” Dual Bachelor’s Degree in Economics, Finance and Management \[香港2年 + 北京2年]
+* N/A 香港大学－不列颠哥伦比亚大学联合双学位课程 HKU-UBC Dual Degree Programme \[香港1年 + 温哥华2年 + 香港1年]
+* N/A 香港大学－巴黎政治大学联合双学位课程 HKU-Sciences Po Dual Degree Programme \[巴黎2年 + 香港2年]
+* N/A 创领未来学士（自资课程）（主修人工智能 × 人文 × 商业）Bachelor of Global Leadership, Innovation and Society (Self-financed Programme) (Major in AI x Humanities x Business), BGLIS
 
 ### 牙医学院 Faculty of Dentistry
 
@@ -101,6 +104,7 @@ metaLinks: {}
 
 ### 工程学院 Faculty of Engineering
 
+* 6298 文学士及工学学士（人工智能及数据科学）Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science, BA\&BEng(AI\&DataSc) \[5年]
 * 6303 工学学士精英课程 Bachelor of Engineering Elite Programme, BEng(Elite)
   * 土木工程 Civil Engineering
   * 计算机工程 Computer Engineering
@@ -113,7 +117,7 @@ metaLinks: {}
 * 6315 工学学士（数据与系统工程）Bachelor of Engineering in Data and Systems Engineering, BEng(DASE)
 * 6339 工学学士（机械工程）Bachelor of Engineering in Mechanical Engineering, BEng(ME)
 * 6353 工学学士（土木工程）Bachelor of Engineering in Civil Engineering, BEng(CivE)
-* 6377 工学学士与人工智能理学硕士联合课程 Bachelor of Engineering and Master of Science in Engineering in Artificial Intelligence in Engineering, BEng X + MScEng AIE
+* 6377 工学学士与人工智能理学硕士联合课程 Bachelor of Engineering and Master of Science in Engineering in Artificial Intelligence in Engineering, BEng X + MScEng AIE \[4+1年]
   * 土木工程 Civil Engineering
   * 计算机工程 Computer Engineering
   * 数据与系统工程 Data and Systems Engineering
@@ -141,6 +145,7 @@ metaLinks: {}
   * 计算机工程 Computer Engineering
   * 电机工程 Electrical Engineering
   * 电子工程 Electronic Engineering
+* N/A 香港大学－剑桥大学本科招生计划（工程学）HKU-Cambridge Undergraduate Recruitment Scheme (Engineering) \[香港2年 + 剑桥3年]
 
 ### 法律学院 Faculty of Law
 
@@ -149,22 +154,33 @@ metaLinks: {}
 * 6808 工商管理学学士（法学）及法学士 Bachelor of Business Administration (Law) and Bachelor of Laws, BBA(Law)\&LLB \[5年]
 * 6810 社会科学学士（政治学与法学）及法学士 Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws, BSocSc(Govt\&Laws)\&LLB \[5年]
 * 6858 理学士及法学士 Bachelor of Science and Bachelor of Laws, BSc\&LLB \[5年]
+* N/A 香港大学－伦敦大学学院联合双学位课程 HKU-UCL Dual Degree Program \[伦敦2年 + 香港2年]
+* N/A 香港大学－北京大学联合双学位课程（法学）HKU-PKU Dual Degree Programme in Law \[北京2.5年 + 香港2.5年]
 
 ### 李嘉诚医学院 Li Ka Shing Faculty of Medicine
 
 * 6250 文理学士（环球卫生及发展）Bachelor of Arts and Sciences in Global Health and Development, BASc(GHD)
 * 6418 护理学学士菁英领袖培育专修组别 Bachelor of Nursing Advanced Leadership Track, BNurs-ALT \[5年]
 * 6456 内外全科医学士 Bachelor of Medicine and Bachelor of Surgery, MBBS \[6年]
+* 6626 内外全科医学士 – 杰出医科学人 Bachelor of Medicine and Bachelor of Surgery (Distinguished MedScholar), MBBS(DMS) \[6年]
 * 6468 护理学学士 Bachelor of Nursing, BNurs \[5年]
 * 6482 中医全科学士 Bachelor of Chinese Medicine, BChinMed \[6年]
 * 6494 药剂学学士 Bachelor of Pharmacy, BPharm
-* 6626 内外全科医学士 – 杰出医科学人 Bachelor of Medicine and Bachelor of Surgery (Distinguished MedScholar), MBBS(DMS) \[6年]
+* 6925 工学学士（生物医学工程）Bachelor of Engineering in Biomedical Engineering, BEng(BME)
 * 6949 生物医学学士 Bachelor of Biomedical Sciences, BBiomedSc
 * N/A 理学士（护理学）（自资课程）Bachelor of Science in Nursing, BSc(Nurs) (Self-financed Programme)
 
 ### 理学院 Faculty of Science
 
 * 6119 教育学士及理学士 Bachelor of Education and Bachelor of Science, BEd\&BSc \[5年]
+* 6688 科研专才启导课程 Science Master Class, SMC / Bachelor of Science and Master of Research, BSc\&MRes \[4.5-5年]
+  * 生物科学（精研）Biological Sciences (Intensive)
+  * 化学（精研）Chemistry (Intensive)
+  * 生态学及生物多样性（精研）Ecology & Biodiversity (Intensive)
+  * 地质学（精研）Geology (Intensive)
+  * 数学（精研）Mathematics (Intensive)
+  * 分子生物及生物科技（精研）Molecular Biology & Biotechnology (Intensive)
+  * 物理（精研）Physics (Intensive)
 * 6858 理学士及法学士 Bachelor of Science and Bachelor of Laws, BSc\&LLB \[5年]
   * 生物化学 Biochemistry
   * 生物科学 Biological Sciences
@@ -177,14 +193,6 @@ metaLinks: {}
   * 数学 Mathematics
   * 分子生物及生物科技 Molecular Biology & Biotechnology
   * 物理 Physics
-* 6688 科研专才启导课程 Science Master Class, SMC / Bachelor of Science and Master of Research, BSc\&MRes \[4.5-5年]
-  * 生物科学（精研）Biological Sciences (Intensive)
-  * 化学（精研）Chemistry (Intensive)
-  * 生态学及生物多样性（精研）Ecology & Biodiversity (Intensive)
-  * 地质学（精研）Geology (Intensive)
-  * 数学（精研）Mathematics (Intensive)
-  * 分子生物及生物科技（精研）Molecular Biology & Biotechnology (Intensive)
-  * 物理（精研）Physics (Intensive)
 * 6901 理学士 Bachelor of Science, BSc
   * 生物化学 Biochemistry
   * 生物科学 Biological Sciences
@@ -204,6 +212,7 @@ metaLinks: {}
   * 分子生物及生物科技（精研）Molecular Biology & Biotechnology (Intensive)
   * 物理 Physics
   * 物理（精研）Physics (Intensive)
+* N/A 香港大学－剑桥大学本科招生计划（自然科学）HKU-Cambridge Undergraduate Recruitment Scheme (Natural Sciences) \[香港2年 + 剑桥3年]
 
 ### 社会科学学院 Faculty of Social Sciences
 
@@ -225,6 +234,9 @@ metaLinks: {}
 * 6731 社会工作学士 Bachelor of Social Work, BSW
 * 6810 社会科学学士（政治学与法学）及法学士 Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws, BSocSc(Govt\&Laws)\&LLB \[5年]
 * 6822 新闻媒体及人工智能学士 Bachelor of Journalism, Media and Artificial Intelligence, BJMAI
+* N/A 香港大学－巴黎政治大学联合双学位课程 HKU-Sciences Po Dual Degree Programme \[巴黎2年 + 香港2年]
+* N/A 香港大学及日内瓦高等学院双学位课程 HKU-Geneva Graduate Institute Dual Degree Programme \[香港3年 + 日内瓦2年]
+* N/A 香港大学－加州大学伯克利分校联合双学位课程 HKU-UC Berkeley Dual Degree Programme \[香港2年 + 加州2年]
 
 ### 生物医学工程学院 School of Biomedical Engineering
 
@@ -236,18 +248,18 @@ metaLinks: {}
 
 ### 计算与数据科学学院 School of Computing and Data Science
 
-* 6200 计算与数据科学（港沪科技菁英）Computing and Data Science (Delta+), CDS(Delta+)
-  * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng(CompSc)
-  * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science BEng(AI\&DataSc)
-* 6224 文理学士（应用人工智能）Bachelor of Arts and Sciences in Applied Artificial Intelligence, BASc(AppliedAI)
 * 6248 文理学士（金融科技）Bachelor of Arts and Sciences in Financial Technology, BASc(FinTech)
-* 6298 文学士及工学学士（人工智能及数据科学）Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science, BA\&BEng(AI\&DataSc) \[5年]
 * 6729 理学士（精算学）Bachelor of Science in Actuarial Science, BSc(ActuarSc)
 * 6779 统计决策科学 Statistical Decision Sciences, SDS
   * 统计学学士（决策分析学）Bachelor of Statistics (Decision Analytics), BStat(DA)
   * 统计学学士（风险管理学）Bachelor of Statistics (Risk Management), BStat(RM)
   * 统计学学士（统计学）Bachelor of Statistics (Statistics), BStat(ST)
+* 6224 文理学士（应用人工智能）Bachelor of Arts and Sciences in Applied Artificial Intelligence, BASc(AppliedAI)
+* 6298 文学士及工学学士（人工智能及数据科学）Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science, BA\&BEng(AI\&DataSc) \[5年]
 * 6999 计算与数据科学 Computing and Data Science, CDS
+  * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng(CompSc)
+  * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science BEng(AI\&DataSc)
+* 6200 计算与数据科学（港沪科技菁英）Computing and Data Science (Delta+), CDS(Delta+)
   * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng(CompSc)
   * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science BEng(AI\&DataSc)
 
@@ -288,4 +300,4 @@ BEng(CompSc)、BASc(FinTech) 由工程学院、计算机科学系（Department o
 
 * [本科课程 | Admissions Office, the Registry](https://admissions.hku.hk/zh-hans/programmes/undergraduate-programmes)
 
-最后更新于 2026 年 7 月 3 日。
+最后更新于 2026 年 9 月 9 日。

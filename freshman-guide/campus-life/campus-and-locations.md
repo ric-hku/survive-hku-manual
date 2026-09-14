@@ -35,7 +35,7 @@ layout:
 
 #### 1.1. 本部校园 Main Campus
 
-<table data-header-hidden="false" data-header-sticky><thead><tr><th>缩写 Abbr.</th><th>中文 Chinese</th><th>英文 English</th></tr></thead><tbody><tr><td>GH</td><td>研究生堂</td><td>Graduate House</td></tr><tr><td>MW</td><td>明华综合大楼</td><td>Meng Wah Complex</td></tr><tr><td>MH</td><td>梅堂</td><td>May Hall</td></tr><tr><td>EH</td><td>仪礼堂</td><td>Eliot Hall</td></tr><tr><td>CYC</td><td>庄月明化学楼</td><td>Chong Yuet Ming Chemistry Building</td></tr><tr><td>CYP</td><td>庄月明物理楼</td><td>Chong Yuet Ming Physics Building</td></tr><tr><td>TC</td><td>邓志昂楼</td><td>Tang Chi Ngong Building</td></tr><tr><td>TT</td><td>徐展堂楼</td><td>T.T. Tsui Building</td></tr><tr><td>FP</td><td>冯平山楼</td><td>Fung Ping Shan Building</td></tr><tr><td>KK</td><td>梁𨱇琚楼</td><td>K.K. Leung Building</td></tr><tr><td>JL</td><td>厉树雄科学馆</td><td>James Hsioung Lee Science Building</td></tr><tr><td>HC</td><td>许爱周科学馆</td><td>Hui Oi Chow Science Building</td></tr><tr><td>RR</td><td>邵逸夫楼</td><td>Run Run Shaw Building</td></tr><tr><td>RM</td><td>邵仁枚楼</td><td>Runme Shaw Building</td></tr><tr><td>KB</td><td>钮鲁诗楼</td><td>Knowles Building</td></tr><tr><td>LE</td><td>图书馆延伸大楼</td><td>Library Extension Building</td></tr><tr><td>MB</td><td>本部大楼</td><td>Main Building</td></tr><tr><td>HH</td><td>孔庆荧楼</td><td>Hung Hing Ying Building</td></tr><tr><td>PS</td><td>包兆龙楼</td><td>Pao Siu Loong Building</td></tr><tr><td>KA (KBSB)</td><td>嘉道理生物科学大楼</td><td>Kadoorie Biological Sciences Building</td></tr><tr><td>HW</td><td>黄克竞楼</td><td>Haking Wong Building</td></tr><tr><td>COB</td><td>综合大楼</td><td>Composite Building</td></tr><tr><td>CB</td><td>周亦卿楼</td><td>Chow Yei Ching Building</td></tr></tbody></table>
+<table data-header-hidden="false" data-header-sticky><thead><tr><th>缩写 Abbr.</th><th>中文 Chinese</th><th>英文 English</th></tr></thead><tbody><tr><td>GH</td><td>研究生堂</td><td>Graduate House</td></tr><tr><td>MW</td><td>明华综合大楼</td><td>Meng Wah Complex</td></tr><tr><td>MH</td><td>梅堂</td><td>May Hall</td></tr><tr><td>EH</td><td>仪礼堂</td><td>Eliot Hall</td></tr><tr><td>CYC</td><td>庄月明化学楼</td><td>Chong Yuet Ming Chemistry Building</td></tr><tr><td>CYP</td><td>庄月明物理楼</td><td>Chong Yuet Ming Physics Building</td></tr><tr><td>TC</td><td>邓志昂楼</td><td>Tang Chi Ngong Building</td></tr><tr><td>TT</td><td>徐展堂楼</td><td>T.T. Tsui Building</td></tr><tr><td>FP</td><td>冯平山楼</td><td>Fung Ping Shan Building</td></tr><tr><td>KK</td><td>梁𨱇琚楼</td><td>K.K. Leung Building</td></tr><tr><td>JL (JHL)</td><td>厉树雄科学馆</td><td>James Hsioung Lee Science Building</td></tr><tr><td>HC (HOC)</td><td>许爱周科学馆</td><td>Hui Oi Chow Science Building</td></tr><tr><td>RR</td><td>邵逸夫楼</td><td>Run Run Shaw Building</td></tr><tr><td>RM</td><td>邵仁枚楼</td><td>Runme Shaw Building</td></tr><tr><td>KB</td><td>钮鲁诗楼</td><td>Knowles Building</td></tr><tr><td>LE</td><td>图书馆延伸大楼</td><td>Library Extension Building</td></tr><tr><td>MB</td><td>本部大楼</td><td>Main Building</td></tr><tr><td>HH</td><td>孔庆荧楼</td><td>Hung Hing Ying Building</td></tr><tr><td>PS</td><td>包兆龙楼</td><td>Pao Siu Loong Building</td></tr><tr><td>KA (KBSB)</td><td>嘉道理生物科学大楼</td><td>Kadoorie Biological Sciences Building</td></tr><tr><td>HW</td><td>黄克竞楼</td><td>Haking Wong Building</td></tr><tr><td>COB</td><td>综合大楼</td><td>Composite Building</td></tr><tr><td>CB</td><td>周亦卿楼</td><td>Chow Yei Ching Building</td></tr></tbody></table>
 
 {% hint style="info" %}
 梁𨱇琚楼：𨱇，音 qiú 求，粤音 kau4 求；琚，音 jū 居，粤音 geoi1 居。
@@ -53,7 +53,7 @@ layout:
 
 以 CPD-2.14、KKLG101、KB204 为例：
 
-* CPD（百周年校园平台）、KK（梁銶琚楼）、KB（钮鲁诗楼）为建筑物；
+* CPD（百周年校园平台）、KK（梁𨱇琚楼）、KB（钮鲁诗楼）为建筑物；
 * 2（二层）、LG1（低层地下一层）为楼层数。
 
 此外，一些比较大型的课室，会有其他的格式。详见下文 “2.3. 部分大型课室的位置”。
@@ -154,7 +154,7 @@ layout:
 
 中山广场 Sun Yat-sen Place：中山阶下方，图书馆大楼 Library Building G/F 和钮鲁诗楼 Knowles Building G/F 间的平台。
 
-梁銶琚楼大堂 K. K. Leung Building Concourse：梁銶琚楼 K. K. Leung Building G/F 的大堂。
+梁𨱇琚楼大堂 K. K. Leung Building Concourse：梁𨱇琚楼 K. K. Leung Building G/F 的大堂。
 
 ## 二、沙宣道校园及其他地方 Sassoon Road Campus & Others
 
@@ -302,6 +302,6 @@ layout:
 
 本文基于原新生群文件《8.4 港大主要教学区中英文对照》编写而成。
 
-最后更新于 2026 年 9 月 7 日。
+最后更新于 2026 年 9 月 14 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

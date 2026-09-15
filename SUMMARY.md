@@ -100,3 +100,4 @@
 * [2026 – 27 校历、假期](appendices/2026-27-calendar.md)
 * [恶劣天气时的特别安排](appendices/bad-weather.md)
 * [香港大学校歌《港大礼赞》](appendices/university-anthem.md)
+* [关于勘误](appendices/guan-yu-kan-wu.md)

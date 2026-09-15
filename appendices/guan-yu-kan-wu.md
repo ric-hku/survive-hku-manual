@@ -1,3 +1,7 @@
+---
+icon: square-x
+---
+
 # 关于勘误
 
 此文档历届RIC庄友整理并更新，目前是RIC新媒体的几位现庄在维护。
@@ -10,3 +14,4 @@
 
 Love & Peace \~
 
+<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>

@@ -30,13 +30,6 @@ icon: house-chimney
 * [新生活动](freshman-guide/freshmen-activities/)
 * [校园生活](freshman-guide/campus-life/)
 
-此外，关于在港大和香港的日常生活，这里也有：
-
-* [住宿相关（租房、Readmission 等）](daily-life/accommodation.md)
-* [校园生活（校园设施等）](daily-life/campus-life.md)
-* [日常娱乐（吃饭、旅游等）](daily-life/entertainment.md)
-* [学业相关（转专业、交换、Gap/Defer 等）](daily-life/academics.md)
-
 ## **在哪里可以找到《HKU 生存手册》？**
 
 《HKU 生存手册》网页版网址：[https://ric-hku.gitbook.io/survive-hku-manual](https://ric-hku.gitbook.io/survive-hku-manual)

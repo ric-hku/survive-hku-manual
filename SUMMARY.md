@@ -7,6 +7,7 @@
 
 * [RIC 介绍](freshman-guide/ric-intro/README.md)
   * [RIC 使用指南](freshman-guide/ric-intro/ric-guide.md)
+  * [Untitled](freshman-guide/ric-intro/untitled.md)
 * [拿到 Offer 后要做什么](freshman-guide/to-do-list.md)
 * [签证指南](freshman-guide/visa/README.md)
   * [签证申请详细指南](freshman-guide/visa/application.md)

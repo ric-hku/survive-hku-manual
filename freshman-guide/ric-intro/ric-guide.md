@@ -14,7 +14,7 @@
 * 生活信息：住宿、身心健康、时间节点、校园生活、证件办理的相关推送
 * 活动合集：RIC 往期活动的相关推送
 
-![chunk-0-img-1.jpeg](<../../.gitbook/assets/chunk-0-img-1 (5).jpeg>)
+![](<../../.gitbook/assets/chunk-0-img-1 (5).jpeg>)
 
 ### 搜索平台
 

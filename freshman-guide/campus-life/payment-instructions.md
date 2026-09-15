@@ -36,7 +36,7 @@ description: 如何优雅地交学费 / 住宿费～
 
 在 HKU Portal 里选择 Financial Services > Invoice Payment，打开支付平台。
 
-进入后，根据指示输入支付金额，并点击 WeChat Pay / AlipayHK / Alipay 生成二维码。
+进入后，根据指示选择账单类型，然后输入支付金额（默认为账单全额），并点击 WeChat Pay / AlipayHK / Alipay 生成二维码。
 
 可以选择**微信支付**、**支付宝**或**支付宝香港**进行支付。
 
@@ -353,6 +353,8 @@ description: 如何优雅地交学费 / 住宿费～
 {% endhint %}
 
 一般来说，非本地学生的学费是以入学年度的为准；本地学生的则以当下年度的为准。也就是说：如果将来学费发生变化，**非本地学生的学费保持与入学年度的一样**；**本地学生的则随之变化**。
+
+
 
 {% hint style="info" %}
 有关**本地学生**的定义，请参阅 [本地及非本地学生的定义](../../appendices/local-definition.md)。

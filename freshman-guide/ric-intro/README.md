@@ -8,6 +8,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -23,6 +24,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -56,8 +59,6 @@ layout:
     * 新媒体
     * 美工设计
     * 程序员
-
-<figure><img src="../../.gitbook/assets/ric_structure_new.svg" alt=""><figcaption></figcaption></figure>
 
 ## 三、RIC 大事记
 
@@ -116,7 +117,7 @@ layout:
 
 本文基于原新生群文件《1.2 RIC介绍》编写而成。
 
-最后更新于 2026 年 4 月 3 日。
+最后更新于 2026 年 9 月 16 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。
 

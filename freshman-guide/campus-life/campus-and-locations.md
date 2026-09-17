@@ -23,6 +23,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 校园及地点指南
@@ -156,7 +158,7 @@ layout:
 
 梁𨱇琚楼大堂 K. K. Leung Building Concourse：梁𨱇琚楼 K. K. Leung Building G/F 的大堂。
 
-## 二、沙宣道校园及其他地方 Sassoon Road Campus & Others
+## 二、沙宣道校园及玛丽医院 Sassoon Road Campus & Queen Mary Hospital
 
 <figure><img src="../../.gitbook/assets/HKU SR Campus Map SimonSunCHN 20260825.png" alt=""><figcaption></figcaption></figure>
 
@@ -190,13 +192,35 @@ layout:
 * 实验室楼 Laboratory Block。
 {% endhint %}
 
-### 2. 牙医学院 Faculty of Dentistry
+## 三、牙医学院 Faculty of Dentistry
 
-位于菲腊牙科医院 Prince Philip Dental Hospital，缩写 PP/PPDH。
+位于菲腊牙科医院 Prince Philip Dental Hospital，缩写为 PP / PPDH。
 
 地址：西营盘医院道 34 号 No. 34 Hospital Road, Sai Ying Pun
 
-## 三、图书馆、餐饮等设施
+## 四、其他教学地点
+
+{% hint style="info" %}
+这里列出的其他教学地点一般本科生较少，研究生较多。
+{% endhint %}
+
+### 1. 数码港 Cyberport
+
+地址：数码港道 100 号 100 Cyberport Road
+
+* C1：Cyberport 1 数码港 1 座
+* C2：Cyberport 2 数码港 2 座
+* C3：Cyberport 3 数码港 3 座
+* C4A：Cyberport 4, Block A 数码港 4 座 A 座
+* C4B：Cyberport 4, Block B 数码港 4 座 B 座
+
+### 2. 太平洋广场 Pacific Plaza
+
+计算与数据科学学院（硕士课程办公室）的所在地。缩写为 PAP。
+
+地址：西营盘 德辅道西 418 号 418 Des Voeux Road West, Sai Ying Pun
+
+## 五、图书馆、智华馆、餐饮设施及体育设施
 
 ### 1. 图书馆（含图书馆管理的学习设施）
 
@@ -274,7 +298,7 @@ layout:
 * 康心食坊 Wholesome Hub：实验室楼 Laboratory Block G/F 升降机大堂 Lift Lobby
 * 壹八捌七 The 1887：蒙民伟楼 William M.W. Mong Block 7/F
 
-### 3. CSE 体育设施
+### 4. CSE 体育设施
 
 * HKU B-Active：石塘咀 皇后大道西 460 号 翰林峰 Novum Place 1/F
   * 港铁香港大学站 B1 出口附近
@@ -302,6 +326,6 @@ layout:
 
 本文基于原新生群文件《8.4 港大主要教学区中英文对照》编写而成。
 
-最后更新于 2026 年 9 月 14 日。
+最后更新于 2026 年 9 月 17 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

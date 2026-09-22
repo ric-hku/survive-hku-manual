@@ -275,9 +275,9 @@ layout:
 * 赛百味 SUBWAY：邵逸夫平台 Run Run Shaw Podium
 * 美国三文治公司 Kiosk by The Sandwich Club：邵逸夫平台 Run Run Shaw Podium
 * 城市咖啡烘焙 Urban Coffee Roaster：图书馆大楼（旧翼）Library Building (Old Wing) G/F
-* Union Restaurant：黄克竞楼 Haking Wong Building 4/F（平台 Podium）
+* 黄克竞大楼餐厅 Union Restaurant：黄克竞楼 Haking Wong Building 4/F（平台 Podium）
 * Vending Nook：综合大楼 Composite Building G/F 店铺 G. 05 & G. 06
-* 星巴克 Starbucks Coffee：综合大楼 Composite Building G/F 店铺 G. 03
+* 星巴克咖啡 Starbucks Coffee：综合大楼 Composite Building G/F 店铺 G. 03
 * 台台果腹 TAI TAI FOODTOPIA：综合大楼 Composite Building G/F 店铺 G. 02
 * 我家韩食府 OORI HANSIK：综合大楼 Composite Building G/F 店铺 G. 01
 
@@ -291,10 +291,10 @@ layout:
 #### 2.3. 沙宣道校园
 
 * Grove：沙宣道三号医学院学术楼 Academic Building at No. 3 Sassoon Road 2/F
-* 美国三文治公司 Sandwich Club Kiosk：沙宣道六号 6 Sassoon Road G/F
+* Sandwich Club Kiosk：沙宣道六号 6 Sassoon Road G/F
 * Pizza Express Kiosk：赛马会跨学科研究大楼 HKJC Building for Interdisciplinary Research G/F
 * 赛百味 SUBWAY：实验室楼 Laboratory Block LG/F 芬培花园 Fan Pui Garden
-* 星巴克 Coffee Kiosk by Starbucks Coffee：蒙民伟楼 William M.W. Mong Block G/F 大堂 Lobby
+* 星巴克咖啡 Coffee Kiosk by Starbucks Coffee：蒙民伟楼 William M.W. Mong Block G/F 大堂 Lobby
 * 康心食坊 Wholesome Hub：实验室楼 Laboratory Block G/F 升降机大堂 Lift Lobby
 * 壹八捌七 The 1887：蒙民伟楼 William M.W. Mong Block 7/F
 
@@ -326,6 +326,6 @@ layout:
 
 本文基于原新生群文件《8.4 港大主要教学区中英文对照》编写而成。
 
-最后更新于 2026 年 9 月 17 日。
+最后更新于 2026 年 9 月 22 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

@@ -292,7 +292,6 @@ layout:
 
 * Grove：沙宣道三号医学院学术楼 Academic Building at No. 3 Sassoon Road 2/F
 * Sandwich Club Kiosk：沙宣道六号 6 Sassoon Road G/F
-* Pizza Express Kiosk：赛马会跨学科研究大楼 HKJC Building for Interdisciplinary Research G/F
 * 赛百味 SUBWAY：实验室楼 Laboratory Block LG/F 芬培花园 Fan Pui Garden
 * 星巴克咖啡 Coffee Kiosk by Starbucks Coffee：蒙民伟楼 William M.W. Mong Block G/F 大堂 Lobby
 * 康心食坊 Wholesome Hub：实验室楼 Laboratory Block G/F 升降机大堂 Lift Lobby

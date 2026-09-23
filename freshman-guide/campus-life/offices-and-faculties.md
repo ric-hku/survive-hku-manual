@@ -18,7 +18,27 @@ description: Major Offices & Faculties (Schools)
 本文所有电话号码都是香港电话号码。香港的国际电话区号为 852。
 {% endhint %}
 
-## 一、学校主要部门 Major/Key Offices
+## 一、教务处下属部门 Sections/Offices of the Registry
+
+{% hint style="warning" %}
+由于服务重组，位于 9/F, Knowles Building（钮鲁诗楼 9 楼）的教务处服务柜台已于 2026 年 6 月 30 日后**永久关闭**。
+
+需要联系以下部门的同学，如果所需服务位于上述地址，建议改以电话、电邮等方式联系：
+
+* 学业指导及奖学金事务处 Academic Advising and Scholarships Office (AASO)
+  * 奖学金组 Scholarships Team
+* 学术联络部 Academic Liaison Office (ALO)
+  * 中国视野 China Vision
+  * 国际事务处 International Affairs Office (IAO)
+  * 内地事务处 Mainland Affairs Office (MAO)
+* 学务及考试部 Academic Support and Examinations Section
+* 课程发展及质素保证部 Curriculum Development and Quality Assurance Section (CDQA)
+* 科研事务部 Research Services
+
+等部门。
+
+具体信息详见：[Closure of Registry Service Counter on 9/F of Knowles Building](https://intraweb.hku.hk/reserved_1/gsabc/Notice.pdf)（需登录 HKU Portal）
+{% endhint %}
 
 {% hint style="info" %}
 此处部门仅为一部分，按字母顺序排序。排序时忽略 “Center of”、“Center for” 等词语。
@@ -26,7 +46,7 @@ description: Major Offices & Faculties (Schools)
 
 ### 学业指导及奖学金事务处 Academic Advising and Scholarships Office (AASO)
 
-教务处（Registry）的下属部门之一，提供学业指导（Academic Advising）和奖学金（Scholarships）两方面服务。
+提供学业指导（Academic Advising）和奖学金（Scholarships）两方面服务。
 
 {% embed url="https://aas.hku.hk/" %}
 
@@ -38,9 +58,88 @@ description: Major Offices & Faculties (Schools)
   * 学业指导：[ug.advising@hku.hk](mailto:ug.advising@hku.hk)
   * 奖学金：[scholarships@hku.hk](mailto:scholarships@hku.hk)
 
-### 学务办公室 Academic Services Office (ASO)
+### 学术联络部 Academic Liaison Office (ALO)
 
-教务处（Registry）下属的学务及考试部（Academic Support and Examinations Section, ASE）的部门之一，提供学历证明书（Testimonial）、学业成绩表（Transcript）等文件的申请。
+主要负责对外交流等的有关事务。下属中国视野、国际事务处、内地事务处、暑期项目、访客中心等部门。
+
+{% embed url="https://alo.hku.hk/" %}
+
+* 官网：[https://alo.hku.hk/](https://alo.hku.hk/)
+* 电邮：[aloenquiry@hku.hk](mailto:aloenquiry@hku.hk)
+
+#### 中国视野 China Vision
+
+提供前往中国内地的体验式学习机会。
+
+{% embed url="https://www.chinavision.hku.hk/" %}
+
+* 官网：[https://www.chinavision.hku.hk/](https://www.chinavision.hku.hk/)
+* 电邮：[chinavision@hku.hk](mailto:chinavision@hku.hk)
+
+#### 国际事务处 International Affairs Office (IAO)
+
+负责与海外机构沟通、学生交流、学术合作和文化活动等事宜（如学生交换、访学活动等）。
+
+{% embed url="https://intlaffairs.hku.hk/" %}
+
+* 官网：[https://intlaffairs.hku.hk/](https://intlaffairs.hku.hk/)
+* 地址：9/F, Knowles Building
+* 电邮：
+  * 关于港大学生赴外校学习：[goabroad@hku.hk](mailto:goabroad@hku.hk)
+  * 关于外校学生赴港大学习：[exchange@hku.hk](mailto:exchange@hku.hk)
+* 电话：
+  * 关于港大学生赴外校学习：3917 3902
+  * 关于外校学生赴港大学习：3917 8040
+
+#### 内地事务处 Mainland Affairs Office (MAO)
+
+负责与中国内地机构联系，进行学术合作、科研交流、学术交流活动等。
+
+{% embed url="https://www.mainlandaffairs.hku.hk/" %}
+
+* 官网：[https://www.mainlandaffairs.hku.hk/](https://www.mainlandaffairs.hku.hk/)
+* 地址：9/F, Knowles Building
+* 电邮：[mlao@hku.hk](mailto:mlao@hku.hk)
+
+#### 暑期项目 HKU Summer Institute (HKUSI)
+
+为来自世界各地的中学生、本科生和研究生提供暑期学习、文化交流的机会。
+
+{% embed url="https://summerinstitute.hku.hk/" %}
+
+* 官网：[https://summerinstitute.hku.hk/](https://summerinstitute.hku.hk/)
+* 地址：G/F, Fong Shu Chuen  &#x20;Amenities Centre
+* 电邮：
+  * 本科生、研究生项目：[ugsummer@hku.hk](mailto:ugsummer@hku.hk)
+  * 中学生项目：[hssummer@hku.hk](mailto:hssummer@hku.hk)
+
+#### 访客中心 Visitor Centre
+
+负责管理香港大学访客中心、香港大学合作社（HKU Campus Store）等，出售纪念品、文具等。
+
+{% embed url="https://www.visitorcentre.hku.hk/" %}
+
+* 官网：[https://www.visitorcentre.hku.hk/](https://www.visitorcentre.hku.hk/)
+* 地址：
+  * 访客中心：G/F, Centennial Campus
+  * 合作社：UG1/F, Composite Building
+* 电话：
+  * 访客中心：3917 7853
+  * 合作社：3910 2928
+* 电邮：[visitorcentre@hku.hk](mailto:visitorcentre@hku.hk)
+
+### 学务及考试部 Academic Support and Examinations Section
+
+主要负责学生档案、考试等的有关事务。下属学务办公室、考试事务处、学生档案处等部门。
+
+{% embed url="https://ase.hku.hk/" %}
+
+* 官网：[https://ase.hku.hk/](https://ase.hku.hk/)
+* 联系方式等：详见官网。
+
+#### 学务办公室 Academic Services Office (ASO)
+
+提供学历证明书（Testimonial）、学业成绩表（Transcript）、毕业证明（Certificate of Graduation）等文件的申请。
 
 {% embed url="https://ase.hku.hk/asoffice/" %}
 
@@ -49,23 +148,82 @@ description: Major Offices & Faculties (Schools)
 * 电话：3917 2433
 * 电邮：[asoffice@hku.hk](mailto:asoffice@hku.hk)
 
+#### 考试事务处 Examinations Office
+
+教务处（Registry）下属的学务及考试部（Academic Support and Examinations Section, ASE）的部门之一，负责考试相关事宜（如考试安排、历年真题、考试规定、计算器使用等）和中央管理教室的分配等。
+
+{% embed url="http://www.exam.hku.hk/" %}
+
+* 官网：[http://www.exam.hku.hk/](http://www.exam.hku.hk/)
+* 地址：Room 238 & 239B, 2/F, Main Building
+* 电话：
+  * 考试相关：3917 2439
+  * 预订中央管理教室：3917 2445
+* 电邮：
+  * 考试相关：[exam@hku.hk](mailto:exam@hku.hk)
+  * 预订中央管理教室：[roombook@hku.hk](http://www.exam.hku.hk/roombook@hku.hk)
+
 ### 入学事务部 Admissions Office (AO)
 
-教务处（Registry）的下属部门之一，负责收生、入学相关事宜。
+负责收生、入学相关事宜。
 
 {% embed url="https://admissions.hku.hk/" %}
 
 * 官网：[https://admissions.hku.hk/](https://admissions.hku.hk/)
-* 地址：MG14, Ground Floor, Main Building
+* 地址：MG14, G/F, Main Building
 * 联系方式等：详见官网。
+
+### 课外活动支援处 Co-curricular Support Office (CCSO)
+
+负责学生组织注册、开展课外活动、预订校园设施等事务。
+
+{% embed url="https://ccso.hku.hk/" %}
+
+* 官网：[https://ccso.hku.hk/](https://ccso.hku.hk/)
+* 地址：UG101, UG1/F, Composite Building
+* 电话：3910 2793 / ​3910 2794
+* WhatsApp：3910 2793
+* 电邮：
+  * 一般咨询：[cocso@hku.hk​​​](mailto:cocso@hku.hk)
+  * 设施预订：[ccsobook@hku.hk](mailto:ccsobook@hku.hk)
+
+### 传讯及公共事务处 Communications & Public Affairs Office (CPAO)
+
+负责品牌管理、市场推广、数码及内容创作、媒体与公共事务、出版大学刊物、筹办大学典礼等事务。
+
+{% embed url="https://www.cpao.hku.hk/en/" %}
+
+* 官网：[https://www.cpao.hku.hk/](https://www.cpao.hku.hk/)
+* 电话：3917 2610
+* 电邮：[cpao@hku.hk](mailto:cpao@hku.hk)
+
+### 课程发展及质素保证部 Curriculum Development and Quality Assurance Section (CDQA)
+
+负责课程发展（如学术政策、课程开发等）、教学与学习质量的保障与提升等事务，如开展学生对教育学质素的意见（Student Feedback on Teaching and Learning, SFTL）、学生学习经历问卷（Student Learning Experience Questionnaire, SLEQ）等。
+
+{% embed url="https://cdqa.hku.hk/" %}
+
+* 官网：[https://cdqa.hku.hk/](https://cdqa.hku.hk/)
+* 地址：9/F, Knowles Building
+* 电邮：[cdqa@hku.hk](mailto:cdqa@hku.hk)
+
+## 二、其他主要部门 Other Major/Key Offices
+
+{% hint style="info" %}
+此处部门仅为一部分，按字母顺序排序。排序时忽略 “Center of”、“Center for” 等词语。
+{% endhint %}
 
 ### 校园设施服务处 Campus Services Office (CSO)
 
-原属 CEDARS。
+提供各种校园服务，包括餐饮（膳食、饮用水等）、住宿（研究生堂、柏立基学院）、便利设施（超市、银行、自动售货机等）等。
 
-目前仅餐饮服务（Catering Services）部门，负责管理校园内的餐饮服务，联系方式如下：
+{% embed url="https://cso.hku.hk/" %}
 
-{% embed url="https://catering.hku.hk/" %}
+* 官网：[https://cso.hku.hk/](https://cso.hku.hk/)
+* 电邮：[campus.services@hku.hk](mailto:campus.services@hku.hk)
+* 地址：Robert Black College
+
+#### 膳食服务 Catering Services
 
 * 官网：[https://catering.hku.hk/](https://catering.hku.hk/)
 * 电邮：[catering@hku.hk](mailto:catering@hku.hk)
@@ -93,35 +251,21 @@ description: Major Offices & Faculties (Schools)
 * 电话：3917 4957
 * 电邮：[commoncore@hku.hk](mailto:commoncore@hku.hk)
 
-### 课外活动支援处 Co-curricular Support Office (CCSO)
-
-教务处（Registry）的下属部门之一，负责学生组织注册、开展课外活动、预订校园设施等。
-
-{% embed url="https://ccso.hku.hk/" %}
-
-* 官网：[https://ccso.hku.hk/](https://ccso.hku.hk/)
-* 地址：UG101, UG1/F, Composite Building
-* 电话：3910 2793 / ​3910 2794
-* WhatsApp：3910 2793
-* 电邮：
-  * 一般咨询：[cocso@hku.hk​​​](mailto:cocso@hku.hk)
-  * 设施预订：[ccsobook@hku.hk](mailto:ccsobook@hku.hk)
-
 ### 学生发展及资源中心 Centre of Development and Resources for Students (CEDARS)
 
 {% hint style="info" %}
-这里给出的 CEDARS 各部分的译名并非官方。
+这里给出的 CEDARS 各部门的译名并非官方。
 
 2026 年 7 月 1 日，CEDARS 进行了品牌视觉升级，各个部分的名称同时发生了变化。此处一并给出原名，以便参考。
 {% endhint %}
 
-提供各种学生支持服务、资源，如心理健康、通识教育、住宿、特殊教育需求支持、经济支持、就业等。
+提供各种学生支持服务、资源，如心理健康、学生住宿、多元与包容（特殊教育需求支持）、经济支持、就业支持、学生活动、领导力教育等。
 
 {% embed url="https://www.cedars.hku.hk/" %}
 
 * 官网：[https://www.cedars.hku.hk/](https://www.cedars.hku.hk/)
 
-CEDARS 下属多个部门（其联系方式可在官网找到），包括：
+CEDARS 下属多个部门（其联系方式可在 [这里](https://www.cedars.hku.hk/index.php?route=information/contact/index) 找到），包括：
 
 * 学生支持和包容 Student Support and Inclusion\
   （原：校园生活 Campus Life）
@@ -148,7 +292,7 @@ CEDARS 下属多个部门（其联系方式可在官网找到），包括：
 ### 物业处 Estates Office (EO)
 
 {% hint style="info" %}
-这里给出的 EO 各部分的译名并非官方。
+这里给出的部分部门的译名并非官方。
 {% endhint %}
 
 负责大学的校园规划与开发、项目管理以及设施管理等。
@@ -179,21 +323,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
   * 失物招领处：3917 2883
 * 电邮：
   * [eosecure@hku.hk](mailto:security@estates.hku.hk)（安保相关，含失物招领）
-
-### 考试事务处 Examinations Office
-
-教务处（Registry）下属的学务及考试部（Academic Support and Examinations Section, ASE）的部门之一，负责考试相关事宜（如考试安排、历年真题、考试规定、计算器使用等）和中央管理教室的分配等。
-
-{% embed url="http://www.exam.hku.hk/" %}
-
-* 官网：[http://www.exam.hku.hk/](http://www.exam.hku.hk/)
-* 地址：Room 238 & 239B, 2/F, Main Building
-* 电话：
-  * 考试相关：3917 2439
-  * 预订中央管理教室：3917 2445
-* 电邮：
-  * 考试相关：[exam@hku.hk](mailto:exam@hku.hk)
-  * 预订中央管理教室：[roombook@hku.hk](http://www.exam.hku.hk/roombook@hku.hk)
 
 ### 财务及企业管理处 Finance and Enterprises Office (FEO)
 
@@ -233,28 +362,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
   * 行政管理：3917 2492
   * IT 支援、服务台：3917 0123
 * 电邮：[ithelp@hku.hk](mailto:ithelp@hku.hk)
-
-### 国际事务处 International Affairs Office (IAO)
-
-教务处（Registry）下属的学术联络部（Academic Liaison Office）的部门之一，负责与海外机构沟通、学生交流、学术合作和文化活动等事宜（如学生交换、访学活动等）。
-
-{% embed url="https://intlaffairs.hku.hk/" %}
-
-* 官网：[https://intlaffairs.hku.hk/](https://intlaffairs.hku.hk/)
-* 地址：9/F, Knowles Building
-* 电邮：
-  * 关于港大学生赴外校学习：[goabroad@hku.hk](mailto:goabroad@hku.hk)
-  * 关于外校学生赴港大学习：[exchange@hku.hk](mailto:exchange@hku.hk)
-
-### 内地事务处 Mainland Affairs Office (MAO)
-
-教务处（Registry）下属的学术联络部（Academic Liaison Office）的部门之一，负责与中国内地机构联系，进行学术合作、科研交流、学术交流活动等。
-
-{% embed url="https://intlaffairs.hku.hk/" %}
-
-* 官网：[https://intlaffairs.hku.hk/](https://intlaffairs.hku.hk/)
-* 地址：9/F, Knowles Building
-* 电邮：[mlao@hku.hk](mailto:mlao@hku.hk)
 
 ### 香港大学运动中心 Centre for Sports and Exercise (CSE)
 
@@ -349,21 +456,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * 电话：3917 5500
 * 电邮：[museum@hku.hk](mailto:museum@hku.hk)
 
-### 访客中心 Visitor Centre
-
-教务处（Registry）下属的学术联络部（Academic Liaison Office）的部门之一，负责管理香港大学访客中心、香港大学合作社（HKU Campus Store）等，出售纪念品、文具等。
-
-{% embed url="https://www.visitorcentre.hku.hk/" %}
-
-* 官网：[https://www.visitorcentre.hku.hk/](https://www.visitorcentre.hku.hk/)
-* 地址：
-  * 访客中心：G/F, Centennial Campus
-  * 合作社：UG1/F, Composite Building
-* 电话：
-  * 访客中心：3917 7853
-  * 合作社：3910 2928
-* 电邮：[visitorcentre@hku.hk](mailto:visitorcentre@hku.hk)
-
 ## 二、学院 Faculties & Schools
 
 {% hint style="info" %}
@@ -372,7 +464,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 建筑学院 Faculty of Architecture <a href="#jian-zhu-xue-yuan-faculty-of-architecture" id="jian-zhu-xue-yuan-faculty-of-architecture"></a>
 
-下设建筑学系、房地产及建设系、城市规划及设计系、建筑文物保护课程学部、园境建筑学部等。
+下属建筑学系、房地产及建设系、城市规划及设计系、建筑文物保护课程学部、园境建筑学部等部门。
 
 {% embed url="https://www.arch.hku.hk/" %}
 
@@ -383,7 +475,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 文学院 Faculty of Arts <a href="#wen-xue-yuan-faculty-of-arts" id="wen-xue-yuan-faculty-of-arts"></a>
 
-下设中文学院、英文学院、人文学院、现代语言及文化学院等。
+下属中文学院、英文学院、人文学院、现代语言及文化学院等部门。
 
 {% embed url="https://arts.hku.hk/" %}
 
@@ -415,7 +507,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 教育学院 Faculty of Education
 
-下设沟通、学习与发展；语文研究与教育；数学、科学与科技；教育政策与社会等。
+下属沟通、学习与发展；语文研究与教育；数学、科学与科技；教育政策与社会等部门。
 
 {% embed url="https://web.edu.hku.hk/" %}
 
@@ -426,7 +518,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 工程学院 Faculty of Engineering <a href="#gong-cheng-xue-yuan-faculty-of-engineering" id="gong-cheng-xue-yuan-faculty-of-engineering"></a>
 
-下设土木工程系、计算机科学系、数据与系统工程系、电机与计算机工程系、工业及制造系统工程系、材料与能源系、机械工程系等。
+下属土木工程系、计算机科学系、数据与系统工程系、电机与计算机工程系、工业及制造系统工程系、材料与能源系、机械工程系等部门。
 
 {% embed url="https://engg.hku.hk/" %}
 
@@ -442,7 +534,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 法律学院 Faculty of Law
 
-下设法律学系、法律专业学系等。
+下属法律学系、法律专业学系等部门。
 
 {% embed url="https://www.law.hku.hk/" %}
 
@@ -453,7 +545,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 李嘉诚医学院 Li Ka Shing Faculty of Medicine
 
-下设中医药学院、临床医学学院、护理学院、公共卫生学院、解剖学系、生物化学系、药理及药剂学系、生理学系等。
+下属中医药学院、临床医学学院、护理学院、公共卫生学院、解剖学系、生物化学系、药理及药剂学系、生理学系等部门。
 
 {% embed url="https://www.med.hku.hk/" %}
 
@@ -464,7 +556,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 理学院 Faculty of Science
 
-下设生物科学学院、生态学及生物多样性、细胞及分子生物学、其他研究领域、化学系、地球与行星科学系、数学系、物理学系等。
+下属生物科学学院、生态学及生物多样性、细胞及分子生物学、其他研究领域、化学系、地球与行星科学系、数学系、物理学系等部门。
 
 {% embed url="https://www.scifac.hku.hk/" %}
 
@@ -479,7 +571,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 社会科学学院 Faculty of Social Sciences
 
-下设地理系、政治与公共行政学系、心理学系、社会工作及社会行政学系、社会学系等。
+下属地理系、政治与公共行政学系、心理学系、社会工作及社会行政学系、社会学系等部门。
 
 {% embed url="https://web.socsc.hku.hk/" %}
 
@@ -503,7 +595,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 计算与数据科学学院 School of Computing and Data Science
 
-下设人工智能与数据科学系、计算机科学系、统计及精算学系等。
+下属人工智能与数据科学系、计算机科学系、统计及精算学系等部门。
 
 {% embed url="https://www.cds.hku.hk/" %}
 
@@ -560,7 +652,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 未来媒体学院 School of Future Media
 
-下设新闻及传媒研究中心、纪录片与人工智慧电影制作部、“全球创意产业” 学士课程等。
+下属新闻及传媒研究中心、纪录片与人工智慧电影制作部、“全球创意产业” 学士课程等部门。
 
 {% embed url="https://hkums.hku.hk/" %}
 
@@ -592,6 +684,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 
-最后更新于 2026 年 8 月 19 日。
+最后更新于 2026 年 9 月 23 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

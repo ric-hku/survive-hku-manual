@@ -59,12 +59,12 @@ GPA（Grade Point Average，平均积点）就是各个课程所获积点（Grad
 
 荣誉学位的评定基于学生毕业时的 GGPA：
 
-| 荣誉学位等级 Class of Honours                                                            | GGPA 范围                                            |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------- |
-| First Class Honours 一级荣誉学位                                                         | 3.60 – 4.30                                        |
-| <p>Second Class Honours 二级荣誉学位<br>Division One 二级荣誉甲等<br>Division Two 二级荣誉乙等</p> | <p>（2.40 – 3.59）<br>3.00 – 3.59<br>2.40 – 2.99</p> |
-| Third Class Honours 三级荣誉学位                                                         | 1.70 – 2.39                                        |
-| Pass 普通学位                                                                          | 1.00 – 1.69                                        |
+| 荣誉学位等级 Class of Honours                                                              | GGPA 范围                                            |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| First Class Honours 一级荣誉学位                                                           | 3.60 – 4.30                                        |
+| <p>Second Class Honours 二级荣誉学位<br>- Division One 二级荣誉甲等<br>- Division Two 二级荣誉乙等</p> | <p>（2.40 – 3.59）<br>3.00 – 3.59<br>2.40 – 2.99</p> |
+| Third Class Honours 三级荣誉学位                                                           | 1.70 – 2.39                                        |
+| Pass 普通学位                                                                            | 1.00 – 1.69                                        |
 
 {% hint style="info" %}
 不适用于 BChinMed、BDS、MBBS 学生。
@@ -81,7 +81,7 @@ GPA（Grade Point Average，平均积点）就是各个课程所获积点（Grad
 ## 三、学业成绩表（Transcript）上可能出现的其他符号
 
 * EX：Exemption granted 已批准豁免申请
-* FL：Not examined – counted as Fail  &#x20;未参加考试（计为不合格）
+* FL：Not examined – counted as Fail 未参加考试（计为不合格）
 * N：Absence from examination due to illness 因病缺席考试
 * NC：Did not complete 未完成
 * NE：Not examined – NOT counted as Fail 未参加考试（不计为不合格）
@@ -106,7 +106,7 @@ GPA（Grade Point Average，平均积点）就是各个课程所获积点（Grad
 
 ### Q1. 我的家长 / 监护人能否获知我的成绩？
 
-香港大学所有学生均受香港《个人资料（私隐）条例》保护。因此，学生家长 / 监护人**并无获取学生的个人资料（如学业成绩）的必然权利**。一般情况下，大学会直接与学生通信联系，而非其家长 / 监护人。
+香港大学所有学生均受香港《个人资料（私隐）条例》保护。 因此，学生家长 / 监护人**并无获取学生的个人资料（如学业成绩）的必然权利**。 一般情况下，大学会直接与学生通信联系，而非其家长 / 监护人。
 
 然而，鉴于国际及内地全日制本科生需离开原居地及家人来大学学习，当他们因未达大学 / 课程规定的最低成绩要求由学院转介辍学委员会就应否终止其学习作最终决定时 ，其家长 / 监护人或希望知悉有关情况。
 

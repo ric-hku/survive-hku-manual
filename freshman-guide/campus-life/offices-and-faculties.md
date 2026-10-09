@@ -215,13 +215,13 @@ description: Major Offices & Faculties (Schools)
 
 ### 校园设施服务处 Campus Services Office (CSO)
 
-提供各种校园服务，包括餐饮（膳食、饮用水等）、住宿（研究生堂、柏立基学院）、便利设施（超市、银行、自动售货机等）等。
+提供各种校园服务，包括餐饮（膳食、饮用水等）、住宿（研究生堂、暂时关闭的柏立基学院等）、便利设施（超市、银行、自动售货机等）等。
 
 {% embed url="https://cso.hku.hk/" %}
 
 * 官网：[https://cso.hku.hk/](https://cso.hku.hk/)
 * 电邮：[campus.services@hku.hk](mailto:campus.services@hku.hk)
-* 地址：Robert Black College
+* 地址：G26, Robert Black College
 
 #### 膳食服务 Catering Services
 
@@ -413,14 +413,23 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 * 官网：[https://www.uhs.hku.hk/](https://www.uhs.hku.hk/)
 * 地址：
-  * 普通门诊（含药房）、理疗、健康教育：2/F, Meng Wah Complex
+  * 普通门诊（含药房）、物理治疗、健康教育：2/F, Meng Wah Complex
   * 牙医：3/F, Meng Wah Complex
 * 电话：
   * 普通门诊预约：2549 4686
   * 牙医预约：3917 2510
   * 理疗预约：3917 2509
-  * 其他联系电话（如健康教育、一般咨询、紧急情况），请看官网。
+  * 其他联系电话（如健康教育、一般咨询、紧急情况），详见官网。
 * 电邮：[uhealth@hku.hk](mailto:uhealth@hku.hk)
+
+{% hint style="info" %}
+附：由李嘉诚医学院营运的香港大学医疗保健处（沙宣道）相关信息如下。
+
+* 官网：[https://www.uhssr.hku.hk/zh](https://www.uhssr.hku.hk/zh)
+* 地址：2/F, No.3 Sassoon Road (inside HKU Health System Clinical Centre)
+* 电话：3917 6881
+* 电邮：[uhssr@hku.hk](mailto:uhssr@hku.hk)
+{% endhint %}
 
 ### 香港大学图书馆 University Libraries
 
@@ -507,7 +516,7 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 ### 教育学院 Faculty of Education
 
-下属沟通、学习与发展；语文研究与教育；数学、科学与科技；教育政策与社会等部门。
+下属沟通、学习与发展，语文研究与教育，数学、科学与科技，教育政策与社会等部门。
 
 {% embed url="https://web.edu.hku.hk/" %}
 
@@ -684,6 +693,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 
-最后更新于 2026 年 9 月 23 日。
+最后更新于 2026 年 10 月 9 日。
 
 本文在知识共享 署名—非商业性使用—禁止演绎 4.0 协议（[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)）下提供。

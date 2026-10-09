@@ -265,18 +265,24 @@ description: Major Offices & Faculties (Schools)
 
 * 官网：[https://www.cedars.hku.hk/](https://www.cedars.hku.hk/)
 
-CEDARS 下属多个部门（其联系方式可在 [这里](https://www.cedars.hku.hk/index.php?route=information/contact/index) 找到），包括：
+CEDARS 下属多个部门，包括：
 
 * 学生支持和包容 Student Support and Inclusion\
-  （原：校园生活 Campus Life）
-  * 多元与包容 Diversity and Inclusion\
+  （原：校园生活 Campus Life）\
+  负责学生住宿、管理文娱中心、财政援助、国际学生支持、多元包容等；
+  * 多元包容 Diversity and Inclusion\
     （原：特殊教育需求支持 SEN Support）
 * 心理健康 Mind and Wellbeing\
-  （原：辅导及心理培育组 Counselling and Person Enrichment, CoPE）
+  （原：辅导及心理培育组 Counselling and Person Enrichment, CoPE）\
+  负责心理健康及咨询、危机支持、自助项目等；
 * 职业发展与就业能力 Careers and Employability\
-  （原：就业指导 Careers and Placement）
+  （原：就业指导 Careers and Placement）\
+  负责就业与实习机会、职业技能与市场知识、就业指导与资源、毕业生就业调查等；
 * 学生参与度与领导力 Student Engagement and Leadership\
-  （原：通识教育 General Education）
+  （原：通识教育 General Education）\
+  负责学生组织赋能、领导力与社区参与、学生互助项目（如 Serve 2Gather (S2G)、GLOCAL Connect、Peer Impact Network 等）、校园活动等。
+
+各部门具体的联系方式可在 [这里](https://www.cedars.hku.hk/index.php?route=information/contact/index) 找到。
 
 ### 平等机会事务处 Equal Opportunity Unit (EOU, EOUnit)
 
@@ -689,7 +695,6 @@ EO 下属多个部门。以下给出总部（Head Office）的联系方式：
 
 本文参考了以下网页 / 推送：
 
-* [【RIC科普】更新｜主要学校部门职能](https://mp.weixin.qq.com/s/VDDhhg8Gx1uhNenswREbuA)
 * [Contacts of Major Offices - HKU First Year Experience](https://firstyear.hku.hk/essential-advices-for-thriving/contacts-of-major-offices/#university-offices)
 * [Addresses and Phone Numbers of Key Offices - Full-time 2025-26 - HKU Undergraduate Handbook](https://handbook.hku.hk/ug/full-time-2025-26/contact-information/addresses-and-phone-numbers-of-key-offices.html)
 

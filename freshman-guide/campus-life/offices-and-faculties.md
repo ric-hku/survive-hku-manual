@@ -165,7 +165,7 @@ description: Major Offices & Faculties (Schools)
 
 ### 入学事务部 Admissions Office (AO)
 
-负责收生、入学相关事宜。
+负责本科收生、入学相关事宜，以及处理学生签证申请。
 
 {% embed url="https://admissions.hku.hk/" %}
 

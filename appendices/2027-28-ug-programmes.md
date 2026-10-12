@@ -1,4 +1,5 @@
 ---
+description: List of Undergraduate Programmes, 2027 – 28
 icon: graduation-cap
 ---
 
@@ -8,7 +9,7 @@ icon: graduation-cap
 说明：
 
 1. “课程” 是对英文 “**Programme**” 的翻译；
-2. 格式：**课程编号 中文名称 英文名称及简称 \[学制，默认4年]**；
+2. 格式：**课程编号 中文名称 英文名称及简称 \[修业时长，默认4年]**；
 3. 由多个学院管理的课程，在每个所属学院下方均列出；
 4. 本表仅列出 **2027-28 学年** 招生的课程，按课程编号排列；
 5. 对于需要进一步确定主修科目或学习方向的课程，可供选择的主修科目或学习方向列在课程下方，按名称排列；
@@ -59,8 +60,6 @@ icon: graduation-cap
     * 资讯系统及分析 Information Systems and Analytics
     * 市场学 Marketing
     * 企业开发、设计及创新（需通过指定的甄选程序）Entrepreneurship, Design and Innovation (Selection Process Required)
-    * 中国经济与商业 Business and Economy in China
-    * 商业可持续发展 Sustainability in Business
 * 6767 经济学学士 / 经济金融学学士 Bachelor of Economics / Bachelor of Economics and Finance, BEcon/BEcon\&Fin
   * 经济学学士 Bachelor of Economics, BEcon
   * 经济金融学学士 Bachelor of Economics and Finance, BEcon\&Fin
@@ -279,7 +278,8 @@ icon: graduation-cap
 * 6298 文学士及工学学士（人工智能及数据科学）Bachelor of Arts and Bachelor of Engineering in Artificial Intelligence and Data Science, BA\&BEng(AI\&DataSc) \[5年]
 * 6999 计算与数据科学 Computing and Data Science, CDS
   * 工学学士（计算机科学）Bachelor of Engineering in Computer Science, BEng(CompSc)
-  * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science BEng(AI\&DataSc)
+  * 工学学士（人工智能及数据科学）Bachelor of Engineering in Artificial Intelligence and Data Science, BEng(AI\&DataSc)
+  * 文理学士（应用人工智能）Bachelor of Arts and Sciences in Applied Artificial Intelligence, BASc(AppliedAI)
 
 {% hint style="info" %}
 注：跨学科学院，同时属于工程学院和理学院；由原工程学院的计算机科学系和原理学院的统计及精算学系组成。其 “行政学院”（Administering Faculty）为工程学院。
@@ -319,4 +319,4 @@ BEng(CompSc)、BASc(FinTech) 由工程学院、计算机科学系（Department o
 * [本科课程 | Admissions Office, the Registry](https://admissions.hku.hk/zh-hans/programmes/undergraduate-programmes)
 * [香港大學 - 可選報的課程 - 「大學聯招辦法」](https://www.jupas.edu.hk/tc/programme/hku/)（仅英文）
 
-最后更新于 2026 年 9 月 23 日。
+最后更新于 2026 年 10 月 12 日。
